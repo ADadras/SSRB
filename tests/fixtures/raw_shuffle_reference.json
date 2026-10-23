@@ -1,0 +1,70 @@
+{
+  "shuffle_order": {
+    "raw_capacity": [
+      [
+        0,
+        3,
+        6,
+        7,
+        1,
+        2,
+        4,
+        5
+      ],
+      [
+        6,
+        2,
+        5,
+        0,
+        1,
+        3,
+        7,
+        4
+      ]
+    ],
+    "wide_raw": [
+      [
+        5,
+        3,
+        1,
+        7,
+        2,
+        6,
+        4,
+        0
+      ],
+      [
+        2,
+        3,
+        4,
+        7,
+        1,
+        0,
+        6,
+        5
+      ]
+    ]
+  },
+  "model_initialization": {
+    "raw_capacity": {
+      "initial_states_exact": true,
+      "tensors": 96,
+      "parameters": 1094512
+    },
+    "wide_raw": {
+      "initial_states_exact": true,
+      "tensors": 96,
+      "parameters": 1597162
+    }
+  },
+  "reference": {
+    "raw_capacity": "Original run_e3751, run_e3810 and run_e3820 use the global parent RNG; run_e3960 wide_raw uses a separate generator.",
+    "train_rows": 8,
+    "val_rows": 4,
+    "batch_size": 4,
+    "workers": 0,
+    "optimizer_seed": 0,
+    "epochs": 2,
+    "original_model_file_sha256": "0d0cd81aacd3f379e485f1f4e892061c0592470690780e803abd69ab0247714e"
+  }
+}

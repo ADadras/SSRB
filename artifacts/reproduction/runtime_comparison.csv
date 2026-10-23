@@ -1,0 +1,41 @@
+method,metric,paper,reproduced,difference,relative_difference,exact_match
+Raw base-24,latency ms/image,3.3952335696667433,3.5182526847347617,0.12301911506801844,0.03623288723552921,False
+Raw base-24,latency standard deviation ms/image,0.14341718957068889,0.08989525928150476,-0.05352193028918413,-0.37319048329840343,False
+Raw base-24,peak memory GiB,0.02173328399658203,0.02173328399658203,0.0,0.0,True
+Raw base-24,task-specific parameter count,1094512.0,1094512,0.0,0.0,True
+Raw base-24,total system parameter count,1094512.0,1094512,0.0,0.0,True
+Raw base-29,latency ms/image,3.618456616997719,3.708046827465296,0.08959021046757698,0.02475923299639037,False
+Raw base-29,latency standard deviation ms/image,0.1509272935000125,0.3766032671909945,0.22567597369098202,1.4952628411836149,False
+Raw base-29,peak memory GiB,0.026180267333984375,0.026180267333984375,0.0,0.0,True
+Raw base-29,task-specific parameter count,1597162.0,1597162,0.0,0.0,True
+Raw base-29,total system parameter count,1597162.0,1597162,0.0,0.0,True
+DINO Capacity-WTA,latency ms/image,21.22342217154801,16.590999090112746,-4.632423081435263,-0.21826937446711406,False
+DINO Capacity-WTA,latency standard deviation ms/image,15.517818820879144,1.558177570178077,-13.959641250701068,-0.8995878487715325,False
+DINO Capacity-WTA,peak memory GiB,0.35944366455078125,0.35944366455078125,0.0,0.0,True
+DINO Capacity-WTA,task-specific parameter count,466707.0,466707,0.0,0.0,True
+DINO Capacity-WTA,total system parameter count,86136339.0,86136339,0.0,0.0,True
+Probabilistic U-Net,latency ms/image,11.569810999557376,10.039766363799572,-1.530044635757804,-0.1322445661226738,False
+Probabilistic U-Net,latency standard deviation ms/image,1.5928055400763985,0.40968029966488506,-1.1831252404115133,-0.7427932730286492,False
+Probabilistic U-Net,peak memory GiB,0.026896953582763672,0.026896953582763672,0.0,0.0,True
+Probabilistic U-Net,task-specific parameter count,1790121.0,1790121,0.0,0.0,True
+Probabilistic U-Net,total system parameter count,1790121.0,1790121,0.0,0.0,True
+SSRB,latency ms/image,45.23668950702995,20.337820125743747,-24.898869381286204,-0.550413163576367,False
+SSRB,latency standard deviation ms/image,32.66966800647856,0.38964423306402035,-32.28002377341454,-0.9880732111208859,False
+SSRB,peak memory GiB,0.3644537925720215,0.3644537925720215,0.0,0.0,True
+SSRB,task-specific parameter count,1561219.0,1561219,0.0,0.0,True
+SSRB,total system parameter count,87230851.0,87230851,0.0,0.0,True
+SAM2 AMG,latency ms/image,1549.365583827719,1554.643482430838,5.277898603118956,0.003406490151975539,False
+SAM2 AMG,latency standard deviation ms/image,70.1057902048216,63.82234018853007,-6.283450016291532,-0.08962811770516754,False
+SAM2 AMG,peak memory GiB,2.9362330436706543,2.9362330436706543,0.0,0.0,True
+SAM2 AMG,task-specific parameter count,0.0,0,0.0,,True
+SAM2 AMG,total system parameter count,224446642.0,224446642,0.0,0.0,True
+CIMD,latency ms/image,57378.9669157695,56246.97181684524,-1131.9950989242643,-0.01972839804846952,False
+CIMD,latency standard deviation ms/image,26.787962580859418,11.393210727202547,-15.39475185365687,-0.5746891652244115,False
+CIMD,peak memory GiB,0.9738984107971191,0.9113984107971191,-0.0625,-0.06417507134942835,False
+CIMD,task-specific parameter count,88340058.0,88340058,0.0,0.0,True
+CIMD,total system parameter count,88340058.0,88340058,0.0,0.0,True
+SAM2 with a point from Single,latency ms/image,187.77143283902356,187.6378315500915,-0.1336012889320557,-0.000711510195731382,False
+SAM2 with a point from Single,latency standard deviation ms/image,,2.4390356917223137,,,
+SAM2 with a point from Single,peak memory GiB,1.7441534996032715,1.7441534996032715,0.0,0.0,True
+SAM2 with a point from Single,task-specific parameter count,463109,463109,0,0.0,True
+SAM2 with a point from Single,total system parameter count,310579383,310579383,0,0.0,True

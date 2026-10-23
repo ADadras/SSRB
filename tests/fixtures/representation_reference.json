@@ -1,0 +1,5880 @@
+{
+  "units": [
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8050991321243288,
+      "Waste@8": 0.8982259063342695
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.034825261744550806,
+      "Waste@8": 0.6217714205314225
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.563234684540526,
+      "Waste@8": 0.5947132368587007
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.86242667446235,
+      "Waste@8": 0.9381552046636172
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5969207581507502,
+      "Waste@8": 0.7109968162943651
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6251309635163967,
+      "Waste@8": 0.6348181131985446
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.0038029402766929232,
+      "Waste@8": 0.21329002518831297
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6282073395610341,
+      "Waste@8": 0.9935168110554121
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.04622862613911727,
+      "Waste@8": 0.26263236632047104
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6392399466703031,
+      "Waste@8": 0.9273600812483943
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.044399405105758794,
+      "Waste@8": 0.2262854486050968
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5271636185879246,
+      "Waste@8": 0.8521807702933709
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5683840302160177,
+      "Waste@8": 0.3173142788661939
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6438511966117575,
+      "Waste@8": 0.05730795248363496
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9689201460636916,
+      "Waste@8": 0.49807425199591415
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8129522626520135,
+      "Waste@8": 0.3572483617601365
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6619979551020092,
+      "Waste@8": 0.6695069397569626
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.40072559204449554,
+      "Waste@8": 0.7580211061336858
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7170877815722934,
+      "Waste@8": 0.0022599793605644347
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7816646752531157,
+      "Waste@8": 0.6050703801786849
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5418522410800342,
+      "Waste@8": 0.5267137876502737
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5682509321244075,
+      "Waste@8": 0.6191828943514459
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7893445790718892,
+      "Waste@8": 0.8586593670990136
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9422203431820405,
+      "Waste@8": 0.23338643930576375
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7204185436487026,
+      "Waste@8": 0.25581506824741806
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.433964707621031,
+      "Waste@8": 0.7385142506743461
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8471521677620467,
+      "Waste@8": 0.8079691567888876
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7236075504955208,
+      "Waste@8": 0.46402550047375934
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9720161458597433,
+      "Waste@8": 0.08251324154131712
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7545079598636557,
+      "Waste@8": 0.9350197268899636
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3029200727895649,
+      "Waste@8": 0.37943990643879166
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3116068599039574,
+      "Waste@8": 0.8755066937841965
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.23104314703660933,
+      "Waste@8": 0.10178925463438193
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2349070377767195,
+      "Waste@8": 0.21970845041274212
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.42893896016754374,
+      "Waste@8": 0.18323490206627047
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3394465480514969,
+      "Waste@8": 0.06847042217135613
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3267187999491693,
+      "Waste@8": 0.16758904572895106
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.06906791881935104,
+      "Waste@8": 0.529128749955074
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7161069574086825,
+      "Waste@8": 0.28382345550993626
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9574550388318654,
+      "Waste@8": 0.7102570714297682
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.30894785654619394,
+      "Waste@8": 0.2794584273458167
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.737278096256757,
+      "Waste@8": 0.18936629829934004
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8783871052752577,
+      "Waste@8": 0.39558902585772704
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5050410521865841,
+      "Waste@8": 0.9822468952315088
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8001883881373707,
+      "Waste@8": 0.7795137811961734
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2277681771219945,
+      "Waste@8": 0.46019231905190994
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8805082686683313,
+      "Waste@8": 0.6771669065768648
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4098141857898727,
+      "Waste@8": 0.9836404401417885
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.29146846085395695,
+      "Waste@8": 0.4222936794301301
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9844106607225079,
+      "Waste@8": 0.02163841566903324
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1492034606796575,
+      "Waste@8": 0.1560694086393316
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9081253468724806,
+      "Waste@8": 0.09436618403033825
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3795149285243168,
+      "Waste@8": 0.9535887620398021
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6645604132915707,
+      "Waste@8": 0.4727869099291182
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9767566583442803,
+      "Waste@8": 0.4964244119965865
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9270190164106434,
+      "Waste@8": 0.5152252424976825
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7355020422764126,
+      "Waste@8": 0.4415978704350694
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.16706121922367922,
+      "Waste@8": 0.5303555375256873
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7192193068366023,
+      "Waste@8": 0.13085975583089915
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3237432814177996,
+      "Waste@8": 0.10758024425276957
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6346847824079059,
+      "Waste@8": 0.1740863262532638
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8772920976918085,
+      "Waste@8": 0.23803564232310792
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5241769938416012,
+      "Waste@8": 0.8167799287220531
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.34436388404565,
+      "Waste@8": 0.7860196620907359
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.690331208371652,
+      "Waste@8": 0.18018929902432246
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.36938741328980906,
+      "Waste@8": 0.06729993442018789
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4859311006709569,
+      "Waste@8": 0.4733505276764144
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.012601674324175027,
+      "Waste@8": 0.06383161555724215
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9201330679849034,
+      "Waste@8": 0.21082581176404447
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.496122906378761,
+      "Waste@8": 0.015481349788665333
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.33760298168701575,
+      "Waste@8": 0.38147083078633204
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1744418428564415,
+      "Waste@8": 0.5317500109333636
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4501991426017953,
+      "Waste@8": 0.6408938257649492
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8780193669646746,
+      "Waste@8": 0.13396026013678586
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6882225909686965,
+      "Waste@8": 0.06277761974501339
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5902053667467423,
+      "Waste@8": 0.3315935178044985
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.48004067495072156,
+      "Waste@8": 0.9095973948628396
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6497117968460395,
+      "Waste@8": 0.1294419853532197
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7124524326095453,
+      "Waste@8": 0.820612442664271
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6809433077904093,
+      "Waste@8": 0.8867900536368661
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.09597498008970895,
+      "Waste@8": 0.7808890514783193
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.27788732956304973,
+      "Waste@8": 0.26107715919922214
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6086051661191704,
+      "Waste@8": 0.9570320763287518
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4610191771563743,
+      "Waste@8": 0.5151903019622509
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8321508944641571,
+      "Waste@8": 0.9936891560522221
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8636983397786288,
+      "Waste@8": 0.18130151369748104
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.648835950995215,
+      "Waste@8": 0.5725627160406446
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6260471408975975,
+      "Waste@8": 0.2479778509214784
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8758473297796566,
+      "Waste@8": 0.5755037965786669
+    },
+    {
+      "regime": "BSDS",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4636761525150044,
+      "Waste@8": 0.04893214800398382
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.12494679137908016,
+      "Waste@8": 0.11222541666928565
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4787837157876468,
+      "Waste@8": 0.6975442206634589
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5773796786228007,
+      "Waste@8": 0.49050943151370074
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9425915804121248,
+      "Waste@8": 0.38227782670540333
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4770041657791545,
+      "Waste@8": 0.2763605883155441
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7922679200977019,
+      "Waste@8": 0.4314180647972904
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.635297309623461,
+      "Waste@8": 0.9849631296099919
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8872363562611627,
+      "Waste@8": 0.24245092435808702
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9860560592180196,
+      "Waste@8": 0.5368875319325709
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.14956128738459706,
+      "Waste@8": 0.37396132352864186
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9755567315226716,
+      "Waste@8": 0.8607145266244093
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3446667704634062,
+      "Waste@8": 0.8397964136643794
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9168470558078473,
+      "Waste@8": 0.6770712562734627
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.18357262071335712,
+      "Waste@8": 0.026094303826245557
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.33080336893831264,
+      "Waste@8": 0.5343328533971953
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1767608061071977,
+      "Waste@8": 0.21205825346057905
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9603647876330523,
+      "Waste@8": 0.4698752080083628
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.19040079158239676,
+      "Waste@8": 0.8698895621006911
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7119088873740517,
+      "Waste@8": 0.14946415634311938
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5476322920239337,
+      "Waste@8": 0.5762339958546472
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.36092661904083756,
+      "Waste@8": 0.243121411457361
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.19033782824995715,
+      "Waste@8": 0.9983713775099087
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.17555084255203868,
+      "Waste@8": 0.2725397367476924
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6424445381137941,
+      "Waste@8": 0.7120818544212656
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6425701680109954,
+      "Waste@8": 0.9474286890669319
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.527169101699797,
+      "Waste@8": 0.1960573223854405
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3920867826600676,
+      "Waste@8": 0.4558336301323589
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.740627698405974,
+      "Waste@8": 0.8769278010820267
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9092238449627484,
+      "Waste@8": 0.4042761757712928
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3136052198415552,
+      "Waste@8": 0.521058396519356
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.41768645622536404,
+      "Waste@8": 0.7152326009315786
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5052393027441672,
+      "Waste@8": 0.4615128304544055
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5183723752056839,
+      "Waste@8": 0.9035280061827083
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.18485819337015486,
+      "Waste@8": 0.2582075985092799
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4694138899892606,
+      "Waste@8": 0.6857281154904913
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.09662869332025048,
+      "Waste@8": 0.8974114901374631
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6718319865956047,
+      "Waste@8": 0.2986324128086696
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8518550346948996,
+      "Waste@8": 0.7547181496028871
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.43969403052054834,
+      "Waste@8": 0.792033478302602
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.765662847054948,
+      "Waste@8": 0.12853520267203844
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5675771651619866,
+      "Waste@8": 0.0799066063050099
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9935221745347016,
+      "Waste@8": 0.6271797758214801
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5156863774619151,
+      "Waste@8": 0.15966029591772246
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.44215838248606276,
+      "Waste@8": 0.5074049994460385
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.21865886621194186,
+      "Waste@8": 0.8606760776828082
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6629982509508207,
+      "Waste@8": 0.6251548689108803
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5991518315280269,
+      "Waste@8": 0.3466179232110723
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7168659628261375,
+      "Waste@8": 0.3172118046671586
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7449919427497588,
+      "Waste@8": 0.35715295775008726
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.12948606603715007,
+      "Waste@8": 0.4588097419122513
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.15612224609259662,
+      "Waste@8": 0.25315953020108384
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.056006878122466075,
+      "Waste@8": 0.3298964381316821
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7840165564560311,
+      "Waste@8": 0.3193832129788685
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.46830425604750503,
+      "Waste@8": 0.09671676865033563
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4408342495433816,
+      "Waste@8": 0.17547634194732686
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6930506888968476,
+      "Waste@8": 0.6885113234860241
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7666822120433747,
+      "Waste@8": 0.7588130979519281
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5173525125124048,
+      "Waste@8": 0.8831921124600896
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5084310575582272,
+      "Waste@8": 0.37135575045777514
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.742327699486674,
+      "Waste@8": 0.31668658997632826
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2984866190371269,
+      "Waste@8": 0.17016716041672675
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.16854789022252648,
+      "Waste@8": 0.6268317385572288
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8495938012073814,
+      "Waste@8": 0.5992578768530525
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.14877074548815628,
+      "Waste@8": 0.20472624994699873
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8516316726544377,
+      "Waste@8": 0.759575727683935
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.29592819034890994,
+      "Waste@8": 0.7566246900092152
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8828986230285137,
+      "Waste@8": 0.9589566347897851
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9349007457137619,
+      "Waste@8": 0.014428168209765224
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4691909064801184,
+      "Waste@8": 0.5098311271425435
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6623156701163809,
+      "Waste@8": 0.2275834397596651
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3291125422777629,
+      "Waste@8": 0.1087166085424911
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7142317151026668,
+      "Waste@8": 0.6006679445825055
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9525860746314075,
+      "Waste@8": 0.10439104457594539
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.03436834393648147,
+      "Waste@8": 0.010024125295666209
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.21836789806766688,
+      "Waste@8": 0.825429770248983
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.191561356249083,
+      "Waste@8": 0.7972185418957144
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.900647145390788,
+      "Waste@8": 0.8409935777427063
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11563451504053923,
+      "Waste@8": 0.24462222961436464
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6706809847923706,
+      "Waste@8": 0.9593249398500087
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8196431009390714,
+      "Waste@8": 0.42168029905608195
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5361332978131836,
+      "Waste@8": 0.9286241970421424
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.44846297951229575,
+      "Waste@8": 0.007975685524563514
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6497003782086205,
+      "Waste@8": 0.3368248493438889
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7124411727063896,
+      "Waste@8": 0.48504126563425454
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6444912214569178,
+      "Waste@8": 0.9599882578766934
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.016325126084565822,
+      "Waste@8": 0.05456949390873833
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7870262688298286,
+      "Waste@8": 0.6076098802816341
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5483031713294636,
+      "Waste@8": 0.9865269692827103
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.06578169546853307,
+      "Waste@8": 0.6865899583922285
+    },
+    {
+      "regime": "LIDC",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8552174251312027,
+      "Waste@8": 0.3782616680282348
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.41778365893820224,
+      "Waste@8": 0.01213350694162929
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3767378754850528,
+      "Waste@8": 0.8196923953685494
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7355585865469625,
+      "Waste@8": 0.6325689844105641
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7422448807841115,
+      "Waste@8": 0.7332648811988332
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7100656603823929,
+      "Waste@8": 0.07232131930726882
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1600922211931588,
+      "Waste@8": 0.06416448161886101
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.26797456288955734,
+      "Waste@8": 0.8789465551483644
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.17243089880017926,
+      "Waste@8": 0.7068309355597351
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8535883063464889,
+      "Waste@8": 0.9860002757866366
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5796443944823866,
+      "Waste@8": 0.6128577535267747
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4927432595723429,
+      "Waste@8": 0.9018965572041137
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22237104920365602,
+      "Waste@8": 0.012978523015223287
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6737458741901554,
+      "Waste@8": 0.890315160810159
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3177134754453208,
+      "Waste@8": 0.5028889433232205
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9263650914922172,
+      "Waste@8": 0.7744555993860444
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7133390698063845,
+      "Waste@8": 0.031200956144270653
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.39821223887469337,
+      "Waste@8": 0.2587916420933719
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.12005401339750876,
+      "Waste@8": 0.9247687256874104
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.28503477818343903,
+      "Waste@8": 0.8201505925347597
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5788359208407597,
+      "Waste@8": 0.20485295069468568
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8286448699585521,
+      "Waste@8": 0.45223857257035127
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8215436476762952,
+      "Waste@8": 0.7664389933546646
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8370206210196607,
+      "Waste@8": 0.9592639433693945
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.13507259230935065,
+      "Waste@8": 0.7981782551319503
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.09996264951343248,
+      "Waste@8": 0.3900248695419918
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.029345691395216256,
+      "Waste@8": 0.9091167008853189
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9766207040635543,
+      "Waste@8": 0.05358518296677739
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.39937200751613555,
+      "Waste@8": 0.5841854923035705
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6799256755954385,
+      "Waste@8": 0.7002863098274147
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4761876317755964,
+      "Waste@8": 0.9703483129923501
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8999628702405054,
+      "Waste@8": 0.7420400600127814
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4049107583661533,
+      "Waste@8": 0.24685041391756535
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.735452781049213,
+      "Waste@8": 0.0052603003824569505
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3281811470342131,
+      "Waste@8": 0.2390630038124405
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5765606783907928,
+      "Waste@8": 0.11258537472943342
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6331442676708947,
+      "Waste@8": 0.790886780030993
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.20314362092059923,
+      "Waste@8": 0.14476771424429236
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7475028617282045,
+      "Waste@8": 0.6261043206742699
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.08230035385094558,
+      "Waste@8": 0.7308031794844583
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8070724632393032,
+      "Waste@8": 0.8088242241460316
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8951565431571976,
+      "Waste@8": 0.8695459631635921
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6938042390254913,
+      "Waste@8": 0.40449254655822664
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5686122685105316,
+      "Waste@8": 0.3789627074165226
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.14994880664879395,
+      "Waste@8": 0.15729244958658972
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6101498496755646,
+      "Waste@8": 0.09474305539358285
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.15384378030274137,
+      "Waste@8": 0.4722641433745314
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.29259912617147543,
+      "Waste@8": 0.4235899070429443
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7750752484332881,
+      "Waste@8": 0.31610301495815185
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6021121742338138,
+      "Waste@8": 0.24971099442228095
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.18565135055926418,
+      "Waste@8": 0.9438581294796284
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.656232992755177,
+      "Waste@8": 0.7829089757321344
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.46488379096328314,
+      "Waste@8": 0.5345905847920162
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22635933283982523,
+      "Waste@8": 0.5441933895778843
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.17426008881950572,
+      "Waste@8": 0.24137874333460252
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9385461864797572,
+      "Waste@8": 0.38170511717074496
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7672792198720689,
+      "Waste@8": 0.5911194597880884
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7064509974221485,
+      "Waste@8": 0.7412708316559437
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.37128935569364063,
+      "Waste@8": 0.8007540046634369
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8342207030582509,
+      "Waste@8": 0.8035498292937772
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6264900070461332,
+      "Waste@8": 0.15781261205989872
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.38348851386953875,
+      "Waste@8": 0.12274748462562302
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6076019030600724,
+      "Waste@8": 0.5242970381223448
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.47672427037297993,
+      "Waste@8": 0.9502826317340888
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5933469641699083,
+      "Waste@8": 0.13582968824975883
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8331740426909849,
+      "Waste@8": 0.13009093381770498
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5691724840066613,
+      "Waste@8": 0.2760564680910442
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6412662548283659,
+      "Waste@8": 0.3902571488313804
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.440312379109273,
+      "Waste@8": 0.46349231928692913
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7435318748298108,
+      "Waste@8": 0.10605411505366524
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.744807489975303,
+      "Waste@8": 0.6757738125283665
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.445180177286734,
+      "Waste@8": 0.2503731965785475
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.45888857536587635,
+      "Waste@8": 0.9205814699864489
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.367189820377102,
+      "Waste@8": 0.7895894017948579
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2901188213312953,
+      "Waste@8": 0.6638553051782836
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5196897314281923,
+      "Waste@8": 0.29132027105011316
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7917632818258394,
+      "Waste@8": 0.14854501521364993
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.10527937577555924,
+      "Waste@8": 0.8080431529258775
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.012490213018906404,
+      "Waste@8": 0.6820162542238343
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4460336099998471,
+      "Waste@8": 0.43760899532952346
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5722699401999873,
+      "Waste@8": 0.9429397340196563
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6446000624356293,
+      "Waste@8": 0.6245302296856434
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.639189197346542,
+      "Waste@8": 0.7935520855759519
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2787295977227938,
+      "Waste@8": 0.6678256142610159
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6837975539600285,
+      "Waste@8": 0.4030630063938433
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8982889362923349,
+      "Waste@8": 0.6407419502354722
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5632838014099248,
+      "Waste@8": 0.5340275018961649
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6134254079319604,
+      "Waste@8": 0.3584361720116208
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6522177147174614,
+      "Waste@8": 0.18615891569730603
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8116237163244254,
+      "Waste@8": 0.006069090959499035
+    },
+    {
+      "regime": "LIDC-hard",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9817325517217993,
+      "Waste@8": 0.24732910717578294
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2886374988101025,
+      "Waste@8": 0.16872508104806272
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.05746474911774513,
+      "Waste@8": 0.7563393701921017
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2690002666987088,
+      "Waste@8": 0.5439193486660598
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2562575294696473,
+      "Waste@8": 0.9979481688169968
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6575062121320072,
+      "Waste@8": 0.055248387417066724
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.543493077833101,
+      "Waste@8": 0.6828201228386533
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1652950404683735,
+      "Waste@8": 0.16226366420141414
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2508580779649028,
+      "Waste@8": 0.39067191339516616
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7488621436063446,
+      "Waste@8": 0.188893549952884
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2016133008780706,
+      "Waste@8": 0.1599890867159096
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7068176234169274,
+      "Waste@8": 0.8438522795652454
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8592490545653059,
+      "Waste@8": 0.8921365861167074
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.77437981025273,
+      "Waste@8": 0.5346738759331653
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8915637711735986,
+      "Waste@8": 0.19447032900239858
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.06133261134159729,
+      "Waste@8": 0.6344625303705146
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.30904574432026,
+      "Waste@8": 0.358151986308902
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4442257777493165,
+      "Waste@8": 0.3813755920703136
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.47491004391296276,
+      "Waste@8": 0.9902631196170557
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.24768894293455224,
+      "Waste@8": 0.4041027863558162
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8212869275208782,
+      "Waste@8": 0.8961140612983817
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.08872224346792235,
+      "Waste@8": 0.6948068571200543
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4271304774496705,
+      "Waste@8": 0.7710864784477981
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.17131730675806844,
+      "Waste@8": 0.16206706795867276
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.12492523117409027,
+      "Waste@8": 0.9088403138704859
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4269318568317392,
+      "Waste@8": 0.2457553895032123
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.10705952692083076,
+      "Waste@8": 0.719842050303895
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.16915633330448432,
+      "Waste@8": 0.3926050019507632
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11196275547308121,
+      "Waste@8": 0.14594940716598004
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.931094874028947,
+      "Waste@8": 0.28043897926325057
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6329364151542386,
+      "Waste@8": 0.3979572188930559
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11067055767929213,
+      "Waste@8": 0.536689379896539
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22066554301936514,
+      "Waste@8": 0.03008330880005572
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11796554569770934,
+      "Waste@8": 0.4012697972593213
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.26416440484675263,
+      "Waste@8": 0.6879596366425549
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5314877482736345,
+      "Waste@8": 0.25693183004859144
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2949284892492495,
+      "Waste@8": 0.36412724302177524
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.19363671600099663,
+      "Waste@8": 0.6889351883252387
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3274545688885204,
+      "Waste@8": 0.14135651414932104
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9740756342369057,
+      "Waste@8": 0.8183405032903023
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4644193603517024,
+      "Waste@8": 0.9499300500211024
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3809414303204073,
+      "Waste@8": 0.6611897148790533
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.37157540388436383,
+      "Waste@8": 0.6564325084146494
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9880216049775312,
+      "Waste@8": 0.09053447108760115
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9232454695013651,
+      "Waste@8": 0.16659497413029722
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.019980985650675742,
+      "Waste@8": 0.8411450333529714
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.46202062686533285,
+      "Waste@8": 0.9158198201598043
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5965056169037279,
+      "Waste@8": 0.8639621286463424
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1935395890906375,
+      "Waste@8": 0.841897970711633
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.08275554639099503,
+      "Waste@8": 0.4194974393115135
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.406452058760327,
+      "Waste@8": 0.9776526699004513
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4100562933038826,
+      "Waste@8": 0.406435200548108
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4444669838887486,
+      "Waste@8": 0.8840949157631071
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9606644348349235,
+      "Waste@8": 0.38718357427842975
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7298445689007775,
+      "Waste@8": 0.5566417447037251
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9436415840106342,
+      "Waste@8": 0.0992892329586822
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8514878321204391,
+      "Waste@8": 0.0270726271343511
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1840788821257261,
+      "Waste@8": 0.6813226574405624
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8268663457123492,
+      "Waste@8": 0.5788169543829498
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9527917594825824,
+      "Waste@8": 0.25159392498341804
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2877201495431201,
+      "Waste@8": 0.2703103129982096
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.687583558294919,
+      "Waste@8": 0.6215708780820381
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.41009270317995117,
+      "Waste@8": 0.3216163909407138
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1850218297104953,
+      "Waste@8": 0.1813904808142136
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9966544636455196,
+      "Waste@8": 0.004353814610517426
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.538095164087531,
+      "Waste@8": 0.45109982370864377
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6658145374034187,
+      "Waste@8": 0.6020314558013982
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3588582267502286,
+      "Waste@8": 0.06737653576565872
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8445113596296556,
+      "Waste@8": 0.845315346537655
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.04853447527333077,
+      "Waste@8": 0.9191508019449919
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4806692904415215,
+      "Waste@8": 0.10307024225106509
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.372840430210171,
+      "Waste@8": 0.6231543944541852
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4115969416445536,
+      "Waste@8": 0.3635756831494613
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.25490543862081383,
+      "Waste@8": 0.07020492695504332
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7254233284008523,
+      "Waste@8": 0.47352449036388966
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.033968197710939285,
+      "Waste@8": 0.2664215888427919
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.901873986521879,
+      "Waste@8": 0.6016290022498973
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.673934815353226,
+      "Waste@8": 0.4937092904328382
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8295914724777709,
+      "Waste@8": 0.45207111739546524
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.40493948880618946,
+      "Waste@8": 0.521955101209522
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8557471867911992,
+      "Waste@8": 0.4216327619423047
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.13490925890270655,
+      "Waste@8": 0.3498617403498191
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8448014550476227,
+      "Waste@8": 0.22063581993103165
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8801748934060528,
+      "Waste@8": 0.6166556333877073
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8615130284427218,
+      "Waste@8": 0.5475677918654415
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.35024492910343996,
+      "Waste@8": 0.9331620349189572
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.340768929063733,
+      "Waste@8": 0.6070760970910296
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4646791366252555,
+      "Waste@8": 0.39435893442059555
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5663757819774908,
+      "Waste@8": 0.5613400501460213
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22629941693631317,
+      "Waste@8": 0.2419619681773344
+    },
+    {
+      "regime": "IMA++",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6405764857975309,
+      "Waste@8": 0.6406061431918474
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5960149063521248,
+      "Waste@8": 0.5269719317166306
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5796343830035429,
+      "Waste@8": 0.16850942421462145
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6483437100715885,
+      "Waste@8": 0.16186885531703077
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8464732612844074,
+      "Waste@8": 0.865596157349063
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8669468204008547,
+      "Waste@8": 0.05416575984481309
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.01174307022621257,
+      "Waste@8": 0.20742687050145092
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.27271374375369917,
+      "Waste@8": 0.6632291266202561
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.10016712055381671,
+      "Waste@8": 0.5177045659710142
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.0033528086370434584,
+      "Waste@8": 0.4159419826768074
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.15714132015267157,
+      "Waste@8": 0.11994097865640319
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1815187838089345,
+      "Waste@8": 0.313236865525244
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8815480846306347,
+      "Waste@8": 0.6835054063374444
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7482301072383113,
+      "Waste@8": 0.5265192925369141
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6818767477399128,
+      "Waste@8": 0.2373945775535954
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5377076240670614,
+      "Waste@8": 0.2081439699590134
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6792759487210758,
+      "Waste@8": 0.261141363264779
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9741941962395739,
+      "Waste@8": 0.21959102876068415
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2564641430230018,
+      "Waste@8": 0.5173640926835945
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.19872476022423047,
+      "Waste@8": 0.23487059186717163
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.49010626793560363,
+      "Waste@8": 0.6556342910204614
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.18269959074912978,
+      "Waste@8": 0.6936961184889892
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8626035634331894,
+      "Waste@8": 0.13589600233598975
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.017423995815056492,
+      "Waste@8": 0.9712684792994521
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7818078830109075,
+      "Waste@8": 0.4369692719727807
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.41825254271089907,
+      "Waste@8": 0.6756000518547198
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6134533028321147,
+      "Waste@8": 0.817725708536098
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7327761688417809,
+      "Waste@8": 0.9980628496638652
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.185768507923309,
+      "Waste@8": 0.5816881021440866
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6891789780532084,
+      "Waste@8": 0.935801964970141
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1602731615375782,
+      "Waste@8": 0.244398667548824
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8118627051386504,
+      "Waste@8": 0.5583247136253462
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.16420920054292076,
+      "Waste@8": 0.16847157142526448
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6284889004153035,
+      "Waste@8": 0.6418906550074783
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9648001819987769,
+      "Waste@8": 0.568406791431921
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9542914391824072,
+      "Waste@8": 0.48540493931473183
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.10611970952560057,
+      "Waste@8": 0.6700150124085964
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4519404034957196,
+      "Waste@8": 0.19918631021460453
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7964225485257754,
+      "Waste@8": 0.0302681453244128
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9656815582115988,
+      "Waste@8": 0.24075355213884875
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2545392707233143,
+      "Waste@8": 0.6124629575051739
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2353242339040954,
+      "Waste@8": 0.07225921546714742
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5577698004275654,
+      "Waste@8": 0.23840291798818447
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8787390884141182,
+      "Waste@8": 0.11463424723092075
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8718943771703432,
+      "Waste@8": 0.9347126271561566
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3260178303388829,
+      "Waste@8": 0.21523039508236808
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.0018158598814685956,
+      "Waste@8": 0.9804660665490401
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7563003970725544,
+      "Waste@8": 0.6931484889532675
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7816615941538343,
+      "Waste@8": 0.027713126245033193
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9065257626358806,
+      "Waste@8": 0.5758112165897351
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.40100016886613365,
+      "Waste@8": 0.6032171238895535
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.06720770476499538,
+      "Waste@8": 0.2598810739339533
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.14203688275912818,
+      "Waste@8": 0.016733498642559685
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4942034348471199,
+      "Waste@8": 0.4462791108250128
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5100971444907806,
+      "Waste@8": 0.38324846942549395
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.06582668165596117,
+      "Waste@8": 0.13157152823892393
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7192978793425658,
+      "Waste@8": 0.6064445318507193
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.395090350875702,
+      "Waste@8": 0.09267181178476014
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4886123320381285,
+      "Waste@8": 0.5945906921206093
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4522237266035104,
+      "Waste@8": 0.478676090177685
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9661672820978934,
+      "Waste@8": 0.9263372039393095
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8172683662704301,
+      "Waste@8": 0.7285818155232702
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.45725621113885206,
+      "Waste@8": 0.0576810175063448
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4292275513814666,
+      "Waste@8": 0.8149033656962985
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3444825368411698,
+      "Waste@8": 0.7123638670997354
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.40585619728838773,
+      "Waste@8": 0.5504023388698999
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22021061271210718,
+      "Waste@8": 0.01397097602288333
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.13448630628714697,
+      "Waste@8": 0.792508159537116
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.09045423342219627,
+      "Waste@8": 0.9657666722842688
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.030770642913127033,
+      "Waste@8": 0.8264767599244294
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2157913608250147,
+      "Waste@8": 0.3915094781861269
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.46397109537701997,
+      "Waste@8": 0.12098255697390015
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5749173965759893,
+      "Waste@8": 0.6453365013886853
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3734122529804623,
+      "Waste@8": 0.6347721498016221
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.45170674963443047,
+      "Waste@8": 0.9937352285367912
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7188379983491957,
+      "Waste@8": 0.6096548028404507
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.118129850573649,
+      "Waste@8": 0.9622451156976175
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.25267322382387614,
+      "Waste@8": 0.797235966620394
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8629624076590051,
+      "Waste@8": 0.5467263425599072
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22769050935894042,
+      "Waste@8": 0.45103999309522713
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.16947979966989868,
+      "Waste@8": 0.7455490454988621
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3472065561761073,
+      "Waste@8": 0.7529093058473624
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.37631817967157466,
+      "Waste@8": 0.44465312804127577
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.21292656807385424,
+      "Waste@8": 0.7291096856027443
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5694933885779709,
+      "Waste@8": 0.9011695324649207
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4337117643323112,
+      "Waste@8": 0.3680312711315168
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.02333587235094403,
+      "Waste@8": 0.04089163466027523
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8936457481951414,
+      "Waste@8": 0.9764549156637234
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8266263846945694,
+      "Waste@8": 0.5201185404172374
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6595828079540211,
+      "Waste@8": 0.6629518540475399
+    },
+    {
+      "regime": "RIGA-disc",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.07498088483546217,
+      "Waste@8": 0.8109379268573281
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8551484441078832,
+      "Waste@8": 0.4103030232975352
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11940700919313296,
+      "Waste@8": 0.23257644492220064
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4439651819614202,
+      "Waste@8": 0.20070395974099975
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4638065730170171,
+      "Waste@8": 0.47368080649207955
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7520659529319271,
+      "Waste@8": 0.9968628570458788
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8370645937531014,
+      "Waste@8": 0.04839853812035533
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.16389727828245537,
+      "Waste@8": 0.10028746349469497
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2516319360142275,
+      "Waste@8": 0.8058028066785511
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8659804549331245,
+      "Waste@8": 0.2923672533927939
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8648363642183552,
+      "Waste@8": 0.9570538454666361
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1464329398606824,
+      "Waste@8": 0.0014808433848595426
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.36972801499103547,
+      "Waste@8": 0.02088434422809038
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.046879826670919944,
+      "Waste@8": 0.4796517913966144
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9832569112944076,
+      "Waste@8": 0.8891953531849416
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5181306297169211,
+      "Waste@8": 0.8293695924782133
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.48001734746322633,
+      "Waste@8": 0.820901693655785
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7277688624346282,
+      "Waste@8": 0.518977477803905
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9553106287485116,
+      "Waste@8": 0.8002160801257977
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.011028640405166268,
+      "Waste@8": 0.5408152285622848
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.47969044312056064,
+      "Waste@8": 0.9824205159452619
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9568041244421975,
+      "Waste@8": 0.22839728284604466
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6130121930215983,
+      "Waste@8": 0.7386008408938085
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.525969128367903,
+      "Waste@8": 0.7984595883747706
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7237655196614116,
+      "Waste@8": 0.749432267421428
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3597241097879519,
+      "Waste@8": 0.10925810147721049
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.703296210149654,
+      "Waste@8": 0.6400565373719747
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7155934336082633,
+      "Waste@8": 0.49852581771718096
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.32530798878493405,
+      "Waste@8": 0.8336943443893525
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9039771163299547,
+      "Waste@8": 0.9286794886741916
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 0,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2979113198089447,
+      "Waste@8": 0.7301988943227034
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8353720361449501,
+      "Waste@8": 0.39379848394357964
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5705239343144217,
+      "Waste@8": 0.17467864557013435
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4774645826313031,
+      "Waste@8": 0.9640948806635896
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.277713198401598,
+      "Waste@8": 0.48507651842198896
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2049504298776761,
+      "Waste@8": 0.5546613254654893
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4274852794311199,
+      "Waste@8": 0.917146591133902
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8367543342986946,
+      "Waste@8": 0.45102026532570205
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5812246541634003,
+      "Waste@8": 0.40068342370728127
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7787798922878065,
+      "Waste@8": 0.1066814144378121
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9306031979960042,
+      "Waste@8": 0.7933207856830976
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8304676015489377,
+      "Waste@8": 0.42167467821838744
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9406152890919509,
+      "Waste@8": 0.3721606093895121
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.667364540734032,
+      "Waste@8": 0.9162761161553074
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7719295827345196,
+      "Waste@8": 0.8426190712329891
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5137497045514564,
+      "Waste@8": 0.8875600745629226
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3250672240324727,
+      "Waste@8": 0.8842355350581311
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9842961146631177,
+      "Waste@8": 0.38326643508297886
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1456913181944497,
+      "Waste@8": 0.785513107750417
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.018473602599875183,
+      "Waste@8": 0.2628726618688738
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2707539822356041,
+      "Waste@8": 0.34268785852843675
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.056754392310151336,
+      "Waste@8": 0.06846886830112353
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6522705496962623,
+      "Waste@8": 0.11882718648654544
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4578844593586121,
+      "Waste@8": 0.12359481716841392
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6204839061107338,
+      "Waste@8": 0.7670867354608472
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.20289802020697179,
+      "Waste@8": 0.14621017428710292
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9178823081103923,
+      "Waste@8": 0.12294715338191275
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8233797391012437,
+      "Waste@8": 0.21201728535829178
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.25912009615622567,
+      "Waste@8": 0.5042742871980793
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.18950901995435754,
+      "Waste@8": 0.2614573252851702
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 1,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9126021947946369,
+      "Waste@8": 0.6303411663367554
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3505915191681639,
+      "Waste@8": 0.483760674432858
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9697686025414106,
+      "Waste@8": 0.566556880772057
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_00",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11759842939371568,
+      "Waste@8": 0.9416997619003002
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.22844931015768877,
+      "Waste@8": 0.4336160900847491
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.28371364576071423,
+      "Waste@8": 0.12302006103982732
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_01",
+      "source_id": "synthetic_00",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.8735635810279898,
+      "Waste@8": 0.960735659670042
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.12573239645202405,
+      "Waste@8": 0.7484524394660969
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.047020788193831264,
+      "Waste@8": 0.3021353821541395
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_02",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3403330083670987,
+      "Waste@8": 0.6138165706365434
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.09528150843843997,
+      "Waste@8": 0.2014192584788469
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.42764310196851074,
+      "Waste@8": 0.17116942038548522
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_03",
+      "source_id": "synthetic_01",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4419367231823018,
+      "Waste@8": 0.6361673065674074
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.11831481152566248,
+      "Waste@8": 0.9329918282476106
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3200030662977127,
+      "Waste@8": 0.4021839814773416
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_04",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7687700954828418,
+      "Waste@8": 0.7285166256077021
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1382403979023451,
+      "Waste@8": 0.897978793793752
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2106711187056154,
+      "Waste@8": 0.43945194576843793
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_05",
+      "source_id": "synthetic_02",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.39170944144621545,
+      "Waste@8": 0.404794555761957
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.1471766192579158,
+      "Waste@8": 0.6261098162276999
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.7549260480718168,
+      "Waste@8": 0.3631683393077978
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_06",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.5095552228293465,
+      "Waste@8": 0.7815982198880803
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.6058291308061647,
+      "Waste@8": 0.4651665158793865
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.44212880094754525,
+      "Waste@8": 0.27996690021852755
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_07",
+      "source_id": "synthetic_03",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.3704276570081345,
+      "Waste@8": 0.30058453624480486
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4562361161627322,
+      "Waste@8": 0.5208889135633847
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.022140052695838297,
+      "Waste@8": 0.34587463765365756
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_08",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.9981068348431277,
+      "Waste@8": 0.008119876916691138
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_residual_fusion",
+      "visible_memberships": 3,
+      "MLQ@8": 0.4777251748655883,
+      "Waste@8": 0.29599316808739085
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "dino_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.37653968752859024,
+      "Waste@8": 0.4022236871938083
+    },
+    {
+      "regime": "RIGA-cup",
+      "optimizer_seed": 2,
+      "image_id": "synthetic_09",
+      "source_id": "synthetic_04",
+      "method_canonical": "raw_capacity",
+      "visible_memberships": 3,
+      "MLQ@8": 0.2698120730269983,
+      "Waste@8": 0.197294682961779
+    }
+  ],
+  "stages": {
+    "stage_a": {
+      "effects": [
+        {
+          "regime": "LIDC-hard",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": 0.06250301706288658,
+          "ci95_low": -0.07865235579216254,
+          "ci95_high": 0.184825346123675,
+          "simultaneous_ci95_low": -0.10564240575891848,
+          "simultaneous_ci95_high": 0.23064843988469164
+        },
+        {
+          "regime": "LIDC-hard",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.011202788403550601,
+          "ci95_low": -0.125419547497732,
+          "ci95_high": 0.09116375312614441,
+          "simultaneous_ci95_low": -0.15099880255041237,
+          "simultaneous_ci95_high": 0.12859322574331117
+        },
+        {
+          "regime": "BSDS",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.008785543621927516,
+          "ci95_low": -0.17300102928567984,
+          "ci95_high": 0.17050097757184687,
+          "simultaneous_ci95_low": -0.2249648936830078,
+          "simultaneous_ci95_high": 0.20739380643915276
+        },
+        {
+          "regime": "LIDC-hard",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.05175463360969612,
+          "ci95_low": -0.14016811478618657,
+          "ci95_high": 0.09617563596952831,
+          "simultaneous_ci95_low": -0.19392562499293026,
+          "simultaneous_ci95_high": 0.09041635777353801
+        },
+        {
+          "regime": "BSDS",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.053534503717911186,
+          "ci95_low": -0.2215071462485931,
+          "ci95_high": 0.1453414795979762,
+          "simultaneous_ci95_low": -0.2708436122979904,
+          "simultaneous_ci95_high": 0.16377460486216805
+        },
+        {
+          "regime": "BSDS",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": 0.027442662066593626,
+          "ci95_low": -0.03754927265954713,
+          "ci95_high": 0.09615909458982681,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        },
+        {
+          "regime": "BSDS",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": 0.006308606718151422,
+          "ci95_low": -0.22136412959863042,
+          "ci95_high": 0.15578575559709187,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        },
+        {
+          "regime": "LIDC",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.02617388408003185,
+          "ci95_low": -0.13705972856298287,
+          "ci95_high": 0.16842743722493264,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        },
+        {
+          "regime": "LIDC",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": 0.0822139593858261,
+          "ci95_low": -0.15039155571577262,
+          "ci95_high": 0.35025173662165576,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        },
+        {
+          "regime": "LIDC",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": 0.0018778365795876217,
+          "ci95_low": -0.13482774640362258,
+          "ci95_high": 0.15328398840104537,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        },
+        {
+          "regime": "LIDC",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": -0.07905224782464915,
+          "ci95_low": -0.30596141422961004,
+          "ci95_high": 0.14315507367991379,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        },
+        {
+          "regime": "LIDC-hard",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": -5.36954973571202e-05,
+          "ci95_low": -0.10413285110428079,
+          "ci95_high": 0.11386283605691297,
+          "simultaneous_ci95_low": null,
+          "simultaneous_ci95_high": null
+        }
+      ],
+      "gates": [
+        {
+          "gate": "LIDC-hard gain vs DINO",
+          "regime": "LIDC-hard",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": 0.06250301706288658,
+          "simultaneous_ci95_low": -0.10564240575891848,
+          "simultaneous_ci95_high": 0.23064843988469164,
+          "threshold": 0.01,
+          "passed": false
+        },
+        {
+          "gate": "LIDC-hard noninferior vs raw",
+          "regime": "LIDC-hard",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.011202788403550601,
+          "simultaneous_ci95_low": -0.15099880255041237,
+          "simultaneous_ci95_high": 0.12859322574331117,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "LIDC-hard Waste vs DINO",
+          "regime": "LIDC-hard",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.05175463360969612,
+          "simultaneous_ci95_low": -0.19392562499293026,
+          "simultaneous_ci95_high": 0.09041635777353801,
+          "threshold": 0.05,
+          "passed": false
+        },
+        {
+          "gate": "BSDS noninferior vs DINO",
+          "regime": "BSDS",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.008785543621927516,
+          "simultaneous_ci95_low": -0.2249648936830078,
+          "simultaneous_ci95_high": 0.20739380643915276,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "BSDS Waste vs DINO",
+          "regime": "BSDS",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.053534503717911186,
+          "simultaneous_ci95_low": -0.2708436122979904,
+          "simultaneous_ci95_high": 0.16377460486216805,
+          "threshold": 0.05,
+          "passed": false
+        }
+      ],
+      "decision": "Fusion F3: Stage-A failure",
+      "critical": {
+        "MLQ": 2.422277718002791,
+        "Waste": 2.3705008812605386
+      }
+    },
+    "stage_b": {
+      "effects": [
+        {
+          "regime": "IMA++",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.10740887430416712,
+          "ci95_low": -0.22251105117434317,
+          "ci95_high": 0.061552762503335155,
+          "simultaneous_ci95_low": -0.2951085502823563,
+          "simultaneous_ci95_high": 0.08029080167402206
+        },
+        {
+          "regime": "IMA++",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": 0.06679849933638865,
+          "ci95_low": -0.21389394020991578,
+          "ci95_high": 0.28695059346732854,
+          "simultaneous_ci95_low": -0.28185488230654737,
+          "simultaneous_ci95_high": 0.4154518809793247
+        },
+        {
+          "regime": "RIGA-disc",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.0142365139601065,
+          "ci95_low": -0.21670809709782726,
+          "ci95_high": 0.14465272899541404,
+          "simultaneous_ci95_low": -0.2693018516361482,
+          "simultaneous_ci95_high": 0.24082882371593523
+        },
+        {
+          "regime": "RIGA-disc",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.014115198836744558,
+          "ci95_low": -0.257856843325676,
+          "ci95_high": 0.26635927014301053,
+          "simultaneous_ci95_low": -0.3848589650522693,
+          "simultaneous_ci95_high": 0.3566285673787802
+        },
+        {
+          "regime": "RIGA-cup",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.10982003195354612,
+          "ci95_low": -0.2795783457376872,
+          "ci95_high": 0.03917633611494853,
+          "simultaneous_ci95_low": -0.3300001974283141,
+          "simultaneous_ci95_high": 0.1103601335212219
+        },
+        {
+          "regime": "RIGA-cup",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.18434002386580778,
+          "ci95_low": -0.33940881343996593,
+          "ci95_high": -0.02407501102497528,
+          "simultaneous_ci95_low": -0.421428769274916,
+          "simultaneous_ci95_high": 0.052748721543300486
+        },
+        {
+          "regime": "IMA++",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.0011425358429000831,
+          "ci95_low": -0.22314616717215738,
+          "ci95_high": 0.2576486633995158,
+          "simultaneous_ci95_low": -0.3150945433149164,
+          "simultaneous_ci95_high": 0.3128094716291162
+        },
+        {
+          "regime": "IMA++",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": -0.11253839799158044,
+          "ci95_low": -0.2649360445642194,
+          "ci95_high": 0.03360539883420181,
+          "simultaneous_ci95_low": -0.3492730892346004,
+          "simultaneous_ci95_high": 0.1241962932514395
+        },
+        {
+          "regime": "RIGA-disc",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.004158512388516611,
+          "ci95_low": -0.2342624307778169,
+          "ci95_high": 0.20234625168286077,
+          "simultaneous_ci95_low": -0.34651038834368214,
+          "simultaneous_ci95_high": 0.3381933635666489
+        },
+        {
+          "regime": "RIGA-disc",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": -0.007086586444807308,
+          "ci95_low": -0.22191870038297468,
+          "ci95_high": 0.1827965258858236,
+          "simultaneous_ci95_low": -0.3255852855348122,
+          "simultaneous_ci95_high": 0.3114121126451976
+        },
+        {
+          "regime": "RIGA-cup",
+          "candidate": "raw_residual_fusion",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": 0.07360009229391257,
+          "ci95_low": -0.16269583949729802,
+          "ci95_high": 0.2734531080663612,
+          "simultaneous_ci95_low": -0.20937768104716997,
+          "simultaneous_ci95_high": 0.3565778656349951
+        },
+        {
+          "regime": "RIGA-cup",
+          "candidate": "raw_residual_fusion",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": 0.011454803062403318,
+          "ci95_low": -0.2213454503144058,
+          "ci95_high": 0.1483999741465861,
+          "simultaneous_ci95_low": -0.259213921295018,
+          "simultaneous_ci95_high": 0.28212352741982466
+        }
+      ],
+      "gates": [
+        {
+          "gate": "IMA++ MLQ vs dino_capacity",
+          "regime": "IMA++",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.10740887430416712,
+          "simultaneous_ci95_low": -0.2951085502823563,
+          "simultaneous_ci95_high": 0.08029080167402206,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "IMA++ Waste vs dino_capacity",
+          "regime": "IMA++",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.0011425358429000831,
+          "simultaneous_ci95_low": -0.3150945433149164,
+          "simultaneous_ci95_high": 0.3128094716291162,
+          "threshold": 0.05,
+          "passed": false
+        },
+        {
+          "gate": "IMA++ MLQ vs raw_capacity",
+          "regime": "IMA++",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": 0.06679849933638865,
+          "simultaneous_ci95_low": -0.28185488230654737,
+          "simultaneous_ci95_high": 0.4154518809793247,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "IMA++ Waste vs raw_capacity",
+          "regime": "IMA++",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": -0.11253839799158044,
+          "simultaneous_ci95_low": -0.3492730892346004,
+          "simultaneous_ci95_high": 0.1241962932514395,
+          "threshold": 0.05,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-disc MLQ vs dino_capacity",
+          "regime": "RIGA-disc",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.0142365139601065,
+          "simultaneous_ci95_low": -0.2693018516361482,
+          "simultaneous_ci95_high": 0.24082882371593523,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-disc Waste vs dino_capacity",
+          "regime": "RIGA-disc",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": -0.004158512388516611,
+          "simultaneous_ci95_low": -0.34651038834368214,
+          "simultaneous_ci95_high": 0.3381933635666489,
+          "threshold": 0.05,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-disc MLQ vs raw_capacity",
+          "regime": "RIGA-disc",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.014115198836744558,
+          "simultaneous_ci95_low": -0.3848589650522693,
+          "simultaneous_ci95_high": 0.3566285673787802,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-disc Waste vs raw_capacity",
+          "regime": "RIGA-disc",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": -0.007086586444807308,
+          "simultaneous_ci95_low": -0.3255852855348122,
+          "simultaneous_ci95_high": 0.3114121126451976,
+          "threshold": 0.05,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-cup MLQ vs dino_capacity",
+          "regime": "RIGA-cup",
+          "comparator": "dino_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.10982003195354612,
+          "simultaneous_ci95_low": -0.3300001974283141,
+          "simultaneous_ci95_high": 0.1103601335212219,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-cup Waste vs dino_capacity",
+          "regime": "RIGA-cup",
+          "comparator": "dino_capacity",
+          "metric": "Waste@8",
+          "effect": 0.07360009229391257,
+          "simultaneous_ci95_low": -0.20937768104716997,
+          "simultaneous_ci95_high": 0.3565778656349951,
+          "threshold": 0.05,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-cup MLQ vs raw_capacity",
+          "regime": "RIGA-cup",
+          "comparator": "raw_capacity",
+          "metric": "MLQ@8",
+          "effect": -0.18434002386580778,
+          "simultaneous_ci95_low": -0.421428769274916,
+          "simultaneous_ci95_high": 0.052748721543300486,
+          "threshold": -0.01,
+          "passed": false
+        },
+        {
+          "gate": "RIGA-cup Waste vs raw_capacity",
+          "regime": "RIGA-cup",
+          "comparator": "raw_capacity",
+          "metric": "Waste@8",
+          "effect": 0.011454803062403318,
+          "simultaneous_ci95_low": -0.259213921295018,
+          "simultaneous_ci95_high": 0.28212352741982466,
+          "threshold": 0.05,
+          "passed": false
+        }
+      ],
+      "decision": "Fusion F2: transfer failure",
+      "critical": {
+        "MLQ": 2.750897650919971,
+        "Waste": 2.8074209742136214
+      }
+    }
+  },
+  "replicates": 113
+}

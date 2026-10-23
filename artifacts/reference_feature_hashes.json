@@ -1,0 +1,381 @@
+{
+  "entries": [
+    {
+      "backbone": "dinov2",
+      "dtype": "float32",
+      "endpoint": "bsds",
+      "grid_hw": [
+        32,
+        32
+      ],
+      "image_ids_sha256": "e11030eaabdfd2462d2448d57f7423780929a4add20407a350d813ae84bf9464",
+      "shape": [
+        199,
+        3,
+        1024,
+        384
+      ],
+      "split": "train",
+      "tensor_sha256": "3d4fbd8b558f03b9d392cc00658c34bf7aa448d219f371e7cffc00b08422addd"
+    },
+    {
+      "backbone": "dinov2",
+      "dtype": "float32",
+      "endpoint": "bsds",
+      "grid_hw": [
+        32,
+        32
+      ],
+      "image_ids_sha256": "8091dba05c77e772499fe48a943e5d3039950df31de96105cc5843dae1aa4210",
+      "shape": [
+        100,
+        3,
+        1024,
+        384
+      ],
+      "split": "val",
+      "tensor_sha256": "1d3ab1a6a07d1cc018743cab351d1765cc814374b8a4bd2cf9a051b184cfe5b6"
+    },
+    {
+      "backbone": "dinov2",
+      "dtype": "float32",
+      "endpoint": "bsds",
+      "grid_hw": [
+        32,
+        32
+      ],
+      "image_ids_sha256": "dc0c6dd4a7ea17a68bb7c8cb2e4b475ca9b9942032f749ceebd723b09a766e79",
+      "shape": [
+        200,
+        3,
+        1024,
+        384
+      ],
+      "split": "test",
+      "tensor_sha256": "2140f0dcc392f9337f54dcf19a1620f551b1b0e2e08336b38f92cad176179223"
+    },
+    {
+      "backbone": "dinov2",
+      "dtype": "float32",
+      "endpoint": "lidc",
+      "grid_hw": [
+        32,
+        32
+      ],
+      "image_ids_sha256": "f1c04e359778a7c554bd422ae05cdc5e8dc97e481ae52fb866bd2f4cafae3ea9",
+      "shape": [
+        1378,
+        3,
+        1024,
+        384
+      ],
+      "split": "train",
+      "tensor_sha256": "b9e29f732f203a0c44e5191e31e7595af51aad3dd1ce3f3847df55a54f3d5df2"
+    },
+    {
+      "backbone": "dinov2",
+      "dtype": "float32",
+      "endpoint": "lidc",
+      "grid_hw": [
+        32,
+        32
+      ],
+      "image_ids_sha256": "4c1cedccad330dba6aabcdfda21b106d4ce0f0c5d9e058cd36fc54ca6747644c",
+      "shape": [
+        233,
+        3,
+        1024,
+        384
+      ],
+      "split": "val",
+      "tensor_sha256": "d885dabd49c8614630cea0ca39da8e1c3ccffc86c723122ae14e63909d11dfd4"
+    },
+    {
+      "backbone": "dinov2",
+      "dtype": "float32",
+      "endpoint": "lidc",
+      "grid_hw": [
+        32,
+        32
+      ],
+      "image_ids_sha256": "c6475e18012cc6feab92278af8bc8cdb6d3363d6721c3a1df4557a75cc87475d",
+      "shape": [
+        267,
+        3,
+        1024,
+        384
+      ],
+      "split": "test",
+      "tensor_sha256": "a4cf028e3002cad8065830171462639c3af90d598bad0f7644166681ccd7686a"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "bsds",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "e11030eaabdfd2462d2448d57f7423780929a4add20407a350d813ae84bf9464",
+      "shape": [
+        199,
+        3,
+        784,
+        768
+      ],
+      "split": "train",
+      "tensor_sha256": "737925900a77a26664e23df52c03625dabfe4c2f4e11a54cfba12ed576fb19da"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "bsds",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "8091dba05c77e772499fe48a943e5d3039950df31de96105cc5843dae1aa4210",
+      "shape": [
+        100,
+        3,
+        784,
+        768
+      ],
+      "split": "val",
+      "tensor_sha256": "7619160f58cf1497814f8f3e10cc5b9482ba4d59033ca0dc6122f768d9be95ad"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "bsds",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "dc0c6dd4a7ea17a68bb7c8cb2e4b475ca9b9942032f749ceebd723b09a766e79",
+      "shape": [
+        200,
+        3,
+        784,
+        768
+      ],
+      "split": "test",
+      "tensor_sha256": "695019399591a14e68a75a8a7f9c9fe17cab0986cfd50819a826ff982eca7049"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 12,
+      "dtype": "float16",
+      "endpoint": "ima",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "5c39e6df180c1cc4849f071417fbeb8b283f21f9f2ae69db7ab7b3b06ec0723d",
+      "shape": [
+        1675,
+        3,
+        784,
+        768
+      ],
+      "split": "train",
+      "tensor_sha256": "c4f1ac9c14c839a02400d86ce4e0dfaf3b32ef85edf87421dacc8488b64ad568"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 12,
+      "dtype": "float16",
+      "endpoint": "ima",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "340491d0420f0286c5818d4645b2d96fe68380d20153c8e774c49f702ad6417e",
+      "shape": [
+        240,
+        3,
+        784,
+        768
+      ],
+      "split": "val",
+      "tensor_sha256": "e4fab333b8a45529e4d51ca08ea20411af8ba89f068faa073c07962ab1a65b31"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 12,
+      "dtype": "float16",
+      "endpoint": "ima",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "2841b44b74989d04dc5177dcaf08db1157a114f238a7e02deb7424f99a135ed5",
+      "shape": [
+        479,
+        3,
+        784,
+        768
+      ],
+      "split": "test",
+      "tensor_sha256": "1ff60545aea8472997700fd7db1c584a06dd55b6880382a5c27275bc4eed576b"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "lidc",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "f1c04e359778a7c554bd422ae05cdc5e8dc97e481ae52fb866bd2f4cafae3ea9",
+      "shape": [
+        1378,
+        3,
+        784,
+        768
+      ],
+      "split": "train",
+      "tensor_sha256": "6c2603aa92f87426b15961a46e1d9b314638660afc4f4ff30df82470192dcd6f"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "lidc",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "4c1cedccad330dba6aabcdfda21b106d4ce0f0c5d9e058cd36fc54ca6747644c",
+      "shape": [
+        233,
+        3,
+        784,
+        768
+      ],
+      "split": "val",
+      "tensor_sha256": "b819c6e023c0ba3839e7064449b3c5c07437250b4222cf2f413f3c585befdbe5"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "lidc",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "c6475e18012cc6feab92278af8bc8cdb6d3363d6721c3a1df4557a75cc87475d",
+      "shape": [
+        267,
+        3,
+        784,
+        768
+      ],
+      "split": "test",
+      "tensor_sha256": "8255abacddd2f74e51faa19b307fa420e7bccdae321e101c41366de329bcf70d"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "riga",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "c8d6aba2d030d4fbfa95c23c3c6fcd41ee00b33dc6733693de732155016a2d44",
+      "shape": [
+        942,
+        3,
+        784,
+        768
+      ],
+      "split": "train",
+      "tensor_sha256": "8945e85c7322207d460aa51a1b95c12b30751e15336c18f8ca176ba8c2efe5c6"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "riga",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "b50d75fd404af8e945712fe6f695ae12376757de0a89de56dfa0b4f9bdb41d99",
+      "shape": [
+        246,
+        3,
+        784,
+        768
+      ],
+      "split": "val",
+      "tensor_sha256": "68f30c8e117875d1b355405bcf38c38377dbf0ff466fd4dfbfbcbc0706dced2f"
+    },
+    {
+      "backbone": "dinov3",
+      "batch_size": 16,
+      "dtype": "float16",
+      "endpoint": "riga",
+      "grid_hw": [
+        28,
+        28
+      ],
+      "image_ids_sha256": "ebdafe7458f12e935421b34028acd6c35a7ca878d037a9d3547de4b14fc04def",
+      "shape": [
+        300,
+        3,
+        784,
+        768
+      ],
+      "split": "test",
+      "tensor_sha256": "0f2cf0e5dbe5d85818f75a3d9089c4d4857cfa9504a43400b28ce7e42fa16c0e"
+    }
+  ],
+  "note": "All values compared bit for bit with the frozen accepted caches. Tensor digests refer to contiguous tensor bytes, independent of torch.save container metadata.",
+  "profiles": {
+    "dinov2": {
+      "batch_size": 16,
+      "batches_separated_by_split": true,
+      "cuda": "12.8",
+      "cudnn": 91002,
+      "cudnn_allow_tf32": true,
+      "dtype": "float32",
+      "gpu": "NVIDIA A40",
+      "image_size": 448,
+      "layers": [
+        3,
+        6,
+        11
+      ],
+      "matmul_allow_tf32": false,
+      "torch": "2.9.1+cu128"
+    },
+    "dinov3": {
+      "batch_size": {
+        "bsds": 16,
+        "ima": 12,
+        "lidc": 16,
+        "riga": 16
+      },
+      "batches_separated_by_split": true,
+      "cuda": "12.8",
+      "cudnn": 91002,
+      "dtype": "float16",
+      "gpu": "NVIDIA A40",
+      "image_size": 448,
+      "layers": [
+        5,
+        8,
+        11
+      ],
+      "torch": "2.9.1+cu128"
+    }
+  },
+  "schema": "ssrb-feature-reference-v1"
+}

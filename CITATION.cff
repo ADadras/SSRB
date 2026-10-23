@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Please cite the accepted SSRB paper."
+type: software
+title: "Semantic-Spatial Residual Banks"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Dadras
+    given-names: Armin
+    orcid: https://orcid.org/0000-0001-6474-7208
+  - family-names: Sablatnig
+    given-names: Robert
+    orcid: https://orcid.org/0000-0003-4195-1593
+  - family-names: Proksa
+    given-names: Franziska
+    orcid: https://orcid.org/0000-0003-3455-8582
+  - family-names: Seidl
+    given-names: Markus
+    orcid: https://orcid.org/0000-0002-7966-3602
+preferred-citation:
+  type: conference-paper
+  title: "Single-Annotation, Multi-Hypothesis Segmentation with Semantic-Spatial Residual Banks"
+  conference:
+    name: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2027
+  notes: "Accepted, Algorithms Track; DOI and proceedings pages pending."
+  authors:
+    - family-names: Dadras
+      given-names: Armin
+    - family-names: Sablatnig
+      given-names: Robert
+    - family-names: Proksa
+      given-names: Franziska
+    - family-names: Seidl
+      given-names: Markus

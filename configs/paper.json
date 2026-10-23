@@ -1,0 +1,7 @@
+{
+  "heads": 8, "hidden": 256, "base": 24, "image_size": 128,
+  "semantic_epochs": 40, "semantic_patience": 8, "semantic_batch": 32,
+  "semantic_lr": 0.0003, "weight_decay": 0.0001, "eligible_after": 4,
+  "residual_epochs": 80, "residual_patience": 12, "residual_batch": 12,
+  "residual_lr": 0.001, "workers": 4
+}

@@ -1,0 +1,1474 @@
+metric,endpoint,method,mean,CI lower,CI upper,seed count
+MLQ@8,BSDS,DINO Capacity-WTA,0.5408428969068659,not provided,not provided,9
+Waste@8,BSDS,DINO Capacity-WTA,0.1773611111111111,not provided,not provided,9
+test image count,BSDS,DINO Capacity-WTA,200,not provided,not provided,9
+test source-cluster count,BSDS,DINO Capacity-WTA,200,not provided,not provided,9
+MLQ@8,BSDS,Raw Capacity-WTA,0.42112467928479114,not provided,not provided,9
+Waste@8,BSDS,Raw Capacity-WTA,0.3420138888888889,not provided,not provided,9
+test image count,BSDS,Raw Capacity-WTA,200,not provided,not provided,9
+test source-cluster count,BSDS,Raw Capacity-WTA,200,not provided,not provided,9
+MLQ@8,BSDS,SSRB,0.5414111005266508,not provided,not provided,9
+Waste@8,BSDS,SSRB,0.17256944444444444,not provided,not provided,9
+test image count,BSDS,SSRB,200,not provided,not provided,9
+test source-cluster count,BSDS,SSRB,200,not provided,not provided,9
+MLQ@8,LIDC,DINO Capacity-WTA,0.8324535058852389,not provided,not provided,9
+Waste@8,LIDC,DINO Capacity-WTA,0.06949646275488972,not provided,not provided,9
+test image count,LIDC,DINO Capacity-WTA,267,not provided,not provided,9
+test source-cluster count,LIDC,DINO Capacity-WTA,107,not provided,not provided,9
+MLQ@8,LIDC,Raw Capacity-WTA,0.8894855785588616,not provided,not provided,9
+Waste@8,LIDC,Raw Capacity-WTA,0.04447565543071161,not provided,not provided,9
+test image count,LIDC,Raw Capacity-WTA,267,not provided,not provided,9
+test source-cluster count,LIDC,Raw Capacity-WTA,107,not provided,not provided,9
+MLQ@8,LIDC,SSRB,0.8932238377373366,not provided,not provided,9
+Waste@8,LIDC,SSRB,0.042707032875572204,not provided,not provided,9
+test image count,LIDC,SSRB,267,not provided,not provided,9
+test source-cluster count,LIDC,SSRB,107,not provided,not provided,9
+MLQ@8,LIDC-hard,DINO Capacity-WTA,0.8015821556664176,not provided,not provided,9
+Waste@8,LIDC-hard,DINO Capacity-WTA,0.07612847222222222,not provided,not provided,9
+test image count,LIDC-hard,DINO Capacity-WTA,160,not provided,not provided,9
+test source-cluster count,LIDC-hard,DINO Capacity-WTA,74,not provided,not provided,9
+MLQ@8,LIDC-hard,Raw Capacity-WTA,0.859258989339772,not provided,not provided,9
+Waste@8,LIDC-hard,Raw Capacity-WTA,0.04869791666666667,not provided,not provided,9
+test image count,LIDC-hard,Raw Capacity-WTA,160,not provided,not provided,9
+test source-cluster count,LIDC-hard,Raw Capacity-WTA,74,not provided,not provided,9
+MLQ@8,LIDC-hard,SSRB,0.8614440172289809,not provided,not provided,9
+Waste@8,LIDC-hard,SSRB,0.045182291666666666,not provided,not provided,9
+test image count,LIDC-hard,SSRB,160,not provided,not provided,9
+test source-cluster count,LIDC-hard,SSRB,74,not provided,not provided,9
+MLQ@8,IMA++,DINO Capacity-WTA,0.8972070318126303,not provided,not provided,9
+Waste@8,IMA++,DINO Capacity-WTA,0.08185455810716771,not provided,not provided,9
+test image count,IMA++,DINO Capacity-WTA,479,not provided,not provided,9
+test source-cluster count,IMA++,DINO Capacity-WTA,479,not provided,not provided,9
+MLQ@8,IMA++,Raw Capacity-WTA,0.89936325926834,not provided,not provided,9
+Waste@8,IMA++,Raw Capacity-WTA,0.11980978891208535,not provided,not provided,9
+test image count,IMA++,Raw Capacity-WTA,479,not provided,not provided,9
+test source-cluster count,IMA++,Raw Capacity-WTA,479,not provided,not provided,9
+MLQ@8,IMA++,SSRB,0.9100627293572611,not provided,not provided,9
+Waste@8,IMA++,SSRB,0.07048828578056136,not provided,not provided,9
+test image count,IMA++,SSRB,479,not provided,not provided,9
+test source-cluster count,IMA++,SSRB,479,not provided,not provided,9
+MLQ@8,RIGA-cup,DINO Capacity-WTA,0.8885718231730991,not provided,not provided,9
+Waste@8,RIGA-cup,DINO Capacity-WTA,0,not provided,not provided,9
+test image count,RIGA-cup,DINO Capacity-WTA,150,not provided,not provided,9
+test source-cluster count,RIGA-cup,DINO Capacity-WTA,150,not provided,not provided,9
+MLQ@8,RIGA-cup,Raw Capacity-WTA,0.9011661899089813,not provided,not provided,9
+Waste@8,RIGA-cup,Raw Capacity-WTA,0.20212962962962963,not provided,not provided,9
+test image count,RIGA-cup,Raw Capacity-WTA,150,not provided,not provided,9
+test source-cluster count,RIGA-cup,Raw Capacity-WTA,150,not provided,not provided,9
+MLQ@8,RIGA-cup,SSRB,0.9140699088573456,not provided,not provided,9
+Waste@8,RIGA-cup,SSRB,0,not provided,not provided,9
+test image count,RIGA-cup,SSRB,150,not provided,not provided,9
+test source-cluster count,RIGA-cup,SSRB,150,not provided,not provided,9
+MLQ@8,RIGA-disc,DINO Capacity-WTA,0.9525906017091539,not provided,not provided,9
+Waste@8,RIGA-disc,DINO Capacity-WTA,0,not provided,not provided,9
+test image count,RIGA-disc,DINO Capacity-WTA,150,not provided,not provided,9
+test source-cluster count,RIGA-disc,DINO Capacity-WTA,150,not provided,not provided,9
+MLQ@8,RIGA-disc,Raw Capacity-WTA,0.9576487511617167,not provided,not provided,9
+Waste@8,RIGA-disc,Raw Capacity-WTA,0.20314814814814816,not provided,not provided,9
+test image count,RIGA-disc,Raw Capacity-WTA,150,not provided,not provided,9
+test source-cluster count,RIGA-disc,Raw Capacity-WTA,150,not provided,not provided,9
+MLQ@8,RIGA-disc,SSRB,0.9675550297896067,not provided,not provided,9
+Waste@8,RIGA-disc,SSRB,0,not provided,not provided,9
+test image count,RIGA-disc,SSRB,150,not provided,not provided,9
+test source-cluster count,RIGA-disc,SSRB,150,not provided,not provided,9
+MLQ@8 difference,LIDC-hard,SSRB minus DINO Capacity-WTA,0.059861861562563234,0.04974172003105605,0.06998200309407042,9 paired per method
+MLQ@8 difference,LIDC-hard,SSRB minus Raw Capacity-WTA,0.0021850278892089348,-0.008985629238449163,0.013355685016867033,9 paired per method
+MLQ@8 difference,BSDS,SSRB minus DINO Capacity-WTA,0.0005682036197847129,-0.0015882972602809238,0.0027247044998503496,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus DINO Capacity-WTA,-0.03094618055555555,-0.04666673344017093,-0.015225627670940173,9 paired per method
+Waste@8 difference,BSDS,SSRB minus DINO Capacity-WTA,-0.0047916666666666385,-0.011968300171727838,0.002384966838394561,9 paired per method
+MLQ@8 difference,BSDS,SSRB minus Raw Capacity-WTA,0.12028642124185962,0.10973729474045735,0.1311349989188214,9 paired per method
+Waste@8 difference,BSDS,SSRB minus Raw Capacity-WTA,-0.16944444444444443,-0.20083333333333328,-0.1366666666666668,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus DINO Capacity-WTA,0.0607703318520979,0.05399127855630082,0.06771299074240207,9 paired per method
+Waste@8 difference,LIDC,SSRB minus DINO Capacity-WTA,-0.026789429879317518,-0.036666666666666674,-0.018111454517704514,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus Raw Capacity-WTA,0.003738259178475145,-0.0034408149118931057,0.011013975904111715,9 paired per method
+Waste@8 difference,LIDC,SSRB minus Raw Capacity-WTA,-0.001768622555139411,-0.012713744588744599,0.009398704263980004,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus Raw Capacity-WTA,-0.0035156250000000014,-0.016668644514767947,0.008439109814786573,9 paired per method
+MLQ@8 difference,IMA++,SSRB minus DINO Capacity-WTA,0.012855697544630784,0.009964468157163434,0.015746926932098133,9 paired per method
+MLQ@8 difference,IMA++,SSRB minus Raw Capacity-WTA,0.010699470088921026,0.0055845577151650925,0.01581438246267696,9 paired per method
+MLQ@8 difference,RIGA-disc,SSRB minus DINO Capacity-WTA,0.01496442808045284,0.013479399557538506,0.016449456603367177,9 paired per method
+MLQ@8 difference,RIGA-disc,SSRB minus Raw Capacity-WTA,0.009906278627890064,0.007181666596554143,0.012630890659225985,9 paired per method
+MLQ@8 difference,RIGA-cup,SSRB minus DINO Capacity-WTA,0.025498085684246496,0.02316346297301756,0.02783270839547543,9 paired per method
+MLQ@8 difference,RIGA-cup,SSRB minus Raw Capacity-WTA,0.012903718948364284,0.005641723837036671,0.0201657140596919,9 paired per method
+Waste@8 difference,IMA++,SSRB minus DINO Capacity-WTA,-0.01136627232660635,-0.018679718964418536,-0.004052825688794165,9 paired per method
+Waste@8 difference,IMA++,SSRB minus Raw Capacity-WTA,-0.04932150313152403,-0.06624593619032322,-0.03239707007272484,9 paired per method
+Waste@8 difference,RIGA-disc,SSRB minus DINO Capacity-WTA,0,0,0,9 paired per method
+Waste@8 difference,RIGA-disc,SSRB minus Raw Capacity-WTA,-0.20314814814814813,-0.23772322947693622,-0.16857306681936005,9 paired per method
+Waste@8 difference,RIGA-cup,SSRB minus DINO Capacity-WTA,0,0,0,9 paired per method
+Waste@8 difference,RIGA-cup,SSRB minus Raw Capacity-WTA,-0.20212962962962966,-0.2608379629629632,-0.14342129629629616,9 paired per method
+MLQ@8,IMA++,SSRB,0.9100627293572611,not provided,not provided,9
+AUC,IMA++,SSRB,0.8843992498901763,not provided,not provided,9
+Waste@8,IMA++,SSRB,0.07048828578056135,not provided,not provided,9
+PairDice@8,IMA++,SSRB,0.7331258608449559,not provided,not provided,9
+Unique@0.95,IMA++,SSRB,5.396195778241708,not provided,not provided,9
+redundant-head fraction at Dice 0.95,IMA++,SSRB,0.3254755277197865,not provided,not provided,9
+MLQ@8,IMA++,Probabilistic U-Net,0.8777577658301695,not provided,not provided,3
+AUC,IMA++,Probabilistic U-Net,0.8506231163733472,not provided,not provided,3
+Waste@8,IMA++,Probabilistic U-Net,0.05071329157967989,not provided,not provided,3
+PairDice@8,IMA++,Probabilistic U-Net,0.8499216811994588,not provided,not provided,3
+Unique@0.95,IMA++,Probabilistic U-Net,2.886569241475296,not provided,not provided,3
+redundant-head fraction at Dice 0.95,IMA++,Probabilistic U-Net,0.639178844815588,not provided,not provided,3
+MLQ@8,LIDC,SSRB,0.8932238377373367,not provided,not provided,9
+AUC,LIDC,SSRB,0.8631840664156044,not provided,not provided,9
+Waste@8,LIDC,SSRB,0.0427070328755722,not provided,not provided,9
+PairDice@8,LIDC,SSRB,0.7767617359255137,not provided,not provided,9
+Unique@0.95,LIDC,SSRB,5.46982937994174,not provided,not provided,9
+redundant-head fraction at Dice 0.95,LIDC,SSRB,0.3162713275072825,not provided,not provided,9
+MLQ@8,LIDC,Probabilistic U-Net,0.8603039463585506,not provided,not provided,3
+AUC,LIDC,Probabilistic U-Net,0.85138344638324,not provided,not provided,3
+Waste@8,LIDC,Probabilistic U-Net,0.012172284644194757,not provided,not provided,3
+PairDice@8,LIDC,Probabilistic U-Net,0.9512381347898538,not provided,not provided,3
+Unique@0.95,LIDC,Probabilistic U-Net,1.5842696629213484,not provided,not provided,3
+redundant-head fraction at Dice 0.95,LIDC,Probabilistic U-Net,0.8019662921348314,not provided,not provided,3
+MLQ@8,LIDC-hard,SSRB,0.8614440172289809,not provided,not provided,9
+AUC,LIDC-hard,SSRB,0.8245510175345973,not provided,not provided,9
+Waste@8,LIDC-hard,SSRB,0.045182291666666666,not provided,not provided,9
+PairDice@8,LIDC-hard,SSRB,0.7746933771297335,not provided,not provided,9
+Unique@0.95,LIDC-hard,SSRB,5.669097222222222,not provided,not provided,9
+redundant-head fraction at Dice 0.95,LIDC-hard,SSRB,0.2913628472222223,not provided,not provided,9
+MLQ@8,LIDC-hard,Probabilistic U-Net,0.8136427893303335,not provided,not provided,3
+AUC,LIDC-hard,Probabilistic U-Net,0.8038444718942628,not provided,not provided,3
+Waste@8,LIDC-hard,Probabilistic U-Net,0.023046875,not provided,not provided,3
+PairDice@8,LIDC-hard,Probabilistic U-Net,0.9512616800454755,not provided,not provided,3
+Unique@0.95,LIDC-hard,Probabilistic U-Net,1.596875,not provided,not provided,3
+redundant-head fraction at Dice 0.95,LIDC-hard,Probabilistic U-Net,0.800390625,not provided,not provided,3
+MLQ@8,RIGA-cup,SSRB,0.9140699088573456,not provided,not provided,9
+AUC,RIGA-cup,SSRB,0.9058038461594669,not provided,not provided,9
+Waste@8,RIGA-cup,SSRB,0,not provided,not provided,9
+PairDice@8,RIGA-cup,SSRB,0.9209497463703156,not provided,not provided,9
+Unique@0.95,RIGA-cup,SSRB,3.6474074074074077,not provided,not provided,9
+redundant-head fraction at Dice 0.95,RIGA-cup,SSRB,0.544074074074074,not provided,not provided,9
+MLQ@8,RIGA-cup,Probabilistic U-Net,0.8953119654125637,not provided,not provided,3
+AUC,RIGA-cup,Probabilistic U-Net,0.8945610993935003,not provided,not provided,3
+Waste@8,RIGA-cup,Probabilistic U-Net,0,not provided,not provided,3
+PairDice@8,RIGA-cup,Probabilistic U-Net,0.9954781909783681,not provided,not provided,3
+Unique@0.95,RIGA-cup,Probabilistic U-Net,1,not provided,not provided,3
+redundant-head fraction at Dice 0.95,RIGA-cup,Probabilistic U-Net,0.875,not provided,not provided,3
+MLQ@8,RIGA-disc,SSRB,0.9675550297896067,not provided,not provided,9
+AUC,RIGA-disc,SSRB,0.9633683768687424,not provided,not provided,9
+Waste@8,RIGA-disc,SSRB,0,not provided,not provided,9
+PairDice@8,RIGA-disc,SSRB,0.9619803890034004,not provided,not provided,9
+Unique@0.95,RIGA-disc,SSRB,1.1274074074074074,not provided,not provided,9
+redundant-head fraction at Dice 0.95,RIGA-disc,SSRB,0.8590740740740741,not provided,not provided,9
+MLQ@8,RIGA-disc,Probabilistic U-Net,0.959179767370224,not provided,not provided,3
+AUC,RIGA-disc,Probabilistic U-Net,0.9590797075794802,not provided,not provided,3
+Waste@8,RIGA-disc,Probabilistic U-Net,0,not provided,not provided,3
+PairDice@8,RIGA-disc,Probabilistic U-Net,0.999469149377611,not provided,not provided,3
+Unique@0.95,RIGA-disc,Probabilistic U-Net,1,not provided,not provided,3
+redundant-head fraction at Dice 0.95,RIGA-disc,Probabilistic U-Net,0.875,not provided,not provided,3
+MLQ@8 difference,LIDC,SSRB minus Probabilistic U-Net,0.03291989137878609,0.02324802550295258,0.042591757254619604,SSRB 9; Prob-U 3 matched visible seeds
+AUC difference,LIDC,SSRB minus Probabilistic U-Net,0.011800620032364331,0.004832957608301226,0.018783328210370966,SSRB 9; Prob-U 3 matched visible seeds
+Waste@8 difference,LIDC,SSRB minus Probabilistic U-Net,0.03053474823137745,0.013553077346127835,0.04751641911662706,SSRB 9; Prob-U 3 matched visible seeds
+PairDice@8 difference,LIDC,SSRB minus Probabilistic U-Net,-0.1744763988643401,-0.1961601484060712,-0.15509090092953723,SSRB 9; Prob-U 3 matched visible seeds
+Unique95 difference,LIDC,SSRB minus Probabilistic U-Net,3.8855597170203913,3.663996215780999,4.107160456945594,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,LIDC,SSRB minus Probabilistic U-Net,-0.04712087760254651,-0.06037248907207001,-0.034152584347109806,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,LIDC,SSRB minus Probabilistic U-Net,-0.006180435832810003,-0.014502156153972054,0.0022057772486818675,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,LIDC,SSRB minus Probabilistic U-Net,0.010625239858141032,0.0025902554252692418,0.018227462554456213,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,LIDC,SSRB minus Probabilistic U-Net,0.020368081429830622,0.01283892455320185,0.02767637333163041,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,LIDC,SSRB minus Probabilistic U-Net,0.025447058405950386,0.017985369788833996,0.03278061431055826,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,LIDC,SSRB minus Probabilistic U-Net,0.027738188714900528,0.020778775062370792,0.034734394613482045,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,LIDC,SSRB minus Probabilistic U-Net,0.030607813906662482,0.02368350090005239,0.03770876465946131,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@8 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.04780122789864739,0.034290338936965,0.06131211686032977,SSRB 9; Prob-U 3 matched visible seeds
+AUC difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.020706545640334504,0.011123128706793824,0.031049697725873515,SSRB 9; Prob-U 3 matched visible seeds
+Waste@8 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.022135416666666668,0.0015934353245602856,0.04267739800877305,SSRB 9; Prob-U 3 matched visible seeds
+PairDice@8 difference,LIDC-hard,SSRB minus Probabilistic U-Net,-0.176568302915742,-0.20368428704740246,-0.1530215303007648,SSRB 9; Prob-U 3 matched visible seeds
+Unique95 difference,LIDC-hard,SSRB minus Probabilistic U-Net,4.072222222222222,3.8293321602145136,4.305559616634178,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,LIDC-hard,SSRB minus Probabilistic U-Net,-0.047562417298306375,-0.06628816592167082,-0.028289207410752235,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,LIDC-hard,SSRB minus Probabilistic U-Net,-0.002834429226964453,-0.014806586694322346,0.009439831996254817,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.01843902164295691,0.007212898044874404,0.0295458382140678,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.030015051363605178,0.02011887339226922,0.0402490579958946,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.03656457289277266,0.02678671421826845,0.04675879360632924,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.03949657927991615,0.030395009434439294,0.04968540316513724,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.04373275857004854,0.034537670192238155,0.05431066762003091,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@8 difference,IMA++,SSRB minus Probabilistic U-Net,0.032304963527091536,0.02544658118220671,0.03916334587197636,SSRB 9; Prob-U 3 matched visible seeds
+AUC difference,IMA++,SSRB minus Probabilistic U-Net,0.03377613351682899,0.027329633522318524,0.0405097447607353,SSRB 9; Prob-U 3 matched visible seeds
+Waste@8 difference,IMA++,SSRB minus Probabilistic U-Net,0.01977499420088147,0.010989329621897475,0.02856065877986546,SSRB 9; Prob-U 3 matched visible seeds
+PairDice@8 difference,IMA++,SSRB minus Probabilistic U-Net,-0.11679582035450281,-0.1251816243203748,-0.10878586328239101,SSRB 9; Prob-U 3 matched visible seeds
+Unique95 difference,IMA++,SSRB minus Probabilistic U-Net,2.5096265367664112,2.3720656460218033,2.651826722338204,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,IMA++,SSRB minus Probabilistic U-Net,0.028384218542178232,0.016447283617352027,0.04063284890468097,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,IMA++,SSRB minus Probabilistic U-Net,0.030527831437003924,0.020780286139248417,0.04024799294311216,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,IMA++,SSRB minus Probabilistic U-Net,0.037146025485650214,0.028862140368571786,0.045577119325054406,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,IMA++,SSRB minus Probabilistic U-Net,0.03681392881093613,0.029411685504872224,0.04448024328990709,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,IMA++,SSRB minus Probabilistic U-Net,0.03592621150048345,0.029375579303881537,0.042771409608972334,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,IMA++,SSRB minus Probabilistic U-Net,0.034881678824003184,0.029192880365320938,0.0409675381876134,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,IMA++,SSRB minus Probabilistic U-Net,0.034224210007285275,0.029110597791415945,0.03969589458329739,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@8 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.008375262419382731,0.005321742246750019,0.011428782592015444,SSRB 9; Prob-U 3 matched visible seeds
+AUC difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.004288669289262206,0.0024222574519614376,0.006823117977629104,SSRB 9; Prob-U 3 matched visible seeds
+Waste@8 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0,0,0,SSRB 9; Prob-U 3 matched visible seeds
+PairDice@8 difference,RIGA-disc,SSRB minus Probabilistic U-Net,-0.0374887603742105,-0.039902621419341484,-0.03519287452101708,SSRB 9; Prob-U 3 matched visible seeds
+Unique95 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.1274074074074074,0.04148148148148149,0.24370370370370376,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,RIGA-disc,SSRB minus Probabilistic U-Net,-0.005381076203452216,-0.00755107472450645,-0.002702013340261249,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.000811067333927861,-0.0012105196239771668,0.003342029840857893,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.00365499046113756,0.0018078808961091218,0.006096760816044278,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.005292539949770327,0.0034484332214902956,0.007733420441548031,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.0064104397650118225,0.004489239970842997,0.009029224974137762,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.0072600403979972555,0.0053286804479581356,0.009862469395001724,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.007886090190322312,0.005978191792964933,0.010462944023035192,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@8 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.018757943444781832,0.015983838573398097,0.021532048316165567,SSRB 9; Prob-U 3 matched visible seeds
+AUC difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.011242746765966767,0.009142884990821283,0.01338255396305962,SSRB 9; Prob-U 3 matched visible seeds
+Waste@8 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0,0,0,SSRB 9; Prob-U 3 matched visible seeds
+PairDice@8 difference,RIGA-cup,SSRB minus Probabilistic U-Net,-0.07452844460805257,-0.07732048003982615,-0.07199924078142199,SSRB 9; Prob-U 3 matched visible seeds
+Unique95 difference,RIGA-cup,SSRB minus Probabilistic U-Net,2.6474074074074077,2.339240740740741,2.9570555555555553,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,RIGA-cup,SSRB minus Probabilistic U-Net,-0.006738426287968954,-0.009345562921630014,-0.0041833145949575655,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.004897010017324377,0.002504350848771907,0.007317212417169853,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.009821380023603088,0.007625510814013306,0.012074651588996253,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.013148369391759236,0.011054028633568023,0.015333635026658025,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.01529455851625513,0.013212106000494077,0.017436860455407037,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.01682351205084059,0.014742820676830082,0.01898453798669356,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.017937626971138848,0.01587888534091137,0.020085601041714352,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,LIDC,SSRB minus Probabilistic U-Net,-0.04712087760254651,-0.06037248907207001,-0.034152584347109806,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,LIDC,SSRB minus Probabilistic U-Net,-0.006180435832810003,-0.014502156153972054,0.0022057772486818675,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,LIDC,SSRB minus Probabilistic U-Net,0.010625239858141032,0.0025902554252692418,0.018227462554456213,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,LIDC,SSRB minus Probabilistic U-Net,0.020368081429830622,0.01283892455320185,0.02767637333163041,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,LIDC,SSRB minus Probabilistic U-Net,0.025447058405950386,0.017985369788833996,0.03278061431055826,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,LIDC,SSRB minus Probabilistic U-Net,0.027738188714900528,0.020778775062370792,0.034734394613482045,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,LIDC,SSRB minus Probabilistic U-Net,0.030607813906662482,0.02368350090005239,0.03770876465946131,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,LIDC-hard,SSRB minus Probabilistic U-Net,-0.047562417298306375,-0.06628816592167082,-0.028289207410752235,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,LIDC-hard,SSRB minus Probabilistic U-Net,-0.002834429226964453,-0.014806586694322346,0.009439831996254817,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.01843902164295691,0.007212898044874404,0.0295458382140678,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.030015051363605178,0.02011887339226922,0.0402490579958946,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.03656457289277266,0.02678671421826845,0.04675879360632924,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.03949657927991615,0.030395009434439294,0.04968540316513724,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,LIDC-hard,SSRB minus Probabilistic U-Net,0.04373275857004854,0.034537670192238155,0.05431066762003091,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,IMA++,SSRB minus Probabilistic U-Net,0.028384218542178232,0.016447283617352027,0.04063284890468097,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,IMA++,SSRB minus Probabilistic U-Net,0.030527831437003924,0.020780286139248417,0.04024799294311216,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,IMA++,SSRB minus Probabilistic U-Net,0.037146025485650214,0.028862140368571786,0.045577119325054406,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,IMA++,SSRB minus Probabilistic U-Net,0.03681392881093613,0.029411685504872224,0.04448024328990709,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,IMA++,SSRB minus Probabilistic U-Net,0.03592621150048345,0.029375579303881537,0.042771409608972334,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,IMA++,SSRB minus Probabilistic U-Net,0.034881678824003184,0.029192880365320938,0.0409675381876134,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,IMA++,SSRB minus Probabilistic U-Net,0.034224210007285275,0.029110597791415945,0.03969589458329739,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,RIGA-disc,SSRB minus Probabilistic U-Net,-0.005381076203452216,-0.00755107472450645,-0.002702013340261249,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.000811067333927861,-0.0012105196239771668,0.003342029840857893,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.00365499046113756,0.0018078808961091218,0.006096760816044278,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.005292539949770327,0.0034484332214902956,0.007733420441548031,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.0064104397650118225,0.004489239970842997,0.009029224974137762,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.0072600403979972555,0.0053286804479581356,0.009862469395001724,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,RIGA-disc,SSRB minus Probabilistic U-Net,0.007886090190322312,0.005978191792964933,0.010462944023035192,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1 difference,RIGA-cup,SSRB minus Probabilistic U-Net,-0.006738426287968954,-0.009345562921630014,-0.0041833145949575655,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@2 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.004897010017324377,0.002504350848771907,0.007317212417169853,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@3 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.009821380023603088,0.007625510814013306,0.012074651588996253,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@4 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.013148369391759236,0.011054028633568023,0.015333635026658025,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@5 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.01529455851625513,0.013212106000494077,0.017436860455407037,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@6 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.01682351205084059,0.014742820676830082,0.01898453798669356,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@7 difference,RIGA-cup,SSRB minus Probabilistic U-Net,0.017937626971138848,0.01587888534091137,0.020085601041714352,SSRB 9; Prob-U 3 matched visible seeds
+MLQ@1,LIDC,Probabilistic U-Net,0.8305871216667474,not provided,not provided,3
+MLQ@2,LIDC,Probabilistic U-Net,0.8451793857747817,not provided,not provided,3
+MLQ@3,LIDC,Probabilistic U-Net,0.8502458481847096,not provided,not provided,3
+MLQ@4,LIDC,Probabilistic U-Net,0.8528098192481038,not provided,not provided,3
+MLQ@5,LIDC,Probabilistic U-Net,0.8549501294724774,not provided,not provided,3
+MLQ@6,LIDC,Probabilistic U-Net,0.8579520377104918,not provided,not provided,3
+MLQ@7,LIDC,Probabilistic U-Net,0.8590392826500578,not provided,not provided,3
+MLQ@1,LIDC-hard,Probabilistic U-Net,0.7815965137871292,not provided,not provided,3
+MLQ@2,LIDC-hard,Probabilistic U-Net,0.7977858498692513,not provided,not provided,3
+MLQ@3,LIDC-hard,Probabilistic U-Net,0.8025459232429664,not provided,not provided,3
+MLQ@4,LIDC-hard,Probabilistic U-Net,0.804743499836574,not provided,not provided,3
+MLQ@5,LIDC-hard,Probabilistic U-Net,0.8071035122188429,not provided,not provided,3
+MLQ@6,LIDC-hard,Probabilistic U-Net,0.8110446676922342,not provided,not provided,3
+MLQ@7,LIDC-hard,Probabilistic U-Net,0.8122930191767712,not provided,not provided,3
+MLQ@1,IMA++,Probabilistic U-Net,0.7885815531884153,not provided,not provided,3
+MLQ@2,IMA++,Probabilistic U-Net,0.8302767714848863,not provided,not provided,3
+MLQ@3,IMA++,Probabilistic U-Net,0.8445383908439902,not provided,not provided,3
+MLQ@4,IMA++,Probabilistic U-Net,0.8559094521328112,not provided,not provided,3
+MLQ@5,IMA++,Probabilistic U-Net,0.8640631765151678,not provided,not provided,3
+MLQ@6,IMA++,Probabilistic U-Net,0.8695870008834078,not provided,not provided,3
+MLQ@7,IMA++,Probabilistic U-Net,0.8742708201079304,not provided,not provided,3
+MLQ@1,RIGA-disc,Probabilistic U-Net,0.9588765328460269,not provided,not provided,3
+MLQ@2,RIGA-disc,Probabilistic U-Net,0.9590025273958842,not provided,not provided,3
+MLQ@3,RIGA-disc,Probabilistic U-Net,0.9590574889712864,not provided,not provided,3
+MLQ@4,RIGA-disc,Probabilistic U-Net,0.9590919070773655,not provided,not provided,3
+MLQ@5,RIGA-disc,Probabilistic U-Net,0.9591219087441762,not provided,not provided,3
+MLQ@6,RIGA-disc,Probabilistic U-Net,0.959143687221739,not provided,not provided,3
+MLQ@7,RIGA-disc,Probabilistic U-Net,0.95916384100914,not provided,not provided,3
+MLQ@1,RIGA-cup,Probabilistic U-Net,0.892935597896576,not provided,not provided,3
+MLQ@2,RIGA-cup,Probabilistic U-Net,0.8939014894432492,not provided,not provided,3
+MLQ@3,RIGA-cup,Probabilistic U-Net,0.8944043880038791,not provided,not provided,3
+MLQ@4,RIGA-cup,Probabilistic U-Net,0.894724952114953,not provided,not provided,3
+MLQ@5,RIGA-cup,Probabilistic U-Net,0.8949110358291202,not provided,not provided,3
+MLQ@6,RIGA-cup,Probabilistic U-Net,0.8950759120782217,not provided,not provided,3
+MLQ@7,RIGA-cup,Probabilistic U-Net,0.8952234543694391,not provided,not provided,3
+MLQ@8,LIDC,SSRB,0.8932238377373367,not provided,not provided,9
+Waste@8,LIDC,SSRB,0.0427070328755722,not provided,not provided,9
+AUC,LIDC,SSRB,0.8631840664156044,not provided,not provided,9
+MLQ@1,LIDC,SSRB,0.7834662440642008,not provided,not provided,9
+MLQ@2,LIDC,SSRB,0.8389989499419718,not provided,not provided,9
+MLQ@3,LIDC,SSRB,0.8608710880428506,not provided,not provided,9
+MLQ@4,LIDC,SSRB,0.8731779006779343,not provided,not provided,9
+MLQ@5,LIDC,SSRB,0.8803971878784277,not provided,not provided,9
+MLQ@6,LIDC,SSRB,0.8856902264253923,not provided,not provided,9
+MLQ@7,LIDC,SSRB,0.8896470965567204,not provided,not provided,9
+PairDice@8,LIDC,SSRB,0.7767617359255137,not provided,not provided,9
+Unique95,LIDC,SSRB,5.46982937994174,not provided,not provided,9
+MLQ@8,LIDC,Visible-aligned equal-logit addition,0.8702690452556239,not provided,not provided,9
+Waste@8,LIDC,Visible-aligned equal-logit addition,0.025384935497295046,not provided,not provided,9
+AUC,LIDC,Visible-aligned equal-logit addition,0.85122412582708,not provided,not provided,9
+MLQ@1,LIDC,Visible-aligned equal-logit addition,0.8038069359727376,not provided,not provided,9
+MLQ@2,LIDC,Visible-aligned equal-logit addition,0.8337596375450624,not provided,not provided,9
+MLQ@3,LIDC,Visible-aligned equal-logit addition,0.848736623943331,not provided,not provided,9
+MLQ@4,LIDC,Visible-aligned equal-logit addition,0.8568626070452084,not provided,not provided,9
+MLQ@5,LIDC,Visible-aligned equal-logit addition,0.8622909673296622,not provided,not provided,9
+MLQ@6,LIDC,Visible-aligned equal-logit addition,0.8657766192912346,not provided,not provided,9
+MLQ@7,LIDC,Visible-aligned equal-logit addition,0.86829057023378,not provided,not provided,9
+PairDice@8,LIDC,Visible-aligned equal-logit addition,0.8899826931360608,not provided,not provided,9
+Unique95,LIDC,Visible-aligned equal-logit addition,2.891801914273824,not provided,not provided,9
+MLQ@8,LIDC,Native raw4+DINO4 union,0.8919664171589845,not provided,not provided,9
+Waste@8,LIDC,Native raw4+DINO4 union,0.05862463587182688,not provided,not provided,9
+AUC,LIDC,Native raw4+DINO4 union,0.8653278009940534,not provided,not provided,9
+MLQ@1,LIDC,Native raw4+DINO4 union,0.8043749452718967,not provided,not provided,9
+MLQ@2,LIDC,Native raw4+DINO4 union,0.8438006602016465,not provided,not provided,9
+MLQ@3,LIDC,Native raw4+DINO4 union,0.8594798746015342,not provided,not provided,9
+MLQ@4,LIDC,Native raw4+DINO4 union,0.8697134450142345,not provided,not provided,9
+MLQ@5,LIDC,Native raw4+DINO4 union,0.8790412376488664,not provided,not provided,9
+MLQ@6,LIDC,Native raw4+DINO4 union,0.8850020495814256,not provided,not provided,9
+MLQ@7,LIDC,Native raw4+DINO4 union,0.8892437784738383,not provided,not provided,9
+PairDice@8,LIDC,Native raw4+DINO4 union,0.7055762527860109,not provided,not provided,9
+Unique95,LIDC,Native raw4+DINO4 union,6.653766125676238,not provided,not provided,9
+MLQ@8,LIDC,Conventionally initialized SSRB,0.8958290834452677,not provided,not provided,9
+Waste@8,LIDC,Conventionally initialized SSRB,0.042134831460674156,not provided,not provided,9
+AUC,LIDC,Conventionally initialized SSRB,0.8673899570247617,not provided,not provided,9
+MLQ@1,LIDC,Conventionally initialized SSRB,0.7930843658051351,not provided,not provided,9
+MLQ@2,LIDC,Conventionally initialized SSRB,0.8430196425700781,not provided,not provided,9
+MLQ@3,LIDC,Conventionally initialized SSRB,0.8640552599440766,not provided,not provided,9
+MLQ@4,LIDC,Conventionally initialized SSRB,0.8767748040682356,not provided,not provided,9
+MLQ@5,LIDC,Conventionally initialized SSRB,0.8840487513844664,not provided,not provided,9
+MLQ@6,LIDC,Conventionally initialized SSRB,0.889337880247789,not provided,not provided,9
+MLQ@7,LIDC,Conventionally initialized SSRB,0.8929698687330465,not provided,not provided,9
+PairDice@8,LIDC,Conventionally initialized SSRB,0.7764740973413362,not provided,not provided,9
+Unique95,LIDC,Conventionally initialized SSRB,5.579275905118601,not provided,not provided,9
+MLQ@8,LIDC,Width-matched raw,0.889402371916503,not provided,not provided,9
+Waste@8,LIDC,Width-matched raw,0.038077403245942575,not provided,not provided,9
+AUC,LIDC,Width-matched raw,0.8624019533336192,not provided,not provided,9
+MLQ@1,LIDC,Width-matched raw,0.7997769143532081,not provided,not provided,9
+MLQ@2,LIDC,Width-matched raw,0.8401656217173151,not provided,not provided,9
+MLQ@3,LIDC,Width-matched raw,0.8583113353986632,not provided,not provided,9
+MLQ@4,LIDC,Width-matched raw,0.8687361835558673,not provided,not provided,9
+MLQ@5,LIDC,Width-matched raw,0.8759807795683435,not provided,not provided,9
+MLQ@6,LIDC,Width-matched raw,0.880992004944727,not provided,not provided,9
+MLQ@7,LIDC,Width-matched raw,0.8858504152143257,not provided,not provided,9
+PairDice@8,LIDC,Width-matched raw,0.7798361341828264,not provided,not provided,9
+Unique95,LIDC,Width-matched raw,5.511027881814399,not provided,not provided,9
+MLQ@8,LIDC,Raw Capacity-WTA,0.8894855785588616,not provided,not provided,9
+Waste@8,LIDC,Raw Capacity-WTA,0.04447565543071161,not provided,not provided,9
+AUC,LIDC,Raw Capacity-WTA,0.8638500880684585,not provided,not provided,9
+MLQ@1,LIDC,Raw Capacity-WTA,0.8043359471905528,not provided,not provided,9
+MLQ@2,LIDC,Raw Capacity-WTA,0.8437960354963575,not provided,not provided,9
+MLQ@3,LIDC,Raw Capacity-WTA,0.8594738737061075,not provided,not provided,9
+MLQ@4,LIDC,Raw Capacity-WTA,0.8697126778431743,not provided,not provided,9
+MLQ@5,LIDC,Raw Capacity-WTA,0.8764417663393321,not provided,not provided,9
+MLQ@6,LIDC,Raw Capacity-WTA,0.8815329051830412,not provided,not provided,9
+MLQ@7,LIDC,Raw Capacity-WTA,0.8860219202302411,not provided,not provided,9
+PairDice@8,LIDC,Raw Capacity-WTA,0.7644899490471934,not provided,not provided,9
+Unique95,LIDC,Raw Capacity-WTA,5.477736163129422,not provided,not provided,9
+MLQ@8,LIDC,DINO Capacity-WTA,0.8324535058852388,not provided,not provided,9
+Waste@8,LIDC,DINO Capacity-WTA,0.06949646275488972,not provided,not provided,9
+AUC,LIDC,DINO Capacity-WTA,0.7994502654204041,not provided,not provided,9
+MLQ@1,LIDC,DINO Capacity-WTA,0.712282953123553,not provided,not provided,9
+MLQ@2,LIDC,DINO Capacity-WTA,0.7728765464779859,not provided,not provided,9
+MLQ@3,LIDC,DINO Capacity-WTA,0.797633659776883,not provided,not provided,9
+MLQ@4,LIDC,DINO Capacity-WTA,0.8095204859231361,not provided,not provided,9
+MLQ@5,LIDC,DINO Capacity-WTA,0.818241532410631,not provided,not provided,9
+MLQ@6,LIDC,DINO Capacity-WTA,0.8238720202619303,not provided,not provided,9
+MLQ@7,LIDC,DINO Capacity-WTA,0.8287214195038743,not provided,not provided,9
+PairDice@8,LIDC,DINO Capacity-WTA,0.723207155125517,not provided,not provided,9
+Unique95,LIDC,DINO Capacity-WTA,5.2255513940907194,not provided,not provided,9
+MLQ@8,LIDC-hard,SSRB,0.8614440172289809,not provided,not provided,9
+Waste@8,LIDC-hard,SSRB,0.045182291666666666,not provided,not provided,9
+AUC,LIDC-hard,SSRB,0.8245510175345973,not provided,not provided,9
+MLQ@1,LIDC-hard,SSRB,0.7340340964888229,not provided,not provided,9
+MLQ@2,LIDC-hard,SSRB,0.7949514206422869,not provided,not provided,9
+MLQ@3,LIDC-hard,SSRB,0.8209849448859232,not provided,not provided,9
+MLQ@4,LIDC-hard,SSRB,0.8347585512001793,not provided,not provided,9
+MLQ@5,LIDC-hard,SSRB,0.8436680851116155,not provided,not provided,9
+MLQ@6,LIDC-hard,SSRB,0.8505412469721503,not provided,not provided,9
+MLQ@7,LIDC-hard,SSRB,0.8560257777468198,not provided,not provided,9
+PairDice@8,LIDC-hard,SSRB,0.7746933771297335,not provided,not provided,9
+Unique95,LIDC-hard,SSRB,5.669097222222222,not provided,not provided,9
+MLQ@8,LIDC-hard,Visible-aligned equal-logit addition,0.8339955723542112,not provided,not provided,9
+Waste@8,LIDC-hard,Visible-aligned equal-logit addition,0.02660590277777778,not provided,not provided,9
+AUC,LIDC-hard,Visible-aligned equal-logit addition,0.8134628757642631,not provided,not provided,9
+MLQ@1,LIDC-hard,Visible-aligned equal-logit addition,0.7667200693528381,not provided,not provided,9
+MLQ@2,LIDC-hard,Visible-aligned equal-logit addition,0.7955711657990631,not provided,not provided,9
+MLQ@3,LIDC-hard,Visible-aligned equal-logit addition,0.8096491469496364,not provided,not provided,9
+MLQ@4,LIDC-hard,Visible-aligned equal-logit addition,0.81822220302541,not provided,not provided,9
+MLQ@5,LIDC-hard,Visible-aligned equal-logit addition,0.82398870317516,not provided,not provided,9
+MLQ@6,LIDC-hard,Visible-aligned equal-logit addition,0.8283303444712753,not provided,not provided,9
+MLQ@7,LIDC-hard,Visible-aligned equal-logit addition,0.8312258009865118,not provided,not provided,9
+PairDice@8,LIDC-hard,Visible-aligned equal-logit addition,0.8920470833881862,not provided,not provided,9
+Unique95,LIDC-hard,Visible-aligned equal-logit addition,2.9763888888888888,not provided,not provided,9
+MLQ@8,LIDC-hard,Native raw4+DINO4 union,0.8591648427484971,not provided,not provided,9
+Waste@8,LIDC-hard,Native raw4+DINO4 union,0.06922743055555555,not provided,not provided,9
+AUC,LIDC-hard,Native raw4+DINO4 union,0.8261917036486719,not provided,not provided,9
+MLQ@1,LIDC-hard,Native raw4+DINO4 union,0.7572308271393315,not provided,not provided,9
+MLQ@2,LIDC-hard,Native raw4+DINO4 union,0.7980439674561948,not provided,not provided,9
+MLQ@3,LIDC-hard,Native raw4+DINO4 union,0.8174477819699355,not provided,not provided,9
+MLQ@4,LIDC-hard,Native raw4+DINO4 union,0.8305708638945362,not provided,not provided,9
+MLQ@5,LIDC-hard,Native raw4+DINO4 union,0.8418862213054834,not provided,not provided,9
+MLQ@6,LIDC-hard,Native raw4+DINO4 union,0.8498485269850385,not provided,not provided,9
+MLQ@7,LIDC-hard,Native raw4+DINO4 union,0.8553405976903579,not provided,not provided,9
+PairDice@8,LIDC-hard,Native raw4+DINO4 union,0.6950559532425056,not provided,not provided,9
+Unique95,LIDC-hard,Native raw4+DINO4 union,6.852777777777777,not provided,not provided,9
+MLQ@8,LIDC-hard,Conventionally initialized SSRB,0.8654589441294471,not provided,not provided,9
+Waste@8,LIDC-hard,Conventionally initialized SSRB,0.04253472222222222,not provided,not provided,9
+AUC,LIDC-hard,Conventionally initialized SSRB,0.8300345480683469,not provided,not provided,9
+MLQ@1,LIDC-hard,Conventionally initialized SSRB,0.7490711351880842,not provided,not provided,9
+MLQ@2,LIDC-hard,Conventionally initialized SSRB,0.7992586534139667,not provided,not provided,9
+MLQ@3,LIDC-hard,Conventionally initialized SSRB,0.82319316581561,not provided,not provided,9
+MLQ@4,LIDC-hard,Conventionally initialized SSRB,0.838746904150806,not provided,not provided,9
+MLQ@5,LIDC-hard,Conventionally initialized SSRB,0.8478338940299485,not provided,not provided,9
+MLQ@6,LIDC-hard,Conventionally initialized SSRB,0.8553590348093875,not provided,not provided,9
+MLQ@7,LIDC-hard,Conventionally initialized SSRB,0.861354653009524,not provided,not provided,9
+PairDice@8,LIDC-hard,Conventionally initialized SSRB,0.7748497039804029,not provided,not provided,9
+Unique95,LIDC-hard,Conventionally initialized SSRB,5.7868055555555555,not provided,not provided,9
+MLQ@8,LIDC-hard,Width-matched raw,0.8634807781471561,not provided,not provided,9
+Waste@8,LIDC-hard,Width-matched raw,0.041276041666666666,not provided,not provided,9
+AUC,LIDC-hard,Width-matched raw,0.8274136663850489,not provided,not provided,9
+MLQ@1,LIDC-hard,Width-matched raw,0.7576265779541346,not provided,not provided,9
+MLQ@2,LIDC-hard,Width-matched raw,0.7988990867928402,not provided,not provided,9
+MLQ@3,LIDC-hard,Width-matched raw,0.8196789528413825,not provided,not provided,9
+MLQ@4,LIDC-hard,Width-matched raw,0.8321847438673206,not provided,not provided,9
+MLQ@5,LIDC-hard,Width-matched raw,0.8417829836976629,not provided,not provided,9
+MLQ@6,LIDC-hard,Width-matched raw,0.848827008807469,not provided,not provided,9
+MLQ@7,LIDC-hard,Width-matched raw,0.8568291989724256,not provided,not provided,9
+PairDice@8,LIDC-hard,Width-matched raw,0.777545077058797,not provided,not provided,9
+Unique95,LIDC-hard,Width-matched raw,5.720138888888888,not provided,not provided,9
+MLQ@8,LIDC-hard,Raw Capacity-WTA,0.859258989339772,not provided,not provided,9
+Waste@8,LIDC-hard,Raw Capacity-WTA,0.04869791666666667,not provided,not provided,9
+AUC,LIDC-hard,Raw Capacity-WTA,0.8251161901895507,not provided,not provided,9
+MLQ@1,LIDC-hard,Raw Capacity-WTA,0.7572271733539108,not provided,not provided,9
+MLQ@2,LIDC-hard,Raw Capacity-WTA,0.7980492735941274,not provided,not provided,9
+MLQ@3,LIDC-hard,Raw Capacity-WTA,0.8174471115004659,not provided,not provided,9
+MLQ@4,LIDC-hard,Raw Capacity-WTA,0.8305819352296466,not provided,not provided,9
+MLQ@5,LIDC-hard,Raw Capacity-WTA,0.8393187202349106,not provided,not provided,9
+MLQ@6,LIDC-hard,Raw Capacity-WTA,0.8464304145972873,not provided,not provided,9
+MLQ@7,LIDC-hard,Raw Capacity-WTA,0.852615903666285,not provided,not provided,9
+PairDice@8,LIDC-hard,Raw Capacity-WTA,0.7670966890847517,not provided,not provided,9
+Unique95,LIDC-hard,Raw Capacity-WTA,5.645138888888889,not provided,not provided,9
+MLQ@8,LIDC-hard,DINO Capacity-WTA,0.8015821556664177,not provided,not provided,9
+Waste@8,LIDC-hard,DINO Capacity-WTA,0.07612847222222222,not provided,not provided,9
+AUC,LIDC-hard,DINO Capacity-WTA,0.765633775741642,not provided,not provided,9
+MLQ@1,LIDC-hard,DINO Capacity-WTA,0.6775031181929485,not provided,not provided,9
+MLQ@2,LIDC-hard,DINO Capacity-WTA,0.7369056154130601,not provided,not provided,9
+MLQ@3,LIDC-hard,DINO Capacity-WTA,0.7620826157107433,not provided,not provided,9
+MLQ@4,LIDC-hard,DINO Capacity-WTA,0.7749310640566465,not provided,not provided,9
+MLQ@5,LIDC-hard,DINO Capacity-WTA,0.7847939288515288,not provided,not provided,9
+MLQ@6,LIDC-hard,DINO Capacity-WTA,0.7909177810768597,not provided,not provided,9
+MLQ@7,LIDC-hard,DINO Capacity-WTA,0.796353926964932,not provided,not provided,9
+PairDice@8,LIDC-hard,DINO Capacity-WTA,0.7195710267354216,not provided,not provided,9
+Unique95,LIDC-hard,DINO Capacity-WTA,5.253472222222222,not provided,not provided,9
+MLQ@8,IMA++,SSRB,0.9100627293572611,not provided,not provided,9
+Waste@8,IMA++,SSRB,0.07048828578056135,not provided,not provided,9
+AUC,IMA++,SSRB,0.8843992498901763,not provided,not provided,9
+MLQ@1,IMA++,SSRB,0.8169657717305936,not provided,not provided,9
+MLQ@2,IMA++,SSRB,0.8608046029218903,not provided,not provided,9
+MLQ@3,IMA++,SSRB,0.8816844163296405,not provided,not provided,9
+MLQ@4,IMA++,SSRB,0.8927233809437474,not provided,not provided,9
+MLQ@5,IMA++,SSRB,0.8999893880156513,not provided,not provided,9
+MLQ@6,IMA++,SSRB,0.9044686797074108,not provided,not provided,9
+MLQ@7,IMA++,SSRB,0.9084950301152157,not provided,not provided,9
+PairDice@8,IMA++,SSRB,0.7331258608449559,not provided,not provided,9
+Unique95,IMA++,SSRB,5.396195778241708,not provided,not provided,9
+MLQ@8,IMA++,Visible-aligned equal-logit addition,0.8778150030808518,not provided,not provided,9
+Waste@8,IMA++,Visible-aligned equal-logit addition,0.04117374159127813,not provided,not provided,9
+AUC,IMA++,Visible-aligned equal-logit addition,0.8564845772123206,not provided,not provided,9
+MLQ@1,IMA++,Visible-aligned equal-logit addition,0.8067588000276743,not provided,not provided,9
+MLQ@2,IMA++,Visible-aligned equal-logit addition,0.837045298371132,not provided,not provided,9
+MLQ@3,IMA++,Visible-aligned equal-logit addition,0.8525447170091167,not provided,not provided,9
+MLQ@4,IMA++,Visible-aligned equal-logit addition,0.8619960030862858,not provided,not provided,9
+MLQ@5,IMA++,Visible-aligned equal-logit addition,0.8678021666067229,not provided,not provided,9
+MLQ@6,IMA++,Visible-aligned equal-logit addition,0.8723964536137621,not provided,not provided,9
+MLQ@7,IMA++,Visible-aligned equal-logit addition,0.8755181759030208,not provided,not provided,9
+PairDice@8,IMA++,Visible-aligned equal-logit addition,0.8645401226602474,not provided,not provided,9
+Unique95,IMA++,Visible-aligned equal-logit addition,3.3767107399675247,not provided,not provided,9
+MLQ@8,IMA++,Native raw4+DINO4 union,0.9060067235313984,not provided,not provided,9
+Waste@8,IMA++,Native raw4+DINO4 union,0.05671537926235212,not provided,not provided,9
+AUC,IMA++,Native raw4+DINO4 union,0.8689677980850314,not provided,not provided,9
+MLQ@1,IMA++,Native raw4+DINO4 union,0.7888027631246923,not provided,not provided,9
+MLQ@2,IMA++,Native raw4+DINO4 union,0.8356722919728061,not provided,not provided,9
+MLQ@3,IMA++,Native raw4+DINO4 union,0.8586365155724653,not provided,not provided,9
+MLQ@4,IMA++,Native raw4+DINO4 union,0.8732290371322937,not provided,not provided,9
+MLQ@5,IMA++,Native raw4+DINO4 union,0.8895230119446632,not provided,not provided,9
+MLQ@6,IMA++,Native raw4+DINO4 union,0.8972717074772425,not provided,not provided,9
+MLQ@7,IMA++,Native raw4+DINO4 union,0.9026003339246902,not provided,not provided,9
+PairDice@8,IMA++,Native raw4+DINO4 union,0.7787125970873608,not provided,not provided,9
+Unique95,IMA++,Native raw4+DINO4 union,5.198561818603572,not provided,not provided,9
+MLQ@8,IMA++,Conventionally initialized SSRB,0.9094912388053711,not provided,not provided,9
+Waste@8,IMA++,Conventionally initialized SSRB,0.07237299930410578,not provided,not provided,9
+AUC,IMA++,Conventionally initialized SSRB,0.8830632028316187,not provided,not provided,9
+MLQ@1,IMA++,Conventionally initialized SSRB,0.8133965640421817,not provided,not provided,9
+MLQ@2,IMA++,Conventionally initialized SSRB,0.8594526962051517,not provided,not provided,9
+MLQ@3,IMA++,Conventionally initialized SSRB,0.8800442073336976,not provided,not provided,9
+MLQ@4,IMA++,Conventionally initialized SSRB,0.8915203756179207,not provided,not provided,9
+MLQ@5,IMA++,Conventionally initialized SSRB,0.8989641366221596,not provided,not provided,9
+MLQ@6,IMA++,Conventionally initialized SSRB,0.9038877083769042,not provided,not provided,9
+MLQ@7,IMA++,Conventionally initialized SSRB,0.9077486956495631,not provided,not provided,9
+PairDice@8,IMA++,Conventionally initialized SSRB,0.7267035540185542,not provided,not provided,9
+Unique95,IMA++,Conventionally initialized SSRB,5.473208072373,not provided,not provided,9
+MLQ@8,IMA++,Width-matched raw,0.9007359897421516,not provided,not provided,9
+Waste@8,IMA++,Width-matched raw,0.1104442124797031,not provided,not provided,9
+AUC,IMA++,Width-matched raw,0.8684622043985445,not provided,not provided,9
+MLQ@1,IMA++,Width-matched raw,0.7938759608454713,not provided,not provided,9
+MLQ@2,IMA++,Width-matched raw,0.8401405040461507,not provided,not provided,9
+MLQ@3,IMA++,Width-matched raw,0.8616059998710266,not provided,not provided,9
+MLQ@4,IMA++,Width-matched raw,0.8757982855311125,not provided,not provided,9
+MLQ@5,IMA++,Width-matched raw,0.8853792401442131,not provided,not provided,9
+MLQ@6,IMA++,Width-matched raw,0.8926133839255824,not provided,not provided,9
+MLQ@7,IMA++,Width-matched raw,0.8975482710826482,not provided,not provided,9
+PairDice@8,IMA++,Width-matched raw,0.6889029256506936,not provided,not provided,9
+Unique95,IMA++,Width-matched raw,5.4203201113430755,not provided,not provided,9
+MLQ@8,IMA++,Raw Capacity-WTA,0.89936325926834,not provided,not provided,9
+Waste@8,IMA++,Raw Capacity-WTA,0.11980978891208538,not provided,not provided,9
+AUC,IMA++,Raw Capacity-WTA,0.8658048321154965,not provided,not provided,9
+MLQ@1,IMA++,Raw Capacity-WTA,0.7888125525259606,not provided,not provided,9
+MLQ@2,IMA++,Raw Capacity-WTA,0.8356718334001176,not provided,not provided,9
+MLQ@3,IMA++,Raw Capacity-WTA,0.8586410992534348,not provided,not provided,9
+MLQ@4,IMA++,Raw Capacity-WTA,0.8732286597423637,not provided,not provided,9
+MLQ@5,IMA++,Raw Capacity-WTA,0.8839712117049813,not provided,not provided,9
+MLQ@6,IMA++,Raw Capacity-WTA,0.8905702570155679,not provided,not provided,9
+MLQ@7,IMA++,Raw Capacity-WTA,0.8961797840132076,not provided,not provided,9
+PairDice@8,IMA++,Raw Capacity-WTA,0.6654038177260913,not provided,not provided,9
+Unique95,IMA++,Raw Capacity-WTA,5.663419160287636,not provided,not provided,9
+MLQ@8,IMA++,DINO Capacity-WTA,0.8972070318126303,not provided,not provided,9
+Waste@8,IMA++,DINO Capacity-WTA,0.0818545581071677,not provided,not provided,9
+AUC,IMA++,DINO Capacity-WTA,0.8697152422822194,not provided,not provided,9
+MLQ@1,IMA++,DINO Capacity-WTA,0.7966986334681735,not provided,not provided,9
+MLQ@2,IMA++,DINO Capacity-WTA,0.8444845370046501,not provided,not provided,9
+MLQ@3,IMA++,DINO Capacity-WTA,0.866657569771298,not provided,not provided,9
+MLQ@4,IMA++,DINO Capacity-WTA,0.8791391003213468,not provided,not provided,9
+MLQ@5,IMA++,DINO Capacity-WTA,0.8862743771035828,not provided,not provided,9
+MLQ@6,IMA++,DINO Capacity-WTA,0.8918055981445696,not provided,not provided,9
+MLQ@7,IMA++,DINO Capacity-WTA,0.8954550906315049,not provided,not provided,9
+PairDice@8,IMA++,DINO Capacity-WTA,0.7022173260918656,not provided,not provided,9
+Unique95,IMA++,DINO Capacity-WTA,5.649501275806077,not provided,not provided,9
+MLQ@8,BSDS,SSRB,0.5414111005266508,not provided,not provided,9
+Waste@8,BSDS,SSRB,0.17256944444444447,not provided,not provided,9
+AUC,BSDS,SSRB,0.38294106878661194,not provided,not provided,9
+MLQ@1,BSDS,SSRB,0.14735408781950052,not provided,not provided,9
+MLQ@2,BSDS,SSRB,0.24390480532904302,not provided,not provided,9
+MLQ@3,BSDS,SSRB,0.32032470141209257,not provided,not provided,9
+MLQ@4,BSDS,SSRB,0.3839182005491522,not provided,not provided,9
+MLQ@5,BSDS,SSRB,0.43447737269517445,not provided,not provided,9
+MLQ@6,BSDS,SSRB,0.4780934792094761,not provided,not provided,9
+MLQ@7,BSDS,SSRB,0.5140448027518061,not provided,not provided,9
+PairDice@8,BSDS,SSRB,0.09196620335647215,not provided,not provided,9
+Unique95,BSDS,SSRB,7.991666666666666,not provided,not provided,9
+MLQ@8,BSDS,Visible-aligned equal-logit addition,0.35810131311934024,not provided,not provided,9
+Waste@8,BSDS,Visible-aligned equal-logit addition,0.5228472222222222,not provided,not provided,9
+AUC,BSDS,Visible-aligned equal-logit addition,0.21982956326381356,not provided,not provided,9
+MLQ@1,BSDS,Visible-aligned equal-logit addition,0.0622827615404377,not provided,not provided,9
+MLQ@2,BSDS,Visible-aligned equal-logit addition,0.11431256647064197,not provided,not provided,9
+MLQ@3,BSDS,Visible-aligned equal-logit addition,0.1634291152043069,not provided,not provided,9
+MLQ@4,BSDS,Visible-aligned equal-logit addition,0.20541446562775997,not provided,not provided,9
+MLQ@5,BSDS,Visible-aligned equal-logit addition,0.24658161895807196,not provided,not provided,9
+MLQ@6,BSDS,Visible-aligned equal-logit addition,0.2866229177759184,not provided,not provided,9
+MLQ@7,BSDS,Visible-aligned equal-logit addition,0.3218917474140309,not provided,not provided,9
+PairDice@8,BSDS,Visible-aligned equal-logit addition,0.05383570356866888,not provided,not provided,9
+Unique95,BSDS,Visible-aligned equal-logit addition,7.550555555555556,not provided,not provided,9
+MLQ@8,BSDS,Native raw4+DINO4 union,0.4584457434962193,not provided,not provided,9
+Waste@8,BSDS,Native raw4+DINO4 union,0.31083333333333335,not provided,not provided,9
+AUC,BSDS,Native raw4+DINO4 union,0.2841361248537002,not provided,not provided,9
+MLQ@1,BSDS,Native raw4+DINO4 union,0.07603535332849484,not provided,not provided,9
+MLQ@2,BSDS,Native raw4+DINO4 union,0.14078007280061078,not provided,not provided,9
+MLQ@3,BSDS,Native raw4+DINO4 union,0.20404909203047686,not provided,not provided,9
+MLQ@4,BSDS,Native raw4+DINO4 union,0.26123615129837463,not provided,not provided,9
+MLQ@5,BSDS,Native raw4+DINO4 union,0.33004823854193094,not provided,not provided,9
+MLQ@6,BSDS,Native raw4+DINO4 union,0.38038014859581987,not provided,not provided,9
+MLQ@7,BSDS,Native raw4+DINO4 union,0.42211419873767425,not provided,not provided,9
+PairDice@8,BSDS,Native raw4+DINO4 union,0.09939801445437801,not provided,not provided,9
+Unique95,BSDS,Native raw4+DINO4 union,7.791666666666667,not provided,not provided,9
+MLQ@8,BSDS,Conventionally initialized SSRB,0.5405172600597143,not provided,not provided,9
+Waste@8,BSDS,Conventionally initialized SSRB,0.17680555555555555,not provided,not provided,9
+AUC,BSDS,Conventionally initialized SSRB,0.3799759338473614,not provided,not provided,9
+MLQ@1,BSDS,Conventionally initialized SSRB,0.14013331807834725,not provided,not provided,9
+MLQ@2,BSDS,Conventionally initialized SSRB,0.23651084847187226,not provided,not provided,9
+MLQ@3,BSDS,Conventionally initialized SSRB,0.3139240670070932,not provided,not provided,9
+MLQ@4,BSDS,Conventionally initialized SSRB,0.3788260272393624,not provided,not provided,9
+MLQ@5,BSDS,Conventionally initialized SSRB,0.43589558636148773,not provided,not provided,9
+MLQ@6,BSDS,Conventionally initialized SSRB,0.48065518504629534,not provided,not provided,9
+MLQ@7,BSDS,Conventionally initialized SSRB,0.5133451785147191,not provided,not provided,9
+PairDice@8,BSDS,Conventionally initialized SSRB,0.09138727529284854,not provided,not provided,9
+Unique95,BSDS,Conventionally initialized SSRB,7.99,not provided,not provided,9
+MLQ@8,BSDS,Width-matched raw,0.42025894317775964,not provided,not provided,9
+Waste@8,BSDS,Width-matched raw,0.3331944444444444,not provided,not provided,9
+AUC,BSDS,Width-matched raw,0.2716837029496341,not provided,not provided,9
+MLQ@1,BSDS,Width-matched raw,0.08241414550449513,not provided,not provided,9
+MLQ@2,BSDS,Width-matched raw,0.1435043513256561,not provided,not provided,9
+MLQ@3,BSDS,Width-matched raw,0.1993993971197142,not provided,not provided,9
+MLQ@4,BSDS,Width-matched raw,0.25671630794563194,not provided,not provided,9
+MLQ@5,BSDS,Width-matched raw,0.3101164369868396,not provided,not provided,9
+MLQ@6,BSDS,Width-matched raw,0.35970778728533737,not provided,not provided,9
+MLQ@7,BSDS,Width-matched raw,0.40135225425163906,not provided,not provided,9
+PairDice@8,BSDS,Width-matched raw,0.11935807491859629,not provided,not provided,9
+Unique95,BSDS,Width-matched raw,7.588888888888889,not provided,not provided,9
+MLQ@8,BSDS,Raw Capacity-WTA,0.42112467928479114,not provided,not provided,9
+Waste@8,BSDS,Raw Capacity-WTA,0.3420138888888889,not provided,not provided,9
+AUC,BSDS,Raw Capacity-WTA,0.27117345076565574,not provided,not provided,9
+MLQ@1,BSDS,Raw Capacity-WTA,0.07603516088805008,not provided,not provided,9
+MLQ@2,BSDS,Raw Capacity-WTA,0.14077985676585233,not provided,not provided,9
+MLQ@3,BSDS,Raw Capacity-WTA,0.20404873026805337,not provided,not provided,9
+MLQ@4,BSDS,Raw Capacity-WTA,0.2612356342694733,not provided,not provided,9
+MLQ@5,BSDS,Raw Capacity-WTA,0.3103036834738062,not provided,not provided,9
+MLQ@6,BSDS,Raw Capacity-WTA,0.3576531869276531,not provided,not provided,9
+MLQ@7,BSDS,Raw Capacity-WTA,0.39820667424756623,not provided,not provided,9
+PairDice@8,BSDS,Raw Capacity-WTA,0.10999716620995767,not provided,not provided,9
+Unique95,BSDS,Raw Capacity-WTA,7.605,not provided,not provided,9
+MLQ@8,BSDS,DINO Capacity-WTA,0.540842896906866,not provided,not provided,9
+Waste@8,BSDS,DINO Capacity-WTA,0.1773611111111111,not provided,not provided,9
+AUC,BSDS,DINO Capacity-WTA,0.3822300889855225,not provided,not provided,9
+MLQ@1,BSDS,DINO Capacity-WTA,0.1456642550480117,not provided,not provided,9
+MLQ@2,BSDS,DINO Capacity-WTA,0.2435519579258592,not provided,not provided,9
+MLQ@3,BSDS,DINO Capacity-WTA,0.31940016785423114,not provided,not provided,9
+MLQ@4,BSDS,DINO Capacity-WTA,0.3820519701846772,not provided,not provided,9
+MLQ@5,BSDS,DINO Capacity-WTA,0.4349916875900493,not provided,not provided,9
+MLQ@6,BSDS,DINO Capacity-WTA,0.47769565826488875,not provided,not provided,9
+MLQ@7,BSDS,DINO Capacity-WTA,0.5136421181095971,not provided,not provided,9
+PairDice@8,BSDS,DINO Capacity-WTA,0.09059812898540662,not provided,not provided,9
+Unique95,BSDS,DINO Capacity-WTA,7.989444444444444,not provided,not provided,9
+MLQ@8,RIGA-disc,SSRB,0.9675550297896067,not provided,not provided,9
+Waste@8,RIGA-disc,SSRB,0,not provided,not provided,9
+AUC,RIGA-disc,SSRB,0.9633683768687424,not provided,not provided,9
+MLQ@1,RIGA-disc,SSRB,0.9534954566425747,not provided,not provided,9
+MLQ@2,RIGA-disc,SSRB,0.9598135947298121,not provided,not provided,9
+MLQ@3,RIGA-disc,SSRB,0.9627124794324239,not provided,not provided,9
+MLQ@4,RIGA-disc,SSRB,0.9643844470271357,not provided,not provided,9
+MLQ@5,RIGA-disc,SSRB,0.965532348509188,not provided,not provided,9
+MLQ@6,RIGA-disc,SSRB,0.9664037276197363,not provided,not provided,9
+MLQ@7,RIGA-disc,SSRB,0.9670499311994624,not provided,not provided,9
+PairDice@8,RIGA-disc,SSRB,0.9619803890034004,not provided,not provided,9
+Unique95,RIGA-disc,SSRB,1.1274074074074074,not provided,not provided,9
+MLQ@8,RIGA-disc,Visible-aligned equal-logit addition,0.9653761155075498,not provided,not provided,9
+Waste@8,RIGA-disc,Visible-aligned equal-logit addition,0,not provided,not provided,9
+AUC,RIGA-disc,Visible-aligned equal-logit addition,0.9622102354908432,not provided,not provided,9
+MLQ@1,RIGA-disc,Visible-aligned equal-logit addition,0.9549313827797219,not provided,not provided,9
+MLQ@2,RIGA-disc,Visible-aligned equal-logit addition,0.9589998509707274,not provided,not provided,9
+MLQ@3,RIGA-disc,Visible-aligned equal-logit addition,0.9616377536897306,not provided,not provided,9
+MLQ@4,RIGA-disc,Visible-aligned equal-logit addition,0.9630181923619022,not provided,not provided,9
+MLQ@5,RIGA-disc,Visible-aligned equal-logit addition,0.9640593384371864,not provided,not provided,9
+MLQ@6,RIGA-disc,Visible-aligned equal-logit addition,0.9646155451403724,not provided,not provided,9
+MLQ@7,RIGA-disc,Visible-aligned equal-logit addition,0.9650437050395542,not provided,not provided,9
+PairDice@8,RIGA-disc,Visible-aligned equal-logit addition,0.973231674167845,not provided,not provided,9
+Unique95,RIGA-disc,Visible-aligned equal-logit addition,1.0185185185185186,not provided,not provided,9
+MLQ@8,RIGA-disc,Native raw4+DINO4 union,0.9649872148036956,not provided,not provided,9
+Waste@8,RIGA-disc,Native raw4+DINO4 union,0,not provided,not provided,9
+AUC,RIGA-disc,Native raw4+DINO4 union,0.9589375391436947,not provided,not provided,9
+MLQ@1,RIGA-disc,Native raw4+DINO4 union,0.9514090925675851,not provided,not provided,9
+MLQ@2,RIGA-disc,Native raw4+DINO4 union,0.9545440228338595,not provided,not provided,9
+MLQ@3,RIGA-disc,Native raw4+DINO4 union,0.9557210157977211,not provided,not provided,9
+MLQ@4,RIGA-disc,Native raw4+DINO4 union,0.956419943747697,not provided,not provided,9
+MLQ@5,RIGA-disc,Native raw4+DINO4 union,0.9611766696417774,not provided,not provided,9
+MLQ@6,RIGA-disc,Native raw4+DINO4 union,0.9630780060202987,not provided,not provided,9
+MLQ@7,RIGA-disc,Native raw4+DINO4 union,0.9641643477369238,not provided,not provided,9
+PairDice@8,RIGA-disc,Native raw4+DINO4 union,0.952819240446444,not provided,not provided,9
+Unique95,RIGA-disc,Native raw4+DINO4 union,1.4422222222222223,not provided,not provided,9
+MLQ@8,RIGA-disc,Conventionally initialized SSRB,0.9671262058946821,not provided,not provided,9
+Waste@8,RIGA-disc,Conventionally initialized SSRB,0,not provided,not provided,9
+AUC,RIGA-disc,Conventionally initialized SSRB,0.9628455791153291,not provided,not provided,9
+MLQ@1,RIGA-disc,Conventionally initialized SSRB,0.9524596688482496,not provided,not provided,9
+MLQ@2,RIGA-disc,Conventionally initialized SSRB,0.9593665751704463,not provided,not provided,9
+MLQ@3,RIGA-disc,Conventionally initialized SSRB,0.9622360274526808,not provided,not provided,9
+MLQ@4,RIGA-disc,Conventionally initialized SSRB,0.9638987962404887,not provided,not provided,9
+MLQ@5,RIGA-disc,Conventionally initialized SSRB,0.9650471096568637,not provided,not provided,9
+MLQ@6,RIGA-disc,Conventionally initialized SSRB,0.9659695085331244,not provided,not provided,9
+MLQ@7,RIGA-disc,Conventionally initialized SSRB,0.9666607411260957,not provided,not provided,9
+PairDice@8,RIGA-disc,Conventionally initialized SSRB,0.9602087948940418,not provided,not provided,9
+Unique95,RIGA-disc,Conventionally initialized SSRB,1.1377777777777776,not provided,not provided,9
+MLQ@8,RIGA-disc,Width-matched raw,0.9599848970218942,not provided,not provided,9
+Waste@8,RIGA-disc,Width-matched raw,0.1852777777777778,not provided,not provided,9
+AUC,RIGA-disc,Width-matched raw,0.9576428569853306,not provided,not provided,9
+MLQ@1,RIGA-disc,Width-matched raw,0.9493307020929125,not provided,not provided,9
+MLQ@2,RIGA-disc,Width-matched raw,0.9555462597476112,not provided,not provided,9
+MLQ@3,RIGA-disc,Width-matched raw,0.9579955089975287,not provided,not provided,9
+MLQ@4,RIGA-disc,Width-matched raw,0.9589161701114091,not provided,not provided,9
+MLQ@5,RIGA-disc,Width-matched raw,0.9595061056702224,not provided,not provided,9
+MLQ@6,RIGA-disc,Width-matched raw,0.9598917691354398,not provided,not provided,9
+MLQ@7,RIGA-disc,Width-matched raw,0.959971443105627,not provided,not provided,9
+PairDice@8,RIGA-disc,Width-matched raw,0.6699506930510203,not provided,not provided,9
+Unique95,RIGA-disc,Width-matched raw,3.0044444444444443,not provided,not provided,9
+MLQ@8,RIGA-disc,Raw Capacity-WTA,0.9576487511617167,not provided,not provided,9
+Waste@8,RIGA-disc,Raw Capacity-WTA,0.20314814814814813,not provided,not provided,9
+AUC,RIGA-disc,Raw Capacity-WTA,0.9559992949057509,not provided,not provided,9
+MLQ@1,RIGA-disc,Raw Capacity-WTA,0.9514090184370677,not provided,not provided,9
+MLQ@2,RIGA-disc,Raw Capacity-WTA,0.954543614078451,not provided,not provided,9
+MLQ@3,RIGA-disc,Raw Capacity-WTA,0.9557204503041725,not provided,not provided,9
+MLQ@4,RIGA-disc,Raw Capacity-WTA,0.9564195386127189,not provided,not provided,9
+MLQ@5,RIGA-disc,Raw Capacity-WTA,0.9571282450358073,not provided,not provided,9
+MLQ@6,RIGA-disc,Raw Capacity-WTA,0.9574965536594391,not provided,not provided,9
+MLQ@7,RIGA-disc,Raw Capacity-WTA,0.9576281879566334,not provided,not provided,9
+PairDice@8,RIGA-disc,Raw Capacity-WTA,0.660366548145259,not provided,not provided,9
+Unique95,RIGA-disc,Raw Capacity-WTA,2.888888888888889,not provided,not provided,9
+MLQ@8,RIGA-disc,DINO Capacity-WTA,0.9525906017091539,not provided,not provided,9
+Waste@8,RIGA-disc,DINO Capacity-WTA,0,not provided,not provided,9
+AUC,RIGA-disc,DINO Capacity-WTA,0.9486980654133691,not provided,not provided,9
+MLQ@1,RIGA-disc,DINO Capacity-WTA,0.9392666932830104,not provided,not provided,9
+MLQ@2,RIGA-disc,DINO Capacity-WTA,0.9455777831430788,not provided,not provided,9
+MLQ@3,RIGA-disc,DINO Capacity-WTA,0.9481080604482579,not provided,not provided,9
+MLQ@4,RIGA-disc,DINO Capacity-WTA,0.9497093145052592,not provided,not provided,9
+MLQ@5,RIGA-disc,DINO Capacity-WTA,0.9507806754995276,not provided,not provided,9
+MLQ@6,RIGA-disc,DINO Capacity-WTA,0.9514575841691759,not provided,not provided,9
+MLQ@7,RIGA-disc,DINO Capacity-WTA,0.9520938105494887,not provided,not provided,9
+PairDice@8,RIGA-disc,DINO Capacity-WTA,0.9553262488047282,not provided,not provided,9
+Unique95,RIGA-disc,DINO Capacity-WTA,1.314074074074074,not provided,not provided,9
+MLQ@8,RIGA-cup,SSRB,0.9140699088573456,not provided,not provided,9
+Waste@8,RIGA-cup,SSRB,0,not provided,not provided,9
+AUC,RIGA-cup,SSRB,0.9058038461594669,not provided,not provided,9
+MLQ@1,RIGA-cup,SSRB,0.886197171608607,not provided,not provided,9
+MLQ@2,RIGA-cup,SSRB,0.8987984994605734,not provided,not provided,9
+MLQ@3,RIGA-cup,SSRB,0.9042257680274823,not provided,not provided,9
+MLQ@4,RIGA-cup,SSRB,0.9078733215067122,not provided,not provided,9
+MLQ@5,RIGA-cup,SSRB,0.9102055943453754,not provided,not provided,9
+MLQ@6,RIGA-cup,SSRB,0.9118994241290622,not provided,not provided,9
+MLQ@7,RIGA-cup,SSRB,0.9131610813405778,not provided,not provided,9
+PairDice@8,RIGA-cup,SSRB,0.9209497463703156,not provided,not provided,9
+Unique95,RIGA-cup,SSRB,3.6474074074074077,not provided,not provided,9
+MLQ@8,RIGA-cup,Visible-aligned equal-logit addition,0.9071211824152204,not provided,not provided,9
+Waste@8,RIGA-cup,Visible-aligned equal-logit addition,0,not provided,not provided,9
+AUC,RIGA-cup,Visible-aligned equal-logit addition,0.902163087013695,not provided,not provided,9
+MLQ@1,RIGA-cup,Visible-aligned equal-logit addition,0.8914667529088479,not provided,not provided,9
+MLQ@2,RIGA-cup,Visible-aligned equal-logit addition,0.8975733883734103,not provided,not provided,9
+MLQ@3,RIGA-cup,Visible-aligned equal-logit addition,0.9007690843829402,not provided,not provided,9
+MLQ@4,RIGA-cup,Visible-aligned equal-logit addition,0.9033271756878607,not provided,not provided,9
+MLQ@5,RIGA-cup,Visible-aligned equal-logit addition,0.904677030466221,not provided,not provided,9
+MLQ@6,RIGA-cup,Visible-aligned equal-logit addition,0.905769415475704,not provided,not provided,9
+MLQ@7,RIGA-cup,Visible-aligned equal-logit addition,0.9066006663993552,not provided,not provided,9
+PairDice@8,RIGA-cup,Visible-aligned equal-logit addition,0.9564807902442084,not provided,not provided,9
+Unique95,RIGA-cup,Visible-aligned equal-logit addition,1.1659259259259258,not provided,not provided,9
+MLQ@8,RIGA-cup,Native raw4+DINO4 union,0.9093640277120802,not provided,not provided,9
+Waste@8,RIGA-cup,Native raw4+DINO4 union,0,not provided,not provided,9
+AUC,RIGA-cup,Native raw4+DINO4 union,0.9003485344902233,not provided,not provided,9
+MLQ@1,RIGA-cup,Native raw4+DINO4 union,0.8842879302854891,not provided,not provided,9
+MLQ@2,RIGA-cup,Native raw4+DINO4 union,0.8941964524763603,not provided,not provided,9
+MLQ@3,RIGA-cup,Native raw4+DINO4 union,0.8972994322246975,not provided,not provided,9
+MLQ@4,RIGA-cup,Native raw4+DINO4 union,0.8990083626023043,not provided,not provided,9
+MLQ@5,RIGA-cup,Native raw4+DINO4 union,0.9040445509221818,not provided,not provided,9
+MLQ@6,RIGA-cup,Native raw4+DINO4 union,0.9064746963094783,not provided,not provided,9
+MLQ@7,RIGA-cup,Native raw4+DINO4 union,0.9081128233891946,not provided,not provided,9
+PairDice@8,RIGA-cup,Native raw4+DINO4 union,0.901017877790663,not provided,not provided,9
+Unique95,RIGA-cup,Native raw4+DINO4 union,5,not provided,not provided,9
+MLQ@8,RIGA-cup,Conventionally initialized SSRB,0.9123331212114404,not provided,not provided,9
+Waste@8,RIGA-cup,Conventionally initialized SSRB,0,not provided,not provided,9
+AUC,RIGA-cup,Conventionally initialized SSRB,0.9039805736199573,not provided,not provided,9
+MLQ@1,RIGA-cup,Conventionally initialized SSRB,0.8846844806494535,not provided,not provided,9
+MLQ@2,RIGA-cup,Conventionally initialized SSRB,0.896346943201842,not provided,not provided,9
+MLQ@3,RIGA-cup,Conventionally initialized SSRB,0.9023056254563507,not provided,not provided,9
+MLQ@4,RIGA-cup,Conventionally initialized SSRB,0.9059919210716529,not provided,not provided,9
+MLQ@5,RIGA-cup,Conventionally initialized SSRB,0.9084400603064785,not provided,not provided,9
+MLQ@6,RIGA-cup,Conventionally initialized SSRB,0.9102002936380881,not provided,not provided,9
+MLQ@7,RIGA-cup,Conventionally initialized SSRB,0.911542143424352,not provided,not provided,9
+PairDice@8,RIGA-cup,Conventionally initialized SSRB,0.9168269889443009,not provided,not provided,9
+Unique95,RIGA-cup,Conventionally initialized SSRB,4.034814814814815,not provided,not provided,9
+MLQ@8,RIGA-cup,Width-matched raw,0.8994917116783282,not provided,not provided,9
+Waste@8,RIGA-cup,Width-matched raw,0.15388888888888888,not provided,not provided,9
+AUC,RIGA-cup,Width-matched raw,0.8958300640958328,not provided,not provided,9
+MLQ@1,RIGA-cup,Width-matched raw,0.8847608065163647,not provided,not provided,9
+MLQ@2,RIGA-cup,Width-matched raw,0.8922568345511402,not provided,not provided,9
+MLQ@3,RIGA-cup,Width-matched raw,0.8957080149209058,not provided,not provided,9
+MLQ@4,RIGA-cup,Width-matched raw,0.8974436736548388,not provided,not provided,9
+MLQ@5,RIGA-cup,Width-matched raw,0.8984697489385253,not provided,not provided,9
+MLQ@6,RIGA-cup,Width-matched raw,0.8991553031073676,not provided,not provided,9
+MLQ@7,RIGA-cup,Width-matched raw,0.8993544193991909,not provided,not provided,9
+PairDice@8,RIGA-cup,Width-matched raw,0.6993306723568175,not provided,not provided,9
+Unique95,RIGA-cup,Width-matched raw,3.2074074074074073,not provided,not provided,9
+MLQ@8,RIGA-cup,Raw Capacity-WTA,0.9011661899089813,not provided,not provided,9
+Waste@8,RIGA-cup,Raw Capacity-WTA,0.20212962962962966,not provided,not provided,9
+AUC,RIGA-cup,Raw Capacity-WTA,0.8972670002612803,not provided,not provided,9
+MLQ@1,RIGA-cup,Raw Capacity-WTA,0.884288185040156,not provided,not provided,9
+MLQ@2,RIGA-cup,Raw Capacity-WTA,0.894196457862854,not provided,not provided,9
+MLQ@3,RIGA-cup,Raw Capacity-WTA,0.8972991389698453,not provided,not provided,9
+MLQ@4,RIGA-cup,Raw Capacity-WTA,0.8990081306298574,not provided,not provided,9
+MLQ@5,RIGA-cup,Raw Capacity-WTA,0.9002263556586372,not provided,not provided,9
+MLQ@6,RIGA-cup,Raw Capacity-WTA,0.9008506206671397,not provided,not provided,9
+MLQ@7,RIGA-cup,Raw Capacity-WTA,0.9011009233527714,not provided,not provided,9
+PairDice@8,RIGA-cup,Raw Capacity-WTA,0.6479885721868939,not provided,not provided,9
+Unique95,RIGA-cup,Raw Capacity-WTA,3.3829629629629623,not provided,not provided,9
+MLQ@8,RIGA-cup,DINO Capacity-WTA,0.8885718231730991,not provided,not provided,9
+Waste@8,RIGA-cup,DINO Capacity-WTA,0,not provided,not provided,9
+AUC,RIGA-cup,DINO Capacity-WTA,0.8804232727874207,not provided,not provided,9
+MLQ@1,RIGA-cup,DINO Capacity-WTA,0.8605007255518878,not provided,not provided,9
+MLQ@2,RIGA-cup,DINO Capacity-WTA,0.8734910033367297,not provided,not provided,9
+MLQ@3,RIGA-cup,DINO Capacity-WTA,0.8790283605345973,not provided,not provided,9
+MLQ@4,RIGA-cup,DINO Capacity-WTA,0.8824792744936766,not provided,not provided,9
+MLQ@5,RIGA-cup,DINO Capacity-WTA,0.8848826544373123,not provided,not provided,9
+MLQ@6,RIGA-cup,DINO Capacity-WTA,0.8866221607614446,not provided,not provided,9
+MLQ@7,RIGA-cup,DINO Capacity-WTA,0.8878101800106191,not provided,not provided,9
+PairDice@8,RIGA-cup,DINO Capacity-WTA,0.9029183514471406,not provided,not provided,9
+Unique95,RIGA-cup,DINO Capacity-WTA,5.167407407407408,not provided,not provided,9
+MLQ@8 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.18330978740731052,0.17146700986560504,0.195152564949016,9 paired per method
+MLQ@8 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.03224772627640926,0.023274344949639314,0.04122110760317921,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.022954792481712838,0.011868450896149078,0.0340411340672766,9 paired per method
+MLQ@8 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.027448444874769717,0.011502326718245994,0.04339456303129344,9 paired per method
+MLQ@8 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.006948726442125186,0.005340289327965044,0.008557163556285328,9 paired per method
+MLQ@8 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.002178914282056965,0.00044944193086002434,0.003908386633253906,9 paired per method
+Waste@8 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,-0.3502777777777778,-0.37138821183472337,-0.32916734372083223,9 paired per method
+Waste@8 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.02931454418928322,0.020850996201971103,0.037778092176595335,9 paired per method
+Waste@8 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.01732209737827715,0.006750957999685586,0.027893236756868715,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.018576388888888885,0.00530284263205584,0.03184993514572193,9 paired per method
+Waste@8 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0,0,0,9 paired per method
+Waste@8 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0,0,0,9 paired per method
+AUC difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.16311150552279838,0.153505270809305,0.17271774023629174,9 paired per method
+AUC difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.027914672677855634,0.018126561498808633,0.037702783856902636,9 paired per method
+AUC difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.011959940588524454,0.0007693507733558431,0.023150530403693064,9 paired per method
+AUC difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.011088141770334126,-0.001227867989625533,0.023404151530293786,9 paired per method
+AUC difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.003640759145771888,0.0014220506891859047,0.005859467602357871,9 paired per method
+AUC difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.0011581413778992689,-0.0006514617155814865,0.002967744471380024,9 paired per method
+MLQ@1 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.08507132627906282,0.07412071001309822,0.09602194254502741,9 paired per method
+MLQ@1 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.010206971702919287,-0.0049396480018721114,0.025353591407710686,9 paired per method
+MLQ@1 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,-0.020340691908536712,-0.040422237893927515,-0.00025914592314590923,9 paired per method
+MLQ@1 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,-0.0326859728640152,-0.05072060499416747,-0.014651340733862924,9 paired per method
+MLQ@1 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,-0.005269581300240911,-0.010424098929992173,-0.0001150636704896485,9 paired per method
+MLQ@1 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,-0.0014359261371471588,-0.004305991411139503,0.0014341391368451854,9 paired per method
+MLQ@2 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.12959223885840104,0.11515578242882638,0.1440286952879757,9 paired per method
+MLQ@2 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.023759304550758364,0.0110470652304029,0.03647154387111383,9 paired per method
+MLQ@2 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.005239312396909335,-0.009450628210276469,0.01992925300409514,9 paired per method
+MLQ@2 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,-0.000619745156776208,-0.015123646600073036,0.01388415628652062,9 paired per method
+MLQ@2 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.0012251110871631665,-0.00288063047340216,0.005330852647728493,9 paired per method
+MLQ@2 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.0008137437590847174,-0.0014610789177666272,0.003088566435936062,9 paired per method
+MLQ@3 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.15689558620778568,0.14316738961494196,0.1706237828006294,9 paired per method
+MLQ@3 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.029139699320523738,0.018087559040914802,0.04019183960013267,9 paired per method
+MLQ@3 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.01213446409951957,-0.0006255664023723257,0.024894494601411465,9 paired per method
+MLQ@3 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.011335797936286807,-0.0031124332268269925,0.025784029099400606,9 paired per method
+MLQ@3 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.0034566836445421023,0.0005745126660300173,0.006338854623054188,9 paired per method
+MLQ@3 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.0010747257426932944,-0.0007701916738167658,0.0029196431592033545,9 paired per method
+MLQ@4 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.17850373492139224,0.1645438588032744,0.19246361103951007,9 paired per method
+MLQ@4 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.030727377857461602,0.020357905694562264,0.04109685002036094,9 paired per method
+MLQ@4 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.01631529363272588,0.005013567781461293,0.027617019483990465,9 paired per method
+MLQ@4 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.016536348174769233,0.0033266309031695,0.029746065446368965,9 paired per method
+MLQ@4 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.004546145818851488,0.0023239609517030427,0.006768330685999933,9 paired per method
+MLQ@4 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.001366254665233435,-0.00046268762004038084,0.003195196950507251,9 paired per method
+MLQ@5 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.1878957537371025,0.17362171910794633,0.20216978836625865,9 paired per method
+MLQ@5 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.03218722140892838,0.023040112122364554,0.04133433069549221,9 paired per method
+MLQ@5 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.01810622054876554,0.007139397842531391,0.029073043254999688,9 paired per method
+MLQ@5 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.019679381936455465,0.006718359296641146,0.03264040457626978,9 paired per method
+MLQ@5 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.005528563879154347,0.003764593703089181,0.007292534055219513,9 paired per method
+MLQ@5 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.0014730100720016237,-0.00015720305221935695,0.0031032231962226046,9 paired per method
+MLQ@6 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.19147056143355767,0.1769166332038676,0.20602448966324774,9 paired per method
+MLQ@6 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.03207222609364879,0.022888582602864395,0.04125586958443319,9 paired per method
+MLQ@6 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.019913607134157685,0.009552572473801013,0.030274641794514355,9 paired per method
+MLQ@6 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.022210902500874985,0.009183590780602387,0.03523821422114758,9 paired per method
+MLQ@6 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.006130008653358221,0.004440379396849834,0.007819637909866608,9 paired per method
+MLQ@6 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.0017881824793638534,0.00015912691967845199,0.0034172380390492547,9 paired per method
+MLQ@7 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.19215305533777516,0.17865055538191318,0.20565555529363713,9 paired per method
+MLQ@7 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,0.03297685421219487,0.02377168612056895,0.042182022303820794,9 paired per method
+MLQ@7 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,0.021356526322940383,0.011383910770871957,0.031329141875008806,9 paired per method
+MLQ@7 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,0.024799976760307985,0.011440540402927041,0.03815941311768893,9 paired per method
+MLQ@7 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,0.006560414941222614,0.004909359916380217,0.008211469966065012,9 paired per method
+MLQ@7 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.0020062261599081976,0.0004081718125520126,0.003604280507264383,9 paired per method
+PairDice@8 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.03813049978780327,0.028829581995654746,0.0474314175799518,9 paired per method
+PairDice@8 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,-0.13141426181529148,-0.1449655452170747,-0.11786297841350826,9 paired per method
+PairDice@8 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,-0.11322095721054715,-0.1311376066223139,-0.09530430779878038,9 paired per method
+PairDice@8 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,-0.11735370625845265,-0.13974353709052612,-0.09496387542637919,9 paired per method
+PairDice@8 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,-0.03553104387389283,-0.0436619253978531,-0.027400162349932557,9 paired per method
+PairDice@8 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,-0.011251285164444513,-0.014649049598721759,-0.007853520730167268,9 paired per method
+Unique95 difference,BSDS,SSRB minus Visible-aligned equal-logit addition,0.4411111111111099,0.3469289700132865,0.5352932522089333,9 paired per method
+Unique95 difference,IMA++,SSRB minus Visible-aligned equal-logit addition,2.0194850382741834,1.7365514916437834,2.3024185849045833,9 paired per method
+Unique95 difference,LIDC,SSRB minus Visible-aligned equal-logit addition,2.5780274656679163,2.361079195440366,2.7949757358954668,9 paired per method
+Unique95 difference,LIDC-hard,SSRB minus Visible-aligned equal-logit addition,2.692708333333333,2.440123581250127,2.945293085416539,9 paired per method
+Unique95 difference,RIGA-cup,SSRB minus Visible-aligned equal-logit addition,2.481481481481482,2.096292379046163,2.8666705839168007,9 paired per method
+Unique95 difference,RIGA-disc,SSRB minus Visible-aligned equal-logit addition,0.10888888888888881,-0.022196893312102783,0.2399746710898804,9 paired per method
+MLQ@8 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.08296535703043145,0.07311502737551927,0.09281568668534364,9 paired per method
+MLQ@8 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.00405600582586263,0.0005657742150432811,0.007546237436681978,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.0012574205783522086,-0.004661552471721058,0.007176393628425475,9 paired per method
+MLQ@8 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.002279174480483759,-0.006346314020024583,0.0109046629809921,9 paired per method
+MLQ@8 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.004705881145265378,0.001762775126256235,0.007648987164274521,9 paired per method
+MLQ@8 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.0025678149859110766,0.001287890589592441,0.0038477393822297125,9 paired per method
+Waste@8 difference,BSDS,SSRB minus Native raw4+DINO4 union,-0.13826388888888888,-0.159450770232174,-0.11707700754560377,9 paired per method
+Waste@8 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.013772906518209227,0.0002319647413592963,0.02731384829505916,9 paired per method
+Waste@8 difference,LIDC,SSRB minus Native raw4+DINO4 union,-0.015917602996254686,-0.029899433706998227,-0.0019357722855111465,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,-0.024045138888888887,-0.03962877397549955,-0.008461503802278222,9 paired per method
+Waste@8 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0,0,0,9 paired per method
+Waste@8 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0,0,0,9 paired per method
+AUC difference,BSDS,SSRB minus Native raw4+DINO4 union,0.09880494393291173,0.08822008391712635,0.1093898039486971,9 paired per method
+AUC difference,IMA++,SSRB minus Native raw4+DINO4 union,0.015431451805144825,0.007823325846601711,0.023039577763687938,9 paired per method
+AUC difference,LIDC,SSRB minus Native raw4+DINO4 union,-0.0021437345784489636,-0.010892404356532428,0.006604935199634501,9 paired per method
+AUC difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,-0.001640686114074641,-0.010465115434995514,0.007183743206846232,9 paired per method
+AUC difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.005455311669243512,0.000677089233159507,0.010233534105327517,9 paired per method
+AUC difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.004430837725047709,0.0025850431398498153,0.006276632310245603,9 paired per method
+MLQ@1 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.07131873449100568,0.05853961731888784,0.0840978516631235,9 paired per method
+MLQ@1 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.028163008605901263,0.00596419152145225,0.050361825690350276,9 paired per method
+MLQ@1 difference,LIDC,SSRB minus Native raw4+DINO4 union,-0.020908701207695835,-0.04260199340507806,0.0007845909896863901,9 paired per method
+MLQ@1 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,-0.023196730650508646,-0.04488570960301901,-0.0015077516979982789,9 paired per method
+MLQ@1 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.0019092413231178718,-0.003112481072935199,0.0069309637191709425,9 paired per method
+MLQ@1 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.002086364074989633,-0.0018005483846387955,0.005973276534618061,9 paired per method
+MLQ@2 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.10312473252843224,0.08659093696330739,0.11965852809355709,9 paired per method
+MLQ@2 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.02513231094908419,0.008338401302987845,0.04192622059518054,9 paired per method
+MLQ@2 difference,LIDC,SSRB minus Native raw4+DINO4 union,-0.004801710259674685,-0.01705866296842227,0.007455242449072901,9 paired per method
+MLQ@2 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,-0.003092546813907915,-0.018001865471218542,0.011816771843402712,9 paired per method
+MLQ@2 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.004602046984213182,-0.0023947353386488315,0.011598829307075195,9 paired per method
+MLQ@2 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.005269571895952563,0.0021839920146706606,0.008355151777234466,9 paired per method
+MLQ@3 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.11627560938161571,0.09845460677839248,0.13409661198483896,9 paired per method
+MLQ@3 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.02304790075717511,0.011484579780897237,0.03461122173345298,9 paired per method
+MLQ@3 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.00139121344131643,-0.010400964551487262,0.013183391434120123,9 paired per method
+MLQ@3 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.0035371629159877127,-0.010395073671560954,0.01746939950353638,9 paired per method
+MLQ@3 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.006926335802784789,-0.00030212949366178934,0.014154801099231368,9 paired per method
+MLQ@3 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.006991463634702821,0.0039470997535507295,0.010035827515854913,9 paired per method
+MLQ@4 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.12268204925077758,0.10683963459652718,0.13852446390502798,9 paired per method
+MLQ@4 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.01949434381145365,0.010511679906163727,0.028477007716743576,9 paired per method
+MLQ@4 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.0034644556636997947,-0.008118436721243497,0.015047348048643086,9 paired per method
+MLQ@4 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.004187687305643117,-0.008494364529375322,0.016869739140661557,9 paired per method
+MLQ@4 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.00886495890440786,0.0013762818592711222,0.016353635949544598,9 paired per method
+MLQ@4 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.00796450327943865,0.00485385477328371,0.011075151785593592,9 paired per method
+MLQ@5 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.10442913415324351,0.09057728001002929,0.11828098829645772,9 paired per method
+MLQ@5 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.010466376070988104,0.0058599084568056944,0.015072843685170513,9 paired per method
+MLQ@5 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.0013559502295612536,-0.0076530476807532485,0.010364948139875756,9 paired per method
+MLQ@5 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.0017818638061321002,-0.007507748226865341,0.011071475839129541,9 paired per method
+MLQ@5 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.0061610434231935685,0.0015807651999986006,0.010741321646388536,9 paired per method
+MLQ@5 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.004355678867410617,0.002888328869238781,0.005823028865582454,9 paired per method
+MLQ@6 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.09771333061365622,0.0856844541958857,0.10974220703142674,9 paired per method
+MLQ@6 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.0071969722301683525,0.003518670823002773,0.010875273637333932,9 paired per method
+MLQ@6 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.0006881768439667146,-0.006519668777905554,0.007896022465838985,9 paired per method
+MLQ@6 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.000692719987111734,-0.007554390637794325,0.008939830612017793,9 paired per method
+MLQ@6 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.005424727819583919,0.001684099824439528,0.00916535581472831,9 paired per method
+MLQ@6 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.003325721599437559,0.0020686122896016275,0.00458283090927349,9 paired per method
+MLQ@7 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.09193060401413183,0.08033792076213249,0.10352328726613118,9 paired per method
+MLQ@7 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.005894696190525517,0.0023900414378696814,0.009399350943181353,9 paired per method
+MLQ@7 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.00040331808288207593,-0.00536610444020074,0.0061727406059648915,9 paired per method
+MLQ@7 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.0006851800564618982,-0.007132062442905054,0.00850242255582885,9 paired per method
+MLQ@7 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.005048257951383195,0.0019114506272352011,0.008185065275531188,9 paired per method
+MLQ@7 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.0028855834625385324,0.0017869551293884713,0.003984211795688594,9 paired per method
+PairDice@8 difference,BSDS,SSRB minus Native raw4+DINO4 union,-0.0074318110979058605,-0.015773640844503167,0.0009100186486914446,9 paired per method
+PairDice@8 difference,IMA++,SSRB minus Native raw4+DINO4 union,-0.045586736242404946,-0.0661545039469697,-0.02501896853784019,9 paired per method
+PairDice@8 difference,LIDC,SSRB minus Native raw4+DINO4 union,0.07118548313950279,0.049392245942718974,0.09297872033628661,9 paired per method
+PairDice@8 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,0.07963742388722794,0.05706149325999916,0.10221335451445673,9 paired per method
+PairDice@8 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,0.019931868579652567,0.014481406710566065,0.02538233044873907,9 paired per method
+PairDice@8 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,0.009161148556956489,0.0062209970576473225,0.012101300056265654,9 paired per method
+Unique95 difference,BSDS,SSRB minus Native raw4+DINO4 union,0.1999999999999993,0.13506385805456142,0.26493614194543713,9 paired per method
+Unique95 difference,IMA++,SSRB minus Native raw4+DINO4 union,0.1976339596381358,0.0005722111908711414,0.39469570808540044,9 paired per method
+Unique95 difference,LIDC,SSRB minus Native raw4+DINO4 union,-1.1839367457344983,-1.4790626225918468,-0.8888108688771497,9 paired per method
+Unique95 difference,LIDC-hard,SSRB minus Native raw4+DINO4 union,-1.1836805555555552,-1.5364791307947416,-0.8308819803163687,9 paired per method
+Unique95 difference,RIGA-cup,SSRB minus Native raw4+DINO4 union,-1.3525925925925923,-1.7253492161500472,-0.9798359690351375,9 paired per method
+Unique95 difference,RIGA-disc,SSRB minus Native raw4+DINO4 union,-0.3148148148148149,-0.44075695486986843,-0.1888726747597613,9 paired per method
+MLQ@8 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.0008938404669364131,-0.004481182834754065,0.006268863768626891,9 paired per method
+MLQ@8 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.000571490551889986,-0.0012624762939528844,0.0024054573977328564,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.00260524570793097,-0.004850087190418619,-0.00036040422544332106,9 paired per method
+MLQ@8 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.004014926900466231,-0.008214017782549033,0.0001841639816165695,9 paired per method
+MLQ@8 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.0017367876459052356,-0.0010577869240991342,0.004531362215909605,9 paired per method
+MLQ@8 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0004288238949246015,-0.0006571029681476991,0.001514750757996902,9 paired per method
+Waste@8 difference,BSDS,SSRB minus Conventionally initialized SSRB,-0.004236111111111079,-0.028898351822100266,0.020426129599878107,9 paired per method
+Waste@8 difference,IMA++,SSRB minus Conventionally initialized SSRB,-0.0018847135235444262,-0.0046972860125261365,0.0009278589654372841,9 paired per method
+Waste@8 difference,LIDC,SSRB minus Conventionally initialized SSRB,0.0005722014148980409,-0.004888283121623761,0.0060326859514198425,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,0.002647569444444449,-0.003481818048038385,0.008776956936927283,9 paired per method
+Waste@8 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0,0,0,9 paired per method
+Waste@8 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0,0,0,9 paired per method
+AUC difference,BSDS,SSRB minus Conventionally initialized SSRB,0.0029651349392505466,-0.010261195765361013,0.016191465643862105,9 paired per method
+AUC difference,IMA++,SSRB minus Conventionally initialized SSRB,0.00133604705855761,-0.0013433860595683804,0.0040154801766836,9 paired per method
+AUC difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.004205890609157326,-0.007595311972389981,-0.0008164692459246706,9 paired per method
+AUC difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.005483530533749614,-0.009932772799308999,-0.00103428826819023,9 paired per method
+AUC difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.001823272539509535,-0.0009205369569416752,0.004567082035960745,9 paired per method
+AUC difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.000522797753413351,-0.0004665753192727917,0.0015121708260994937,9 paired per method
+MLQ@1 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.007220769741153266,-0.003612313976788262,0.01805385345909479,9 paired per method
+MLQ@1 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.003569207688411846,-0.002039800959807731,0.009178216336631424,9 paired per method
+MLQ@1 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.009618121740934238,-0.021140843361010006,0.0019045998791415303,9 paired per method
+MLQ@1 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.015037038699261318,-0.027393518878661774,-0.0026805585198608622,9 paired per method
+MLQ@1 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.0015126909591535176,-0.002102632815904239,0.0051280147342112736,9 paired per method
+MLQ@1 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.001035787794325116,-0.0008018585281758203,0.002873434116826052,9 paired per method
+MLQ@2 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.007393956857170758,-0.013857026537632978,0.028644940251974494,9 paired per method
+MLQ@2 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.0013519067167385712,-0.004454952288017008,0.00715876572149415,9 paired per method
+MLQ@2 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.004020692628106337,-0.010026596853549074,0.0019852115973364006,9 paired per method
+MLQ@2 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.004307232771679881,-0.01187523794686711,0.0032607724035073485,9 paired per method
+MLQ@2 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.002451556258731391,-0.0009553053995721224,0.005858417917034904,9 paired per method
+MLQ@2 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.00044701955936576887,-0.00044384798444644367,0.0013378871031779814,9 paired per method
+MLQ@3 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.0064006344049993835,-0.013980670089495554,0.02678193889949432,9 paired per method
+MLQ@3 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.00164020899594286,-0.001214197526854931,0.0044946155187406515,9 paired per method
+MLQ@3 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.003184171901225996,-0.008279795533711052,0.00191145173125906,9 paired per method
+MLQ@3 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.002208220929686755,-0.00806390161794811,0.0036474597585745994,9 paired per method
+MLQ@3 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.0019201425711316,-0.0007407804587959855,0.0045810656010591855,9 paired per method
+MLQ@3 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0004764519797431088,-0.0003588621274095257,0.0013117660868957434,9 paired per method
+MLQ@4 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.005092173309789838,-0.014533452697026623,0.0247177993166063,9 paired per method
+MLQ@4 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.0012030053258266227,-0.0011045086757463986,0.003510519327399644,9 paired per method
+MLQ@4 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.003596903390301276,-0.007740862030797142,0.0005470552501945902,9 paired per method
+MLQ@4 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.003988352950626717,-0.009657037267393979,0.0016803313661405452,9 paired per method
+MLQ@4 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.001881400435059244,-0.0008686373838009149,0.004631438253919403,9 paired per method
+MLQ@4 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0004856507866469739,-0.00040539793769934574,0.0013766995109932936,9 paired per method
+MLQ@5 difference,BSDS,SSRB minus Conventionally initialized SSRB,-0.0014182136663132838,-0.018352188397343046,0.015515761064716478,9 paired per method
+MLQ@5 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.001025251393491744,-0.000991036374685957,0.003041539161669445,9 paired per method
+MLQ@5 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.0036515635060386797,-0.00754407014759856,0.000240943135521201,9 paired per method
+MLQ@5 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.004165808918332958,-0.010256228684985842,0.001924610848319925,9 paired per method
+MLQ@5 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.0017655340388968987,-0.0007388868533135615,0.004269954931107359,9 paired per method
+MLQ@5 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0004852388523243212,-0.0005134313726924957,0.001483909077341138,9 paired per method
+MLQ@6 difference,BSDS,SSRB minus Conventionally initialized SSRB,-0.0025617058368192502,-0.014857300026519363,0.009733888352880863,9 paired per method
+MLQ@6 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.0005809713305066078,-0.0015617326131250465,0.002723675274138262,9 paired per method
+MLQ@6 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.0036476538223967347,-0.006674256225693951,-0.0006210514190995186,9 paired per method
+MLQ@6 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.004817787837237186,-0.010258812842575873,0.000623237168101501,9 paired per method
+MLQ@6 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.0016991304909741434,-0.0008011076735267566,0.004199368655475043,9 paired per method
+MLQ@6 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0004342190866118978,-0.0006790092896049255,0.001547447462828721,9 paired per method
+MLQ@7 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.0006996242370870265,-0.010766756925149876,0.012166005399323929,9 paired per method
+MLQ@7 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.0007463344656526427,-0.00124423243823924,0.0027369013695445255,9 paired per method
+MLQ@7 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.0033227721763261497,-0.0059733648440976565,-0.000672179508554643,9 paired per method
+MLQ@7 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.005328875262704202,-0.011050021650548147,0.0003922711251397419,9 paired per method
+MLQ@7 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.0016189379162258044,-0.0011176646088019541,0.004355540441253563,9 paired per method
+MLQ@7 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0003891900733666853,-0.0006554744726915758,0.0014338546194249465,9 paired per method
+PairDice@8 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.0005789280636236127,-0.007506195124765981,0.008664051252013206,9 paired per method
+PairDice@8 difference,IMA++,SSRB minus Conventionally initialized SSRB,0.006422306826401658,-0.0023324968443487557,0.015177110497152072,9 paired per method
+PairDice@8 difference,LIDC,SSRB minus Conventionally initialized SSRB,0.00028763858417746313,-0.005056064916110294,0.0056313420844652205,9 paired per method
+PairDice@8 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.0001563268506693527,-0.007248001339940925,0.006935347638602219,9 paired per method
+PairDice@8 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,0.004122757426014645,-0.0026683020533646894,0.010913816905393978,9 paired per method
+PairDice@8 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,0.0017715941093586762,0.000265909937543541,0.0032772782811738115,9 paired per method
+Unique95 difference,BSDS,SSRB minus Conventionally initialized SSRB,0.001666666666666039,-0.003424549107295019,0.006757882440627097,9 paired per method
+Unique95 difference,IMA++,SSRB minus Conventionally initialized SSRB,-0.07701229413129163,-0.2450261304094783,0.09100154214689504,9 paired per method
+Unique95 difference,LIDC,SSRB minus Conventionally initialized SSRB,-0.10944652517686126,-0.3503476772653858,0.13145462691166326,9 paired per method
+Unique95 difference,LIDC-hard,SSRB minus Conventionally initialized SSRB,-0.11770833333333375,-0.405297779947768,0.1698811132811005,9 paired per method
+Unique95 difference,RIGA-cup,SSRB minus Conventionally initialized SSRB,-0.387407407407407,-0.8237037037037058,0.048888888888891924,9 paired per method
+Unique95 difference,RIGA-disc,SSRB minus Conventionally initialized SSRB,-0.010370370370370141,-0.05694376746303448,0.036203026722294196,9 paired per method
+MLQ@8 difference,BSDS,SSRB minus Width-matched raw,0.12115215734889112,0.10403501908573219,0.13826929561205006,9 paired per method
+MLQ@8 difference,IMA++,SSRB minus Width-matched raw,0.009326739615109436,0.004202362494111081,0.014451116736107791,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus Width-matched raw,0.003821465820833758,-0.007245621540609185,0.014888553182276701,9 paired per method
+MLQ@8 difference,LIDC-hard,SSRB minus Width-matched raw,-0.0020367609181751734,-0.0129533338977681,0.008879812061417754,9 paired per method
+MLQ@8 difference,RIGA-cup,SSRB minus Width-matched raw,0.014578197179017427,0.00907015823677899,0.020086236121255863,9 paired per method
+MLQ@8 difference,RIGA-disc,SSRB minus Width-matched raw,0.007570132767712567,0.003389262887280295,0.01175100264814484,9 paired per method
+Waste@8 difference,BSDS,SSRB minus Width-matched raw,-0.16062499999999993,-0.1857597950211092,-0.13549020497889067,9 paired per method
+Waste@8 difference,IMA++,SSRB minus Width-matched raw,-0.03995592669914175,-0.05375794712712441,-0.026153906271159086,9 paired per method
+Waste@8 difference,LIDC,SSRB minus Width-matched raw,0.0046296296296296224,-0.012169413023580468,0.021428672282839713,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus Width-matched raw,0.00390625,-0.009764007344469994,0.017576507344469992,9 paired per method
+Waste@8 difference,RIGA-cup,SSRB minus Width-matched raw,-0.15388888888888888,-0.20552620680748057,-0.10225157097029719,9 paired per method
+Waste@8 difference,RIGA-disc,SSRB minus Width-matched raw,-0.1852777777777778,-0.23836599816801252,-0.13218955738754307,9 paired per method
+AUC difference,BSDS,SSRB minus Width-matched raw,0.11125736583697782,0.09699723833243411,0.1255174933415215,9 paired per method
+AUC difference,IMA++,SSRB minus Width-matched raw,0.015937045491631774,0.00857921879394565,0.023294872189317896,9 paired per method
+AUC difference,LIDC,SSRB minus Width-matched raw,0.0007821130819851696,-0.01128228142630217,0.01284650759027251,9 paired per method
+AUC difference,LIDC-hard,SSRB minus Width-matched raw,-0.002862648850451621,-0.014305760104058544,0.008580462403155301,9 paired per method
+AUC difference,RIGA-cup,SSRB minus Width-matched raw,0.009973782063634085,0.005242847345668861,0.01470471678159931,9 paired per method
+AUC difference,RIGA-disc,SSRB minus Width-matched raw,0.005725519883411856,0.0008343773589187453,0.010616662407904966,9 paired per method
+MLQ@1 difference,BSDS,SSRB minus Width-matched raw,0.06493994231500538,0.047529470584570785,0.08235041404543998,9 paired per method
+MLQ@1 difference,IMA++,SSRB minus Width-matched raw,0.023089810885122297,0.00830597791516435,0.03787364385508024,9 paired per method
+MLQ@1 difference,LIDC,SSRB minus Width-matched raw,-0.016310670289007234,-0.0384252780791305,0.005803937501116036,9 paired per method
+MLQ@1 difference,LIDC-hard,SSRB minus Width-matched raw,-0.023592481465311677,-0.04949479070940081,0.002309827778777456,9 paired per method
+MLQ@1 difference,RIGA-cup,SSRB minus Width-matched raw,0.00143636509224232,-0.003930895946039639,0.006803626130524279,9 paired per method
+MLQ@1 difference,RIGA-disc,SSRB minus Width-matched raw,0.004164754549662253,-0.0033325404734719415,0.011662049572796446,9 paired per method
+MLQ@2 difference,BSDS,SSRB minus Width-matched raw,0.10040045400338693,0.0786389401872864,0.12216196781948746,9 paired per method
+MLQ@2 difference,IMA++,SSRB minus Width-matched raw,0.02066409887573961,0.00881144728093632,0.03251675047054291,9 paired per method
+MLQ@2 difference,LIDC,SSRB minus Width-matched raw,-0.001166671775343353,-0.01485417959795826,0.012520836047271553,9 paired per method
+MLQ@2 difference,LIDC-hard,SSRB minus Width-matched raw,-0.003947666150553308,-0.018580401293172587,0.01068506899206597,9 paired per method
+MLQ@2 difference,RIGA-cup,SSRB minus Width-matched raw,0.006541664909433198,0.0017375422695923813,0.011345787549274015,9 paired per method
+MLQ@2 difference,RIGA-disc,SSRB minus Width-matched raw,0.004267334982200888,-0.0018089418466495219,0.010343611811051298,9 paired per method
+MLQ@3 difference,BSDS,SSRB minus Width-matched raw,0.12092530429237838,0.09777331575735415,0.14407729282740261,9 paired per method
+MLQ@3 difference,IMA++,SSRB minus Width-matched raw,0.020078416458613857,0.009371381744415668,0.030785451172812048,9 paired per method
+MLQ@3 difference,LIDC,SSRB minus Width-matched raw,0.0025597526441873963,-0.009852982656213129,0.014972487944587921,9 paired per method
+MLQ@3 difference,LIDC-hard,SSRB minus Width-matched raw,0.001305992044540738,-0.010686492017701157,0.013298476106782633,9 paired per method
+MLQ@3 difference,RIGA-cup,SSRB minus Width-matched raw,0.008517753106576542,0.0033635777112095335,0.01367192850194355,9 paired per method
+MLQ@3 difference,RIGA-disc,SSRB minus Width-matched raw,0.0047169704348951624,-0.0003070243599731593,0.009740965229763483,9 paired per method
+MLQ@4 difference,BSDS,SSRB minus Width-matched raw,0.12720189260352027,0.10465247335492787,0.14975131185211266,9 paired per method
+MLQ@4 difference,IMA++,SSRB minus Width-matched raw,0.016925095412634872,0.0090377820306842,0.024812408794585544,9 paired per method
+MLQ@4 difference,LIDC,SSRB minus Width-matched raw,0.004441717122066979,-0.00742937522215514,0.0163128094662891,9 paired per method
+MLQ@4 difference,LIDC-hard,SSRB minus Width-matched raw,0.002573807332858724,-0.009101243988123838,0.014248858653841286,9 paired per method
+MLQ@4 difference,RIGA-cup,SSRB minus Width-matched raw,0.010429647851873391,0.00496682086997854,0.015892474833768242,9 paired per method
+MLQ@4 difference,RIGA-disc,SSRB minus Width-matched raw,0.0054682769157266,0.0009289644904973962,0.010007589340955803,9 paired per method
+MLQ@5 difference,BSDS,SSRB minus Width-matched raw,0.12436093570833484,0.1078217417921695,0.1409001296245002,9 paired per method
+MLQ@5 difference,IMA++,SSRB minus Width-matched raw,0.014610147871438217,0.007915052195927794,0.02130524354694864,9 paired per method
+MLQ@5 difference,LIDC,SSRB minus Width-matched raw,0.004416408310084163,-0.007376892112842563,0.01620970873301089,9 paired per method
+MLQ@5 difference,LIDC-hard,SSRB minus Width-matched raw,0.0018851014139525946,-0.010405763354863908,0.014175966182769097,9 paired per method
+MLQ@5 difference,RIGA-cup,SSRB minus Width-matched raw,0.011735845406850132,0.006218933252357037,0.017252757561343226,9 paired per method
+MLQ@5 difference,RIGA-disc,SSRB minus Width-matched raw,0.006026242838965579,0.0016547648243376888,0.01039772085359347,9 paired per method
+MLQ@6 difference,BSDS,SSRB minus Width-matched raw,0.11838569192413873,0.10451309354327606,0.13225829030500139,9 paired per method
+MLQ@6 difference,IMA++,SSRB minus Width-matched raw,0.011855295781828423,0.005845629882608499,0.01786496168104835,9 paired per method
+MLQ@6 difference,LIDC,SSRB minus Width-matched raw,0.004698221480665343,-0.006908248895933132,0.01630469185726382,9 paired per method
+MLQ@6 difference,LIDC-hard,SSRB minus Width-matched raw,0.0017142381646813032,-0.009898390325061589,0.013326866654424195,9 paired per method
+MLQ@6 difference,RIGA-cup,SSRB minus Width-matched raw,0.012744121021694643,0.00716216130344817,0.018326080739941117,9 paired per method
+MLQ@6 difference,RIGA-disc,SSRB minus Width-matched raw,0.006511958484296421,0.0023256903606516735,0.010698226607941168,9 paired per method
+MLQ@7 difference,BSDS,SSRB minus Width-matched raw,0.11269254850016702,0.09662037257134803,0.128764724428986,9 paired per method
+MLQ@7 difference,IMA++,SSRB minus Width-matched raw,0.010946759032567477,0.00570499968004348,0.01618851838509147,9 paired per method
+MLQ@7 difference,LIDC,SSRB minus Width-matched raw,0.0037966813423946366,-0.007787403455655491,0.015380766140444764,9 paired per method
+MLQ@7 difference,LIDC-hard,SSRB minus Width-matched raw,-0.0008034212256058382,-0.012346883630721733,0.010740041179510057,9 paired per method
+MLQ@7 difference,RIGA-cup,SSRB minus Width-matched raw,0.01380666194138691,0.00820485004522783,0.019408473837545993,9 paired per method
+MLQ@7 difference,RIGA-disc,SSRB minus Width-matched raw,0.007078488093835378,0.002951006045009628,0.011205970142661129,9 paired per method
+PairDice@8 difference,BSDS,SSRB minus Width-matched raw,-0.027391871562124137,-0.03766330271855789,-0.017120440405690388,9 paired per method
+PairDice@8 difference,IMA++,SSRB minus Width-matched raw,0.04422293519426235,0.030874947026910432,0.05757092336161426,9 paired per method
+PairDice@8 difference,LIDC,SSRB minus Width-matched raw,-0.003074398257312705,-0.02296158605493041,0.016812789540305,9 paired per method
+PairDice@8 difference,LIDC-hard,SSRB minus Width-matched raw,-0.0028516999290635336,-0.02596927522744155,0.020265875369314484,9 paired per method
+PairDice@8 difference,RIGA-cup,SSRB minus Width-matched raw,0.22161907401349812,0.1636486691904221,0.27958947883657415,9 paired per method
+PairDice@8 difference,RIGA-disc,SSRB minus Width-matched raw,0.29202969595238015,0.24566945874433507,0.33838993316042526,9 paired per method
+Unique95 difference,BSDS,SSRB minus Width-matched raw,0.4027777777777777,0.2838888888888882,0.5216666666666672,9 paired per method
+Unique95 difference,IMA++,SSRB minus Width-matched raw,-0.024124333101367412,-0.16933854975073648,0.12108988354800165,9 paired per method
+Unique95 difference,LIDC,SSRB minus Width-matched raw,-0.04119850187265861,-0.40536155478243807,0.32296455103712085,9 paired per method
+Unique95 difference,LIDC-hard,SSRB minus Width-matched raw,-0.05104166666666643,-0.4959895998783218,0.39390626654498895,9 paired per method
+Unique95 difference,RIGA-cup,SSRB minus Width-matched raw,0.4400000000000004,-0.286898622257837,1.166898622257838,9 paired per method
+Unique95 difference,RIGA-disc,SSRB minus Width-matched raw,-1.8770370370370368,-2.059756122392345,-1.6943179516817288,9 paired per method
+residual_mean_abs,LIDC,SSRB residual diagnostic,0.8191107988831926,0.7692348618744156,0.8824457796394762,9
+residual_rms,LIDC,SSRB residual diagnostic,1.6626559181872926,1.5961479302103068,1.73961667221939,9
+relative_residual_rms,LIDC,SSRB residual diagnostic,0.05113525465826487,0.04858624115511026,0.05332485359178359,9
+anchor_fused_dice,LIDC,SSRB residual diagnostic,0.7951839826137023,0.7801914670785199,0.8097185619128624,9
+signed_area_change,LIDC,SSRB residual diagnostic,0.0017075270749209973,0.0014434388062380444,0.002027735084312741,9
+absolute_area_change,LIDC,SSRB residual diagnostic,0.0023183040801455865,0.00203933004512779,0.002641258813449161,9
+absolute_component_change,LIDC,SSRB residual diagnostic,0.36397211818560127,0.27680013235358725,0.4640790633608814,9
+symmetric_boundary_displacement_px,LIDC,SSRB residual diagnostic,6.974500537283107,4.899370573040787,9.354097613209456,9
+residual_magnitude_in_boundary_band,LIDC,SSRB residual diagnostic,0.1015894292886749,0.09332537393291672,0.11031814054845099,9
+boundary_to_nonboundary_magnitude_ratio,LIDC,SSRB residual diagnostic,8.556905409721564,7.815327576152451,9.39532623720501,9
+residual_mean_abs,BSDS,SSRB residual diagnostic,0.11133940414599541,0.06357051998170754,0.15482891611726032,9
+residual_rms,BSDS,SSRB residual diagnostic,0.1525660449506904,0.09272186987105914,0.1994796991875179,9
+relative_residual_rms,BSDS,SSRB residual diagnostic,0.03617782708528871,0.022429850407284145,0.045768826932738975,9
+anchor_fused_dice,BSDS,SSRB residual diagnostic,0.961187914796012,0.9406146558548903,0.9786692949186246,9
+signed_area_change,BSDS,SSRB residual diagnostic,0.001061083475748698,-0.0013850959142049158,0.004444557507832844,9
+absolute_area_change,BSDS,SSRB residual diagnostic,0.007253057691786024,0.004278025309244792,0.009708962440490724,9
+absolute_component_change,BSDS,SSRB residual diagnostic,0.6479861111111112,0.48604166666666687,0.8581302083333333,9
+symmetric_boundary_displacement_px,BSDS,SSRB residual diagnostic,0.5767962892199155,0.3347428100662985,0.8491161004811094,9
+residual_magnitude_in_boundary_band,BSDS,SSRB residual diagnostic,0.11694988879811324,0.11364088504414678,0.12069081137166612,9
+boundary_to_nonboundary_magnitude_ratio,BSDS,SSRB residual diagnostic,0.9901240830910354,0.9265866080109255,1.052235365990781,9
+residual_mean_abs,IMA++,SSRB residual diagnostic,0.7237172083431439,0.6204929024768298,0.8023559808521814,9
+residual_rms,IMA++,SSRB residual diagnostic,0.87198735989727,0.7263939308133186,0.977600163701052,9
+relative_residual_rms,IMA++,SSRB residual diagnostic,0.0954517621543311,0.08110209876823456,0.11065299078895578,9
+anchor_fused_dice,IMA++,SSRB residual diagnostic,0.9389043547169421,0.9250728355319766,0.9529380379291338,9
+signed_area_change,IMA++,SSRB residual diagnostic,-0.002537751468807991,-0.006416190989579933,0.003122917446064798,9
+absolute_area_change,IMA++,SSRB residual diagnostic,0.01318525731549742,0.01076256962835692,0.016710322651501408,9
+absolute_component_change,IMA++,SSRB residual diagnostic,0.7809962885641383,0.6688413361169104,0.9067262526096033,9
+symmetric_boundary_displacement_px,IMA++,SSRB residual diagnostic,1.9465767730244954,1.4101922885262315,2.566359912267397,9
+residual_magnitude_in_boundary_band,IMA++,SSRB residual diagnostic,0.11166699367746781,0.10393560225342742,0.12077735514368818,9
+boundary_to_nonboundary_magnitude_ratio,IMA++,SSRB residual diagnostic,1.7358999221486073,1.5025445453782806,1.9585969686779445,9
+residual_mean_abs,RIGA-disc,SSRB residual diagnostic,0.5305330594291015,0.4671163879806279,0.5916515227486381,9
+residual_rms,RIGA-disc,SSRB residual diagnostic,0.8981156215140665,0.783371987955386,1.0087790546064024,9
+relative_residual_rms,RIGA-disc,SSRB residual diagnostic,0.05838166592478822,0.04912632855411439,0.06832519618332542,9
+anchor_fused_dice,RIGA-disc,SSRB residual diagnostic,0.9759465004554686,0.9731692880086055,0.9786570965859773,9
+signed_area_change,RIGA-disc,SSRB residual diagnostic,0.001552254005714699,0.0011630520290798608,0.0019409257394296146,9
+absolute_area_change,RIGA-disc,SSRB residual diagnostic,0.0026699772587528937,0.0022988043891059027,0.0029958627488878044,9
+absolute_component_change,RIGA-disc,SSRB residual diagnostic,0.008611111111111111,0.004907407407407406,0.013055555555555556,9
+symmetric_boundary_displacement_px,RIGA-disc,SSRB residual diagnostic,0.4804510307514671,0.4302728814302882,0.5323750019334137,9
+residual_magnitude_in_boundary_band,RIGA-disc,SSRB residual diagnostic,0.19316572582228453,0.17575399982081116,0.21482338574476947,9
+boundary_to_nonboundary_magnitude_ratio,RIGA-disc,SSRB residual diagnostic,5.209836286990411,4.642743896470536,5.948937957739235,9
+residual_mean_abs,RIGA-cup,SSRB residual diagnostic,0.5661770416506463,0.5022270978177485,0.6154891479900798,9
+residual_rms,RIGA-cup,SSRB residual diagnostic,1.0590475928286711,0.9452609186196116,1.1480185081547611,9
+relative_residual_rms,RIGA-cup,SSRB residual diagnostic,0.05432963910249614,0.04776956978766894,0.05915532953914953,9
+anchor_fused_dice,RIGA-cup,SSRB residual diagnostic,0.9421623920483321,0.9362924174601199,0.9489223280566617,9
+signed_area_change,RIGA-cup,SSRB residual diagnostic,0.0005797266077112269,-9.05990600585939e-06,0.001046340518527561,9
+absolute_area_change,RIGA-cup,SSRB residual diagnostic,0.0026117904097945604,0.0024808968438042533,0.0027495549519856773,9
+absolute_component_change,RIGA-cup,SSRB residual diagnostic,0.014907407407407407,0.007870370370370371,0.02398148148148148,9
+symmetric_boundary_displacement_px,RIGA-cup,SSRB residual diagnostic,0.5933196900540965,0.5285373872874402,0.6509142267076795,9
+residual_magnitude_in_boundary_band,RIGA-cup,SSRB residual diagnostic,0.2771773481231045,0.26256382049836596,0.2916490977838101,9
+boundary_to_nonboundary_magnitude_ratio,RIGA-cup,SSRB residual diagnostic,5.6718085357545505,5.274203591711054,6.073849255758439,9
+MLQ@8,BSDS,DINOv2 Capacity-WTA,0.5193167261282603,not provided,not provided,9
+Waste@8,BSDS,DINOv2 Capacity-WTA,0.17347222222222222,not provided,not provided,9
+MLQ@8,BSDS,DINOv2 SSRB,0.5206816201408704,not provided,not provided,9
+Waste@8,BSDS,DINOv2 SSRB,0.16819444444444445,not provided,not provided,9
+MLQ@8,BSDS,DINOv3 SSRB,0.5414111005266508,not provided,not provided,9
+Waste@8,BSDS,DINOv3 SSRB,0.17256944444444444,not provided,not provided,9
+MLQ@8,LIDC,DINOv2 Capacity-WTA,0.8497394675065701,not provided,not provided,9
+Waste@8,LIDC,DINOv2 Capacity-WTA,0.055295464003329166,not provided,not provided,9
+MLQ@8,LIDC,DINOv2 SSRB,0.8950165789473618,not provided,not provided,9
+Waste@8,LIDC,DINOv2 SSRB,0.04234290470245526,not provided,not provided,9
+MLQ@8,LIDC,DINOv3 SSRB,0.8932238377373366,not provided,not provided,9
+Waste@8,LIDC,DINOv3 SSRB,0.042707032875572204,not provided,not provided,9
+MLQ@8,LIDC-hard,DINOv2 Capacity-WTA,0.8210493772381192,not provided,not provided,9
+Waste@8,LIDC-hard,DINOv2 Capacity-WTA,0.06293402777777778,not provided,not provided,9
+MLQ@8,LIDC-hard,DINOv2 SSRB,0.8644550261812077,not provided,not provided,9
+Waste@8,LIDC-hard,DINOv2 SSRB,0.04587673611111111,not provided,not provided,9
+MLQ@8,LIDC-hard,DINOv3 SSRB,0.8614440172289809,not provided,not provided,9
+Waste@8,LIDC-hard,DINOv3 SSRB,0.045182291666666666,not provided,not provided,9
+MLQ@8 difference,LIDC,DINOv2 SSRB minus DINOv2 Capacity-WTA,0.045277111440791606,0.03868906299855315,0.05186515988303006,9 paired per method
+Waste@8 difference,LIDC,DINOv2 SSRB minus DINOv2 Capacity-WTA,-0.012952559300873911,-0.019258115704765835,-0.006647002896981987,9 paired per method
+MLQ@8 difference,LIDC-hard,DINOv2 SSRB minus DINOv2 Capacity-WTA,0.043405648943088626,0.03508563400897538,0.05172566387720187,9 paired per method
+Waste@8 difference,LIDC-hard,DINOv2 SSRB minus DINOv2 Capacity-WTA,-0.01705729166666667,-0.025667338316748823,-0.008447245016584514,9 paired per method
+MLQ@8 difference,BSDS,DINOv2 SSRB minus DINOv2 Capacity-WTA,0.001364894012610085,-2.8324235146090027e-05,0.00275811226036626,9 paired per method
+Waste@8 difference,BSDS,DINOv2 SSRB minus DINOv2 Capacity-WTA,-0.005277777777777798,-0.010138888888888892,-0.00041666666666670404,9 paired per method
+MLQ@8,BSDS,Probabilistic U-Net,0.060019640754035174,not provided,not provided,3
+Waste@8,BSDS,Probabilistic U-Net,0.8639583333333333,not provided,not provided,3
+Worst@8,BSDS,Probabilistic U-Net,0.004293358654501033,not provided,not provided,3
+AUC,BSDS,Probabilistic U-Net,0.04586769708882413,not provided,not provided,3
+PairDice@8,BSDS,Probabilistic U-Net,0.8224561709910633,not provided,not provided,3
+Unique@0.95,BSDS,Probabilistic U-Net,2.1750000000000003,not provided,not provided,3
+GED squared,BSDS,Probabilistic U-Net,0.9728188191706305,not provided,not provided,3
+MLQ@8,IMA++,CIMD,0.8496497189360376,not provided,not provided,3
+Waste@8,IMA++,CIMD,0.24652052887961026,not provided,not provided,3
+Worst@8,IMA++,CIMD,0.8427592195304853,not provided,not provided,3
+AUC,IMA++,CIMD,0.7825002125066346,not provided,not provided,3
+PairDice@8,IMA++,CIMD,0.5660065413875895,not provided,not provided,3
+Unique@0.95,IMA++,CIMD,6.679888656924148,not provided,not provided,3
+GED squared,IMA++,CIMD,0.49386035643252946,not provided,not provided,3
+MLQ@8,LIDC,CIMD,0.5808082484580883,not provided,not provided,3
+Waste@8,LIDC,CIMD,0.6181335830212235,not provided,not provided,3
+Worst@8,LIDC,CIMD,0.5510212975861121,not provided,not provided,3
+AUC,LIDC,CIMD,0.474189904444921,not provided,not provided,3
+PairDice@8,LIDC,CIMD,0.4116961257102039,not provided,not provided,3
+Unique@0.95,LIDC,CIMD,7.272159800249688,not provided,not provided,3
+GED squared,LIDC,CIMD,0.8882472941932876,not provided,not provided,3
+MLQ@8,LIDC-hard,CIMD,0.5220103319231794,not provided,not provided,3
+Waste@8,LIDC-hard,CIMD,0.6883356549992822,not provided,not provided,3
+Worst@8,LIDC-hard,CIMD,0.5098994303741179,not provided,not provided,3
+AUC,LIDC-hard,CIMD,0.41954713673750615,not provided,not provided,3
+PairDice@8,LIDC-hard,CIMD,0.39082058260099967,not provided,not provided,3
+Unique@0.95,LIDC-hard,CIMD,7.172833150379109,not provided,not provided,3
+GED squared,LIDC-hard,CIMD,1.0271323969071842,not provided,not provided,3
+MLQ@8,RIGA-disc,CIMD,0.8098342491355207,not provided,not provided,3
+Waste@8,RIGA-disc,CIMD,0.4147222222222222,not provided,not provided,3
+Worst@8,RIGA-disc,CIMD,0.7935723037852181,not provided,not provided,3
+AUC,RIGA-disc,CIMD,0.7145012907538977,not provided,not provided,3
+PairDice@8,RIGA-disc,CIMD,0.7328120234277513,not provided,not provided,3
+Unique@0.95,RIGA-disc,CIMD,4.753333333333333,not provided,not provided,3
+GED squared,RIGA-disc,CIMD,0.7175975145516521,not provided,not provided,3
+MLQ@8,RIGA-cup,CIMD,0.8309366667932934,not provided,not provided,3
+Waste@8,RIGA-cup,CIMD,0.10166666666666661,not provided,not provided,3
+Worst@8,RIGA-cup,CIMD,0.791626282400555,not provided,not provided,3
+AUC,RIGA-cup,CIMD,0.793886904625429,not provided,not provided,3
+PairDice@8,RIGA-cup,CIMD,0.6781102674537235,not provided,not provided,3
+Unique@0.95,RIGA-cup,CIMD,7.933333333333334,not provided,not provided,3
+GED squared,RIGA-cup,CIMD,0.32520000824457135,not provided,not provided,3
+MLQ@8,BSDS,CIMD,0.3196495980024338,not provided,not provided,3
+Waste@8,BSDS,CIMD,0.279375,not provided,not provided,3
+Worst@8,BSDS,CIMD,0.11051851925544416,not provided,not provided,3
+AUC,BSDS,CIMD,0.2691778657177671,not provided,not provided,3
+PairDice@8,BSDS,CIMD,0.28591414731616777,not provided,not provided,3
+Unique@0.95,BSDS,CIMD,6.57,not provided,not provided,3
+GED squared,BSDS,CIMD,0.3054835697069171,not provided,not provided,3
+MLQ@8,IMA++,SAM2 AMG,0.3287041106230702,not provided,not provided,3
+Waste@8,IMA++,SAM2 AMG,0.8993620973912559,not provided,not provided,3
+Worst@8,IMA++,SAM2 AMG,0.3182683443331577,not provided,not provided,3
+AUC,IMA++,SAM2 AMG,0.27590863665699494,not provided,not provided,3
+PairDice@8,IMA++,SAM2 AMG,0.0225016852279324,not provided,not provided,3
+Unique@0.95,IMA++,SAM2 AMG,5.883089770354906,not provided,not provided,3
+raw AMG proposals per image,IMA++,SAM2 AMG,12.605427974947808,not provided,not provided,3
+native effective K,IMA++,SAM2 AMG,6.25678496868476,not provided,not provided,3
+full-pool oracle MLQ,IMA++,SAM2 AMG,0.34818604994445146,not provided,not provided,3
+full-pool oracle Worst,IMA++,SAM2 AMG,0.3377780430210912,not provided,not provided,3
+MLQ@8,LIDC,SAM2 AMG,0.3669088720120914,not provided,not provided,3
+Waste@8,LIDC,SAM2 AMG,0.9130551105134943,not provided,not provided,3
+Worst@8,LIDC,SAM2 AMG,0.34446431442632086,not provided,not provided,3
+AUC,LIDC,SAM2 AMG,0.25667548270969903,not provided,not provided,3
+PairDice@8,LIDC,SAM2 AMG,0.021157286531003,not provided,not provided,3
+Unique@0.95,LIDC,SAM2 AMG,4.9812734082397006,not provided,not provided,3
+raw AMG proposals per image,LIDC,SAM2 AMG,5.47191011235955,not provided,not provided,3
+native effective K,LIDC,SAM2 AMG,4.98876404494382,not provided,not provided,3
+full-pool oracle MLQ,LIDC,SAM2 AMG,0.36691552224301893,not provided,not provided,3
+full-pool oracle Worst,LIDC,SAM2 AMG,0.3444699478913504,not provided,not provided,3
+MLQ@8,LIDC-hard,SAM2 AMG,0.34515616326909093,not provided,not provided,3
+Waste@8,LIDC-hard,SAM2 AMG,0.9168268615025235,not provided,not provided,3
+Worst@8,LIDC-hard,SAM2 AMG,0.33563990382265785,not provided,not provided,3
+AUC,LIDC-hard,SAM2 AMG,0.23602168266921733,not provided,not provided,3
+PairDice@8,LIDC-hard,SAM2 AMG,0.016589599606517968,not provided,not provided,3
+Unique@0.95,LIDC-hard,SAM2 AMG,5.065694461813516,not provided,not provided,3
+raw AMG proposals per image,LIDC-hard,SAM2 AMG,5.510538641686183,not provided,not provided,3
+native effective K,LIDC-hard,SAM2 AMG,5.065573770491803,not provided,not provided,3
+MLQ@8,RIGA-disc,SAM2 AMG,0.13649331122991595,not provided,not provided,3
+Waste@8,RIGA-disc,SAM2 AMG,1,not provided,not provided,3
+Worst@8,RIGA-disc,SAM2 AMG,0.12945509474384878,not provided,not provided,3
+AUC,RIGA-disc,SAM2 AMG,0.12353528125586893,not provided,not provided,3
+PairDice@8,RIGA-disc,SAM2 AMG,0.065367545905557,not provided,not provided,3
+Unique@0.95,RIGA-disc,SAM2 AMG,3.14,not provided,not provided,3
+raw AMG proposals per image,RIGA-disc,SAM2 AMG,3.453333333333333,not provided,not provided,3
+native effective K,RIGA-disc,SAM2 AMG,3.453333333333333,not provided,not provided,3
+full-pool oracle MLQ,RIGA-disc,SAM2 AMG,0.13649331122991598,not provided,not provided,3
+full-pool oracle Worst,RIGA-disc,SAM2 AMG,0.12945509474384886,not provided,not provided,3
+MLQ@8,RIGA-cup,SAM2 AMG,0.10530178695751093,not provided,not provided,3
+Waste@8,RIGA-cup,SAM2 AMG,1,not provided,not provided,3
+Worst@8,RIGA-cup,SAM2 AMG,0.09265932397683778,not provided,not provided,3
+AUC,RIGA-cup,SAM2 AMG,0.09526181691695024,not provided,not provided,3
+PairDice@8,RIGA-cup,SAM2 AMG,0.065367545905557,not provided,not provided,3
+Unique@0.95,RIGA-cup,SAM2 AMG,3.14,not provided,not provided,3
+raw AMG proposals per image,RIGA-cup,SAM2 AMG,3.453333333333333,not provided,not provided,3
+native effective K,RIGA-cup,SAM2 AMG,3.453333333333333,not provided,not provided,3
+full-pool oracle MLQ,RIGA-cup,SAM2 AMG,0.10530178695751097,not provided,not provided,3
+full-pool oracle Worst,RIGA-cup,SAM2 AMG,0.09265932397683779,not provided,not provided,3
+MLQ@8,BSDS,SAM2 AMG,0.3043594132386109,not provided,not provided,3
+Waste@8,BSDS,SAM2 AMG,0.6040178593496481,not provided,not provided,3
+Worst@8,BSDS,SAM2 AMG,0.010881801719360701,not provided,not provided,3
+AUC,BSDS,SAM2 AMG,0.23804479630242223,not provided,not provided,3
+PairDice@8,BSDS,SAM2 AMG,0.0295033998612558,not provided,not provided,3
+Unique@0.95,BSDS,SAM2 AMG,6.474999999999999,not provided,not provided,3
+raw AMG proposals per image,BSDS,SAM2 AMG,13.17,not provided,not provided,3
+native effective K,BSDS,SAM2 AMG,6.895,not provided,not provided,3
+full-pool oracle MLQ,BSDS,SAM2 AMG,0.32592044590982067,not provided,not provided,3
+full-pool oracle Worst,BSDS,SAM2 AMG,0.017986635782772282,not provided,not provided,3
+latency ms/image,LIDC timing subset,Raw base-24,3.3952335696667433,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,Raw base-24,0.14341718957068889,not provided,not provided,1
+peak memory GiB,LIDC timing subset,Raw base-24,0.02173328399658203,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,Raw base-24,1094512,not provided,not provided,1
+total system parameter count,LIDC timing subset,Raw base-24,1094512,not provided,not provided,1
+latency ms/image,LIDC timing subset,Raw base-29,3.618456616997719,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,Raw base-29,0.1509272935000125,not provided,not provided,1
+peak memory GiB,LIDC timing subset,Raw base-29,0.026180267333984375,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,Raw base-29,1597162,not provided,not provided,1
+total system parameter count,LIDC timing subset,Raw base-29,1597162,not provided,not provided,1
+latency ms/image,LIDC timing subset,SSRB,45.23668950702995,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,SSRB,32.66966800647856,not provided,not provided,1
+peak memory GiB,LIDC timing subset,SSRB,0.3644537925720215,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,SSRB,1561219,not provided,not provided,1
+total system parameter count,LIDC timing subset,SSRB,87230851,not provided,not provided,1
+latency ms/image,LIDC timing subset,DINO Capacity-WTA,21.22342217154801,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,DINO Capacity-WTA,15.517818820879144,not provided,not provided,1
+peak memory GiB,LIDC timing subset,DINO Capacity-WTA,0.35944366455078125,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,DINO Capacity-WTA,466707,not provided,not provided,1
+total system parameter count,LIDC timing subset,DINO Capacity-WTA,86136339,not provided,not provided,1
+inference pass count,LIDC timing subset,DINO Capacity-WTA,1,not provided,not provided,1
+latency ms/image,LIDC timing subset,Probabilistic U-Net,11.569810999557376,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,Probabilistic U-Net,1.5928055400763985,not provided,not provided,1
+peak memory GiB,LIDC timing subset,Probabilistic U-Net,0.026896953582763672,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,Probabilistic U-Net,1790121,not provided,not provided,1
+total system parameter count,LIDC timing subset,Probabilistic U-Net,1790121,not provided,not provided,1
+inference pass count,LIDC timing subset,Probabilistic U-Net,8,not provided,not provided,1
+latency ms/image,LIDC timing subset,CIMD,57378.9669157695,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,CIMD,26.787962580859418,not provided,not provided,1
+peak memory GiB,LIDC timing subset,CIMD,0.9738984107971191,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,CIMD,88340058,not provided,not provided,1
+total system parameter count,LIDC timing subset,CIMD,88340058,not provided,not provided,1
+inference pass count,LIDC timing subset,CIMD,8000,not provided,not provided,1
+latency ms/image,LIDC timing subset,SAM2 AMG,1549.365583827719,not provided,not provided,1
+latency standard deviation ms/image,LIDC timing subset,SAM2 AMG,70.1057902048216,not provided,not provided,1
+peak memory GiB,LIDC timing subset,SAM2 AMG,2.9362330436706543,not provided,not provided,1
+task-specific parameter count,LIDC timing subset,SAM2 AMG,0,not provided,not provided,1
+total system parameter count,LIDC timing subset,SAM2 AMG,224446642,not provided,not provided,1
+inference pass count,LIDC timing subset,SAM2 AMG,16,not provided,not provided,1
+submitted MLQ@8,LIDC,Submitted DMB-WTA,0.9162504208296276,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,LIDC,Corrected DMB-WTA,0.8234731918235731,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,LIDC,Correction DMB-WTA,-0.09277722900605445,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,LIDC,Submitted DMB-RN,0.937003255932221,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,LIDC,Corrected DMB-RN,0.8363218063297144,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,LIDC,Correction DMB-RN,-0.10068144960250658,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,LIDC-hard,Submitted DMB-WTA,0.8713738391096374,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,LIDC-hard,Corrected DMB-WTA,0.7840992069621688,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,LIDC-hard,Correction DMB-WTA,-0.08727463214746856,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,LIDC-hard,Submitted DMB-RN,0.9010588357704802,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,LIDC-hard,Corrected DMB-RN,0.8009127665191264,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,LIDC-hard,Correction DMB-RN,-0.10014606925135383,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,IMA++,Submitted DMB-WTA,0.9198690088324524,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,IMA++,Corrected DMB-WTA,0.8977595185478612,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,IMA++,Correction DMB-WTA,-0.022109490284591193,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,IMA++,Submitted DMB-RN,0.919564046795242,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,IMA++,Corrected DMB-RN,0.8986767603780507,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,IMA++,Correction DMB-RN,-0.020887286417191286,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,BSDS,Submitted DMB-WTA,0.5505002401272456,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,BSDS,Corrected DMB-WTA,0.5434904540578525,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,BSDS,Correction DMB-WTA,-0.007009786069393176,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+submitted MLQ@8,BSDS,Submitted DMB-RN,0.5373235381146272,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected MLQ@8,BSDS,Corrected DMB-RN,0.5294010547051827,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+corrected minus submitted MLQ@8,BSDS,Correction DMB-RN,-0.007922483409444459,not provided,not provided,submitted 3 visible; corrected 3 visible x 3 optimizer where applicable
+MLQ@8 difference,LIDC,RN minus WTA,0.012848614506141326,0.004896306538249694,0.019195651334648914,9
+MLQ@8 difference,LIDC-hard,RN minus WTA,0.015762828167579655,0.007839918684265423,0.0222961093878365,9
+MLQ@8 difference,LIDC,RN minus Soft-WTA (.05),0.00627160646777896,0.0027562025460384125,0.011040926876608063,9
+MLQ@8 difference,LIDC-hard,RN minus Soft-WTA (.05),0.009735535958316176,0.003712289443473359,0.017626958844831748,9
+MLQ@8 difference,LIDC,RN minus Capacity-WTA,0.0038683004444755717,0.0005904674210857579,0.007869759144672193,9
+MLQ@8 difference,LIDC-hard,RN minus Capacity-WTA,0.004701672370235125,0.0007276293601953372,0.00939584843640043,9
+Waste@8 difference,LIDC-hard,RN minus Capacity-WTA,0.027821180555555554,0.010438472237728405,0.051109205803059415,9
+MLQ@8 difference,IMA++,RN minus WTA,0.0009172418301895249,-0.00014154036641483833,0.0019229433483074086,3
+MLQ@8 difference,RIGA-disc,RN minus WTA,0.009986701276567247,0.008846675826443565,0.011118522008260091,3
+MLQ@8 difference,RIGA-cup,RN minus WTA,0.016732985178629558,0.015184497101439367,0.01834969060288535,3
+MLQ@8 difference,BSDS,RN minus WTA,-0.014089399352669715,-0.019412568939228853,-0.008609733001639445,3
+MLQ@8 difference,IMA++,RN minus Soft-WTA (.05),0.0007947791048903058,-0.00037844028361478705,0.002061511783114658,3
+MLQ@8 difference,RIGA-disc,RN minus Soft-WTA (.05),0.008679329951604208,0.007767796973387402,0.009633699258168536,3
+MLQ@8 difference,RIGA-cup,RN minus Soft-WTA (.05),0.01840072393417358,0.016385296510325536,0.02062836903333664,3
+MLQ@8 difference,BSDS,RN minus Soft-WTA (.05),-0.010614800577362377,-0.015702640946954487,-0.005373583619793257,3
+MLQ@8 difference,RIGA-disc,RN minus Capacity-WTA,0.0030078699853685166,0.0019901039501031242,0.003964234547482595,3
+MLQ@8 difference,RIGA-cup,RN minus Capacity-WTA,0.000721804565853543,0.0002480049398210314,0.0012357959482404918,3
+MLQ@8 difference,Mean of LIDC-hard and BSDS,Capacity-anchored support-weighted sharing minus shuffled,-0.002285130738617025,-0.004790755434424472,0.00045580415209768425,9
+MLQ@8 difference,Mean of LIDC-hard and BSDS,Support-weighted sharing minus shuffled,-0.0036495955513478617,-0.006575227983173874,-0.0006737143515270496,9
+train task count,IMA++,Corrected protocol manifest,1675,not provided,not provided,1
+train source count,IMA++,Corrected protocol manifest,1675,not provided,not provided,1
+val task count,IMA++,Corrected protocol manifest,240,not provided,not provided,1
+val source count,IMA++,Corrected protocol manifest,240,not provided,not provided,1
+test task count,IMA++,Corrected protocol manifest,479,not provided,not provided,1
+test source count,IMA++,Corrected protocol manifest,479,not provided,not provided,1
+train task count,LIDC,Corrected protocol manifest,1378,not provided,not provided,1
+train source count,LIDC,Corrected protocol manifest,583,not provided,not provided,1
+val task count,LIDC,Corrected protocol manifest,233,not provided,not provided,1
+val source count,LIDC,Corrected protocol manifest,105,not provided,not provided,1
+test task count,LIDC,Corrected protocol manifest,267,not provided,not provided,1
+test source count,LIDC,Corrected protocol manifest,107,not provided,not provided,1
+train task count,RIGA-disc,Corrected protocol manifest,471,not provided,not provided,1
+train source count,RIGA-disc,Corrected protocol manifest,471,not provided,not provided,1
+val task count,RIGA-disc,Corrected protocol manifest,123,not provided,not provided,1
+val source count,RIGA-disc,Corrected protocol manifest,123,not provided,not provided,1
+test task count,RIGA-disc,Corrected protocol manifest,150,not provided,not provided,1
+test source count,RIGA-disc,Corrected protocol manifest,150,not provided,not provided,1
+train task count,RIGA-cup,Corrected protocol manifest,471,not provided,not provided,1
+train source count,RIGA-cup,Corrected protocol manifest,471,not provided,not provided,1
+val task count,RIGA-cup,Corrected protocol manifest,123,not provided,not provided,1
+val source count,RIGA-cup,Corrected protocol manifest,123,not provided,not provided,1
+test task count,RIGA-cup,Corrected protocol manifest,150,not provided,not provided,1
+test source count,RIGA-cup,Corrected protocol manifest,150,not provided,not provided,1
+train task count,BSDS-derived,Corrected protocol manifest,199,not provided,not provided,1
+train source count,BSDS-derived,Corrected protocol manifest,199,not provided,not provided,1
+val task count,BSDS-derived,Corrected protocol manifest,100,not provided,not provided,1
+val source count,BSDS-derived,Corrected protocol manifest,100,not provided,not provided,1
+test task count,BSDS-derived,Corrected protocol manifest,200,not provided,not provided,1
+test source count,BSDS-derived,Corrected protocol manifest,200,not provided,not provided,1
+base,all endpoints,SSRB residual branch,24,not provided,not provided,1
+batch size,all endpoints,SSRB residual branch,12,not provided,not provided,1
+epochs,all endpoints,SSRB residual branch,80,not provided,not provided,1
+heads,all endpoints,SSRB residual branch,8,not provided,not provided,1
+image size,all endpoints,SSRB residual branch,128,not provided,not provided,1
+lr,all endpoints,SSRB residual branch,0.001,not provided,not provided,1
+patience,all endpoints,SSRB residual branch,12,not provided,not provided,1
+q loss weight,all endpoints,SSRB residual branch,0.3,not provided,not provided,1
+batch size,all endpoints,DINO Capacity-WTA anchor,32,not provided,not provided,1
+dropout,all endpoints,DINO Capacity-WTA anchor,0,not provided,not provided,1
+epochs,all endpoints,DINO Capacity-WTA anchor,40,not provided,not provided,1
+hidden,all endpoints,DINO Capacity-WTA anchor,256,not provided,not provided,1
+lr,all endpoints,DINO Capacity-WTA anchor,0.0003,not provided,not provided,1
+pair diversity weight,all endpoints,DINO Capacity-WTA anchor,0,not provided,not provided,1
+patience,all endpoints,DINO Capacity-WTA anchor,8,not provided,not provided,1
+q loss weight,all endpoints,DINO Capacity-WTA anchor,0.3,not provided,not provided,1
+queries,all endpoints,DINO Capacity-WTA anchor,8,not provided,not provided,1
+weight decay,all endpoints,DINO Capacity-WTA anchor,0.0001,not provided,not provided,1
+bootstrap resample count,all endpoints,Statistical protocol,10000,not provided,not provided,1
+Waste Dice threshold,all endpoints,Statistical protocol,0.3,not provided,not provided,1
+duplicate Dice threshold,all endpoints,Statistical protocol,0.95,not provided,not provided,1
+MLQ@3 (native),BSDS,Single-generated-point SAM2 (learned localization),0.18002532859349837,not provided,not provided,3
+MLQ@3 (native),IMA++,Single-generated-point SAM2 (learned localization),0.7459847614834721,not provided,not provided,3
+MLQ@3 (native),LIDC,Single-generated-point SAM2 (learned localization),0.833428720837824,not provided,not provided,3
+MLQ@3 (native),LIDC-hard,Single-generated-point SAM2 (learned localization),0.7801437457378252,not provided,not provided,3
+MLQ@3 (native),RIGA-cup,Single-generated-point SAM2 (learned localization),0.6352532385289669,not provided,not provided,3
+MLQ@3 (native),RIGA-disc,Single-generated-point SAM2 (learned localization),0.7314411131209798,not provided,not provided,3
+MLQ@8,BSDS,Frozen DINO Capacity-WTA,0.5408428969068659,not provided,not provided,9
+Waste@8,BSDS,Frozen DINO Capacity-WTA,0.1773611111111111,not provided,not provided,9
+MLQ@1,BSDS,Frozen DINO Capacity-WTA,0.14566425504801173,not provided,not provided,9
+AUC,BSDS,Frozen DINO Capacity-WTA,0.3822300889855226,not provided,not provided,9
+Unique95,BSDS,Frozen DINO Capacity-WTA,7.989444444444445,not provided,not provided,9
+MLQ@8,BSDS,Last-block DINO Capacity-WTA,0.5420421010504166,not provided,not provided,9
+Waste@8,BSDS,Last-block DINO Capacity-WTA,0.17513888888888887,not provided,not provided,9
+MLQ@1,BSDS,Last-block DINO Capacity-WTA,0.14549874998830595,not provided,not provided,9
+AUC,BSDS,Last-block DINO Capacity-WTA,0.3845863669747645,not provided,not provided,9
+Unique95,BSDS,Last-block DINO Capacity-WTA,7.990555555555555,not provided,not provided,9
+MLQ@8,BSDS,SSRB,0.5414111005266508,not provided,not provided,9
+Waste@8,BSDS,SSRB,0.17256944444444444,not provided,not provided,9
+MLQ@1,BSDS,SSRB,0.14735408781950052,not provided,not provided,9
+AUC,BSDS,SSRB,0.38294106878661194,not provided,not provided,9
+Unique95,BSDS,SSRB,7.991666666666666,not provided,not provided,9
+MLQ@8,LIDC,Frozen DINO Capacity-WTA,0.8324535058852389,not provided,not provided,9
+Waste@8,LIDC,Frozen DINO Capacity-WTA,0.06949646275488972,not provided,not provided,9
+MLQ@1,LIDC,Frozen DINO Capacity-WTA,0.7122829531235532,not provided,not provided,9
+AUC,LIDC,Frozen DINO Capacity-WTA,0.7994502654204041,not provided,not provided,9
+Unique95,LIDC,Frozen DINO Capacity-WTA,5.22555139409072,not provided,not provided,9
+MLQ@8,LIDC,Last-block DINO Capacity-WTA,0.8327946918510766,not provided,not provided,9
+Waste@8,LIDC,Last-block DINO Capacity-WTA,0.07542655014565126,not provided,not provided,9
+MLQ@1,LIDC,Last-block DINO Capacity-WTA,0.7050281624132213,not provided,not provided,9
+AUC,LIDC,Last-block DINO Capacity-WTA,0.7973233560189508,not provided,not provided,9
+Unique95,LIDC,Last-block DINO Capacity-WTA,5.261756138160633,not provided,not provided,9
+MLQ@8,LIDC,SSRB,0.8932238377373366,not provided,not provided,9
+Waste@8,LIDC,SSRB,0.042707032875572204,not provided,not provided,9
+MLQ@1,LIDC,SSRB,0.783466244064201,not provided,not provided,9
+AUC,LIDC,SSRB,0.8631840664156044,not provided,not provided,9
+Unique95,LIDC,SSRB,5.469829379941739,not provided,not provided,9
+MLQ@8,LIDC-hard,Frozen DINO Capacity-WTA,0.8015821556664176,not provided,not provided,9
+Waste@8,LIDC-hard,Frozen DINO Capacity-WTA,0.07612847222222222,not provided,not provided,9
+MLQ@1,LIDC-hard,Frozen DINO Capacity-WTA,0.6775031181929484,not provided,not provided,9
+AUC,LIDC-hard,Frozen DINO Capacity-WTA,0.765633775741642,not provided,not provided,9
+Unique95,LIDC-hard,Frozen DINO Capacity-WTA,5.253472222222222,not provided,not provided,9
+MLQ@8,LIDC-hard,Last-block DINO Capacity-WTA,0.8018189805249373,not provided,not provided,9
+Waste@8,LIDC-hard,Last-block DINO Capacity-WTA,0.08177083333333333,not provided,not provided,9
+MLQ@1,LIDC-hard,Last-block DINO Capacity-WTA,0.6641917907778406,not provided,not provided,9
+AUC,LIDC-hard,Last-block DINO Capacity-WTA,0.762781667082648,not provided,not provided,9
+Unique95,LIDC-hard,Last-block DINO Capacity-WTA,5.295486111111112,not provided,not provided,9
+MLQ@8,LIDC-hard,SSRB,0.8614440172289809,not provided,not provided,9
+Waste@8,LIDC-hard,SSRB,0.045182291666666666,not provided,not provided,9
+MLQ@1,LIDC-hard,SSRB,0.7340340964888229,not provided,not provided,9
+AUC,LIDC-hard,SSRB,0.8245510175345974,not provided,not provided,9
+Unique95,LIDC-hard,SSRB,5.669097222222222,not provided,not provided,9
+MLQ@8 difference,LIDC,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.0003411859658376596,-0.0018693822867099808,0.0025517542183853,9 paired per method
+Waste@8 difference,LIDC,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.005930087390761548,-0.0006998229999412159,0.012559997781464311,9 paired per method
+MLQ@1 difference,LIDC,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,-0.007254790710331814,-0.019619157228875188,0.004020722101825468,9 paired per method
+AUC difference,LIDC,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,-0.002126909401453314,-0.005836613997456083,0.0014713063190744178,9 paired per method
+Unique95 difference,LIDC,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.03620474406991261,-0.04646790485500165,0.11278195488721802,9 paired per method
+MLQ@8 difference,LIDC-hard,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.0002368248585197646,-0.0029355140782093927,0.0034091637952489216,9 paired per method
+Waste@8 difference,LIDC-hard,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.005642361111111113,-0.0036955955953972943,0.01498031781761952,9 paired per method
+MLQ@1 difference,LIDC-hard,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,-0.013311327415107776,-0.029459302110771718,0.0010551205541159717,9 paired per method
+AUC difference,LIDC-hard,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,-0.0028521086589939322,-0.007205355762732055,0.0015350972502377847,9 paired per method
+Unique95 difference,LIDC-hard,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.04201388888888888,-0.04109627092846273,0.12919988271299504,9 paired per method
+MLQ@8 difference,BSDS,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.0011992041435506643,-0.00166302452884568,0.004061432815947009,9 paired per method
+Waste@8 difference,BSDS,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,-0.0022222222222222227,-0.006830270187063341,0.0023858257426188955,9 paired per method
+MLQ@1 difference,BSDS,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,-0.0001655050597057405,-0.0034029688960324884,0.0024548341652883498,9 paired per method
+AUC difference,BSDS,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.0023562779892419413,-0.0001947613170688477,0.005707381457615207,9 paired per method
+Unique95 difference,BSDS,Last-block DINO Capacity-WTA minus Frozen DINO Capacity-WTA,0.00111111111111111,-0.00222222222222222,0.006666666666666661,9 paired per method
+MLQ@8 difference,LIDC,SSRB minus Last-block DINO Capacity-WTA,0.06042914588626008,0.05215339229117744,0.06870489948134273,9 paired per method
+Waste@8 difference,LIDC,SSRB minus Last-block DINO Capacity-WTA,-0.032719517270079074,-0.044268086375283074,-0.021170948164875074,9 paired per method
+MLQ@1 difference,LIDC,SSRB minus Last-block DINO Capacity-WTA,0.0784380816509796,0.0635442292813786,0.09418358401356418,9 paired per method
+AUC difference,LIDC,SSRB minus Last-block DINO Capacity-WTA,0.06586071039665355,0.05836916608752349,0.07371399398959051,9 paired per method
+Unique95 difference,LIDC,SSRB minus Last-block DINO Capacity-WTA,0.20807324178110698,-0.039566531533474184,0.4524230123531032,9 paired per method
+MLQ@8 difference,LIDC-hard,SSRB minus Last-block DINO Capacity-WTA,0.059625036704043545,0.04974060764572097,0.06950946576236612,9 paired per method
+Waste@8 difference,LIDC-hard,SSRB minus Last-block DINO Capacity-WTA,-0.03658854166666667,-0.05455214918221953,-0.018624934151113805,9 paired per method
+MLQ@1 difference,LIDC-hard,SSRB minus Last-block DINO Capacity-WTA,0.06984230571098224,0.05188627688168968,0.08898321109195094,9 paired per method
+AUC difference,LIDC-hard,SSRB minus Last-block DINO Capacity-WTA,0.061769350451949215,0.05253929504222643,0.07109457406447633,9 paired per method
+Unique95 difference,LIDC-hard,SSRB minus Last-block DINO Capacity-WTA,0.3736111111111111,0.09362060778727448,0.6583182038247398,9 paired per method
+MLQ@8 difference,BSDS,SSRB minus Last-block DINO Capacity-WTA,-0.0006310005237658848,-0.005188605201912984,0.0039266041543812155,9 paired per method
+Waste@8 difference,BSDS,SSRB minus Last-block DINO Capacity-WTA,-0.002569444444444445,-0.010233126741041734,0.0050942378521528445,9 paired per method
+MLQ@1 difference,BSDS,SSRB minus Last-block DINO Capacity-WTA,0.001855337831194548,-0.0037120854642398618,0.0087080028582762,9 paired per method
+AUC difference,BSDS,SSRB minus Last-block DINO Capacity-WTA,-0.0016452981881525382,-0.005027121628007567,0.0015096882481574648,9 paired per method
+Unique95 difference,BSDS,SSRB minus Last-block DINO Capacity-WTA,0.00111111111111111,-0.006111111111111105,0.009999999999999992,9 paired per method

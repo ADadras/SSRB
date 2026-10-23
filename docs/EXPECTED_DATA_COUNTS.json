@@ -1,0 +1,8 @@
+{
+  "bsds": {"train": 199, "val": 100, "test": 200},
+  "ima": {"train": 1675, "val": 240, "test": 479},
+  "lidc": {"train": 1378, "val": 233, "test": 267, "train_patients": 583, "val_patients": 105, "test_patients": 107, "max_z_mm": 1.5},
+  "riga_disc": {"train": 471, "val": 123, "test": 150, "validation_fraction": 0.2},
+  "riga_cup": {"train": 471, "val": 123, "test": 150, "validation_fraction": 0.2},
+  "note": "Expected counts after the paper's dataset preparation. LIDC-hard is derived during final evaluation. Counts alone do not establish split or image identity."
+}

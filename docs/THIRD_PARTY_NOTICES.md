@@ -1,0 +1,12 @@
+# Third-party materials
+
+The MIT license applies to the authors' SSRB code. External datasets, pretrained models and baseline implementations retain their own terms. Full datasets, pretrained models and trained checkpoints must be obtained separately. The README illustration contains one LIDC crop and annotation overlays under CC BY 3.0; see [figure attribution](../figures/README.md).
+
+- **DINOv3:** obtain the [official source](https://github.com/facebookresearch/dinov3), commit `54694f7627fd815f62a5dcc82944ffa6153bbb76`, and ViT-B/16 LVD-1689M weights under Meta's [license](https://github.com/facebookresearch/dinov3/blob/main/LICENSE.md). The source and weights are not relicensed here.
+- **DINOv2:** obtain the [official source](https://github.com/facebookresearch/dinov2), commit `7764ea0f912e53c92e82eb78a2a1631e92725fc8`, and ViT-S/14 weights under their stated terms. COMPARISONS.md gives the weight fingerprint.
+- **CIMD:** the [upstream diffusion code](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models), commit `a9677afe4eedb163db478cd01ea8228161448b33`, is external and licensed under Apache 2.0. The bundled adapter uses one fixed annotation per image, optimizes and saves the ambiguity networks, preserves clean-mask conditioning and samples eight masks with 1000 reverse steps. RGB conditioning uses luminance repeated into four channels. See COMPARISONS.md for the adaptation and loss.
+- **SAM2:** obtain the [official source](https://github.com/facebookresearch/sam2), commit `2b90b9f5ceec907a1c18123530e92e794ad901a4`, and SAM2.1 Hiera-Large weights separately. Review the code, checkpoint and dependency terms. The adapter ranks automatic proposals by predicted IoU, stability and input order, and retains up to eight.
+- **Probabilistic U-Net:** the implementation used for the paper's comparison is included. It uses visible-mask reconstruction and KL loss, a 128-pixel U-Net, base width 24 and latent dimension 8. It is distinct from the upstream Probabilistic U-Net software package.
+- **Dependencies:** PyTorch, torchvision, NumPy, SciPy, Pillow and optional packages are installed from their upstream distributions under their respective licenses; they are not vendored here.
+- **Datasets:** obtain the releases and annotations listed in DATASETS.md under their own access, citation and redistribution terms.
+- **Test fixtures:** model and metric fixtures use synthetic inputs and contain no medical data or external model weights.

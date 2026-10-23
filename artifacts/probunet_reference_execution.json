@@ -1,0 +1,68 @@
+{
+  "compute_capability": [
+    12,
+    0
+  ],
+  "configuration": {
+    "base": 24,
+    "batch_size": 12,
+    "beta": 0.01,
+    "epochs": 80,
+    "image_size": 128,
+    "latent_dim": 8,
+    "lr": 0.001,
+    "patience": 12,
+    "workers": 4
+  },
+  "cublas_workspace_config": ":4096:8",
+  "cuda": "12.8",
+  "cuda_library_sha256": {
+    "cublas/libcublas.so.12": "031ce6c2cbfbb9468f040527cab5c599069ce5609e73e28f87503881063eac21",
+    "cublas/libcublasLt.so.12": "10b5e6631cf8115c661eb895ed1533826308b58f7956466f53d236a40c9b622c",
+    "cublas/libnvblas.so.12": "9d244820d32966f0af47afe6c9ee6f34b230fafe87ea0141dc71241a5d2b340c",
+    "cudnn/libcudnn.so.9": "3b68ea689be647bce63cb3c2d9edb589add415405a7e9f296d69ca029cae0b8b",
+    "cudnn/libcudnn_adv.so.9": "9814d64e04fce1f6cbd16d02ccefd6611541b3c61736fb450e334b482635ca07",
+    "cudnn/libcudnn_cnn.so.9": "655c2d2649466c73b6b4c19705fb6906fd95e331a1f8218314b49f37dd7cafed",
+    "cudnn/libcudnn_engines_precompiled.so.9": "f504745d346542609f975de51227080647d3675eac576ead82c396b8124f8f28",
+    "cudnn/libcudnn_engines_runtime_compiled.so.9": "8222672743c4f2e39feb1c365d6f6b6c40f56023471506f49944910847f1ee0a",
+    "cudnn/libcudnn_graph.so.9": "787c955dce49091ead850e4536666594095ea9f92a8a08879d8ddad466674657",
+    "cudnn/libcudnn_heuristic.so.9": "2804eee5f6fc11d0299ba07687eda0a974d3b2436357c639706c4e282cc2cc05",
+    "cudnn/libcudnn_ops.so.9": "34f56d67f3df108949d1e5e03543064e055e217d0f5e53dc6d4f7c9454d852f8"
+  },
+  "cuda_packages": {
+    "nvidia-cublas-cu12": "12.8.4.1",
+    "nvidia-cuda-runtime-cu12": "12.8.90",
+    "nvidia-cudnn-cu12": "9.10.2.21"
+  },
+  "cudnn": 91002,
+  "cudnn_allow_tf32": true,
+  "cudnn_benchmark": false,
+  "cudnn_deterministic": true,
+  "deterministic_algorithms": true,
+  "driver_versions": [
+    "595.91.07"
+  ],
+  "endpoints": [
+    "bsds",
+    "lidc",
+    "ima",
+    "riga_disc",
+    "riga_cup"
+  ],
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "inference_batch_size": 12,
+  "matmul_allow_tf32": false,
+  "mkl_threads": 8,
+  "name": "probunet-fixed-rtx6000-deterministic-v1",
+  "omp_threads": 8,
+  "optimizer_seed": 0,
+  "purpose": "Execution settings for repeatable Prob-U training.",
+  "python": "3.12.12",
+  "sampling_seed": 3470,
+  "torch": "2.9.1+cu128",
+  "visible_seeds": [
+    0,
+    1,
+    2
+  ]
+}

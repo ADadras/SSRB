@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ssrb-segmentation"
+version = "0.1.0"
+description = "Semantic-Spatial Residual Banks for segmentation from one annotation per image"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+dependencies = ["torch==2.9.1", "torchvision==0.24.1", "numpy==2.2.6", "scipy==1.16.3", "Pillow==11.3.0"]
+
+[project.optional-dependencies]
+cimd = ["blobfile==3.0.0", "matplotlib==3.10.7"]
+test = ["pytest==9.0.2", "ruff==0.14.1"]
+analysis = ["pandas==2.3.3", "matplotlib==3.10.7"]
+backbone = ["torchmetrics==1.8.2", "omegaconf==2.3.0", "termcolor==3.3.0", "scikit-learn==1.9.1", "submitit==1.5.4", "regex==2026.9.29", "ftfy==6.3.1"]
+datasets = ["pandas==2.3.3", "pyarrow==22.0.0", "pydicom==3.0.1"]
+
+[project.scripts]
+ssrb = "ssrb.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82"]

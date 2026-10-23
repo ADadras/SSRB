@@ -1,0 +1,15 @@
+# Data and selection protocol
+
+Each task has a fixed ordered list of masks. For visible seed v, its visible index is `(int(sha1(image_id)[:8],16)+v) % number_of_masks`. The optimizer seed is separate. The same visible mask is used on every epoch. Train/validation/test splits are fixed before this choice.
+
+`make-visible-manifests` reads the authorized preprocessing manifest, checks source separation, and creates three directories. `trainer/` contains train/validation images and one mask per task. `inference/` contains test images. `evaluator/` contains test reference masks. No alternative training annotations are copied to the trainer directory. LIDC patients and RIGA source fundus images define the relevant source groups; RIGA disc/cup are fitted separately.
+
+Training accepts an exact column schema and relative paths constrained to the trainer root. It rejects extra annotation columns, test rows, duplicate IDs, source overlap and paths that escape through `..` or symlinks. Feature imports strip metadata and retain only features, image IDs and grid size. The input seal hashes images, visible masks, feature files and the visible manifest. Hashes are checked before/after training; the manifest is checked each epoch.
+
+With `--isolate`, a separate CLI process applies Linux Landlock before importing the training stack. Its read permissions cover the trainer data, new output directory, explicit config/anchor files and Python/system runtime directories. Evaluator data outside these roots are not readable. This is a restriction on data reads, not a sandbox for arbitrary untrusted code or network activity. Place the trainer data in a dedicated directory and use a clean environment.
+
+Semantic training uses Hungarian assignments with floor/ceiling head capacities and rotating remainder heads. It starts capacity assignment on epoch 1. Validation uses the lowest-cost head independently for each image. Semantic checkpoints become eligible after epoch 4; improvements require more than 1e-12. Residual checkpoints are eligible on epoch 1 and use strict improvement. Earlier ties win. The residual trainer reproduces the original initial validation forward, including its batch-normalization state update.
+
+The evaluator verifies a saved prediction hash before opening reference masks. It interpolates sigmoid probabilities to the original annotation grid with bilinear interpolation, `align_corners=False`, and thresholds at 0.5. Reference masks are never resized. LIDC-hard selects individual references with visible/reference Dice below 0.80 within this evaluation process.
+
+The accepted representation-comparison bootstrap is preserved in `legacy_statistics.py` for exact parity. It averages visible choices per image/optimizer seed, then draws optimizer seeds and source clusters. Its draws treat LIDC and LIDC-hard separately. The helper in `statistics.py` shares patient draws between them and fundus draws between RIGA tasks; it is tested for that stronger grouping requirement. It must not silently replace the published intervals. Shared-draw intervals use a different resampling procedure.
